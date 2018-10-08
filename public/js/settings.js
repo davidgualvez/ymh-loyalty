@@ -7,7 +7,9 @@ $(document).ready(function () {
 //global variable for all page
 var api = $('#api_url').val();
 var routes = {
-    login: '/api/user/login',
+    login:          '/api/user/login',
+    transactions:   '/api/user/earned_points_history',
+    userInfo:       '/api/user/user_info'
 };
 
 //
