@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg navbar-light bg-light bs-mat2 fixed-top mb-3">
+<nav class="navbar navbar-expand-lg navbar-light bg-light bs-mat2 mb-1">
 	<a class="navbar-brand" href="#">
 		<img src="/assets/yamahaLogoMini.png" alt="" class="img-fluid">
 	</a>

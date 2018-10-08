@@ -45,13 +45,13 @@
 			</div>
 		</div>
 	</div>
-	<div class="bg-light py-4">
+	<div class="bg-light p-2">
 		<div class="container">
 			<div class="row ">
-				<div class="col-md-4">
+				<div class="col-md-4 p-0">
 					<p>&copy;2018 Yamaha Club I All Rights Reserved</p>
 				</div>
-				<div class="col-md-4 social-10x text-center">
+				<div class="col-md-4 social-10x text-center p-0">
 					Follow us: 
 					<span>
 						<img src="/assets/fb.png" class="img-fluid social-10x" style="">
@@ -64,11 +64,9 @@
 					</span>
 					<span>
 						<img src="/assets/youtube.png" class="img-fluid social-10x" style="">
-					</span>
-
-
+					</span> 
 				</div>
-				<div class="col-md-4 text-right">
+				<div class="col-md-4 text-right p-0">
 					<p>Powered By: Yamaha Motor Philippines Inc.</p>
 				</div>
 			</div>
