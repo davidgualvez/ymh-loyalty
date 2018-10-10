@@ -18,7 +18,7 @@
 @endsection
 
 @section('content')
-<div class="container-fluid pt-5" style="margin-top: 63px; background: rgb(242,242,242); ">
+<div class="container-fluid pt-5" style="background: rgb(242,242,242); ">
 	<h3 class="text-center mb-4" >SHIPMENT</h3> 
 	<div class="row">
 		<div class="col-md-8 col-sm-7">

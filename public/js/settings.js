@@ -2,14 +2,19 @@ $(document).ready(function () {
     $('#logout').on('click', function () {
         logout();
     });
+
 });
 
 //global variable for all page
 var api = $('#api_url').val();
 var routes = {
-    login:          '/api/user/login',
-    transactions:   '/api/user/earned_points_history',
-    userInfo:       '/api/user/user_info'
+    login:                  '/api/user/login',
+    forgot_password:        '/api/user/forgot_password',
+    transactions:           '/api/user/earned_points_history',
+    userInfo:               '/api/user/user_info',
+    rewards:                '/api/reward/index',
+    reward:                 '/api/reward/show', //{id} append the id of reward
+    rewards_manufacturer:   '/api/reward/manufacturer'
 };
 
 //
@@ -133,4 +138,16 @@ function showError(title, message, callback) {
             callback();
         }
     });
+}
+
+function getParams(id){
+    var urlParams = new URLSearchParams(window.location.search);
+    var x = urlParams.get(id); //getting the value from url parameter
+    return x; 
+}
+
+
+function validateEmail(email) {
+    var re = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+    return re.test(String(email).toLowerCase());
 }

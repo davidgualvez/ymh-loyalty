@@ -33,9 +33,10 @@
 	<input type="text" id="api_url" value="{{config('app.api_url')}}" hidden="">
 
 	{{-- JS --}}
-	<script src="/js/app.js"></script>
+	<script src="/js/app.js"></script>  
 	<script src="/js/bootstrap.min.js"></script>
 	<script src="/js/plugins/iziToast.min.js"></script>
+	<script src="/js/plugins/pace.min.js"></script>
 	<script src="/js/settings.js"></script>
 	<!-- custom scripts -->
 	@yield('custom_js')

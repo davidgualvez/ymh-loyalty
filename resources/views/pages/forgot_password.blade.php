@@ -4,12 +4,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="csrf-token" content="{{ csrf_token() }}">
     <link rel="shortcut icon" href="/assets/favicon.png" type="image/x-icon">
     <title>{{ config('app.name') }}</title>
 
     <!-- global css -->
     <link rel="stylesheet" href="/css/app.css">
     <link rel="stylesheet" href="/css/all.css">
+    <link rel="stylesheet" href="/css/plugins/iziToast.min.css">
     <link rel="stylesheet" href="/css/pages/forgot_password.css">
 </head>
 <body>
@@ -36,29 +38,29 @@
                         <div class="form-group row">
                             <label class="col-md-3 text-right" for="x">Engine Number</label>
                             <div class="col-md-9">
-                                <input type="text" class="form-control " id="card_number" aria-describedby="card_number" placeholder="Enter Engine Number">
+                                <input type="text" class="form-control " id="engine_number" aria-describedby="card_number" placeholder="Enter Engine Number">
                             </div>  
                         </div>
                         <div class="form-group row">
                             <label class="col-md-3 text-right" for="x">Chassis Number</label>
                             <div class="col-md-9">
-                                <input type="text" class="form-control " id="card_number" aria-describedby="card_number" placeholder="Enter Chassis Number">
+                                <input type="text" class="form-control " id="chassis_number" aria-describedby="card_number" placeholder="Enter Chassis Number">
                             </div>  
                         </div>
                         <div class="form-group row">
                             <label class="col-md-3 text-right" for="x">Email Adress</label>
                             <div class="col-md-9">
-                                <input type="text" class="form-control " id="card_number" aria-describedby="card_number" placeholder="Enter Email Adress">
+                                <input type="email" class="form-control " id="email_address" aria-describedby="card_number" placeholder="Enter Email Adress">
                             </div>  
                         </div>
                         <div class="form-group row">
                             <label class="col-md-3 text-right" for="x">New Password</label>
                             <div class="col-md-9">
-                                <input type="text" class="form-control " id="card_number" aria-describedby="card_number" placeholder="Enter New Password">
+                                <input type="password" class="form-control " id="new_password" aria-describedby="card_number" placeholder="Enter New Password">
                             </div>  
                         </div>
                         <div class="form-group">
-                            <button class="btn btn-primary float-right">Submit</button>   
+                            <button id="btn_submit" class="btn btn-primary float-right">Submit</button>   
                         </div>
                         
                     </div>
@@ -72,7 +74,9 @@
     {{-- global js --}}
     <script src="/js/app.js"></script>
     <script src="/js/bootstrap.min.js"></script>
-    <script> 
-    </script>
+    <script src="/js/plugins/iziToast.min.js"></script>
+    <script src="/js/settings.js"></script>
+    {{-- custom js --}}
+    <script src="/js/pages/forgot-password.js"></script>
 </body>
 </html>

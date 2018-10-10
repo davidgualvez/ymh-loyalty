@@ -3,230 +3,134 @@
 
 @section('custom_css')
 <style>
-@media(min-width: 992px ){
-	#filter{
-		display: none;
+	.item{ 
+		text-align: center;
+		 padding : 0px 0px 10px 0px; 
+		box-shadow: 0px 0px 3px 0px #bdbdbd;
 	}
-}
-
-#filter{
-/*	position: fixed;
-	top:72px;
-	right: 0;
-	left:0;
-	z-index: 1000;*/
-	margin-top: 75px;
-	background: #f0f0f2;
-	/*margin-bottom: 501px ;*/
-}
-
-
-#rewards .card-columns {
-   column-count:5;
-}
-
+	.item > img{
+		display: block;
+		margin-left:  auto;
+		margin-right:  auto;
+		width: 75%;
+		height:150px;
+	}
+	.item > .product_name{
+		font-size: 1.2em;
+	}
+	.item > .r-points {
+		font-size: .7em;
+	}
 </style>
 
 @endsection
 
-@section('content')
-
-<div class="container-fluid" style="margin-top:63px;">
-	<!-- for filter search -->
-	<nav id="filter" class="container navbar navbar-expand-lg navbar-light  mb-2 bs-mat2"  style=""> 
-		<!-- Navbar brand -->
-		<span class="navbar-brand">Filter Search:</span>
-
-		<!-- Collapse button -->
-		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#basicExampleNav" aria-controls="basicExampleNav" aria-expanded="true" aria-label="Toggle navigation">
-			<span class="navbar-toggler-icon"></span>
-		</button>
-
-		<!-- Collapsible content -->
-		<div class="navbar-collapse collapse" id="basicExampleNav" style="">
-
-			<div class="mt-3">
-				<div class="input-group input-group-sm ">
-					<input type="text" class="form-control " id="txt_productname" placeholder="Search Items" aria-describedby="basic-addon2">
-					<div class="input-group-append">
-						<button class="btn btn-outline-secondary" type="button" id="btn_go">Go!</button>
-					</div>
-				</div>
-				<div class="form-group ">
-					<label for="" class="text-light">SORT BY POINTS</label>
-					<select name="" id="" class="form-control form-control-sm">
-						<option value="">Ascending</option>
-						<option value="">Descending</option>
-					</select>
-				</div>
-				<div class="form-row">	
-					<div class="form-group col-md-12 manufacturer">	
-						<label>MANUFACTURERS</label>
-						<div class="form-check">
-							<input class="form-check-input" type="checkbox" value="" id="" name="">
-							<label class="form-check-label" for="">
-								All
-							</label>
-						</div>
-						<div class="form-check">
-							<input class="form-check-input" type="checkbox" value="" id="" name="">
-							<label class="form-check-label" for="">
-								VS1
-							</label>
-						</div>
-						<div class="form-check form-check">
-							<input class="form-check-input" type="checkbox" value="" id="" name="">
-							<label class="form-check-label" for="">
-								MOTOTEK
-							</label>
-						</div>
-						<div class="form-check">
-							<input class="form-check-input" type="checkbox" value="" id="" name="">
-							<label class="form-check-label" for="">
-								PETRON
-							</label>
-						</div>
-						<div class="form-check">
-							<input class="form-check-input" type="checkbox" value="" id="" name="">
-							<label class="form-check-label" for="">
-								RACING BOY
-							</label>
-						</div>
-					</div>
-				</div>
-
-			</div>
-		</div>
-		<!-- Collapsible content -->
-	</nav>
-
-	<div class="row">
-		<div class="col-md-2 pt-4 d-none d-lg-block" >
-			<div class="form-row">
-				<div class="form-group col-md-12 col-sm-6">
-					<div class="input-group input-group-sm">
-						<input type="text" class="form-control" placeholder="Search Items" aria-label="Search Items" aria-describedby="basic-addon2">
-						<div class="input-group-append" >
-							<span class="input-group-text" id="" style=""><i class="fas fa-search"></i></span>
-						</div>
-					</div>
-				</div>
-				<div class="form-group col-md-12 col-sm-6">
-					<label for="" class="">SORT BY POINTS</label>
-					<select name="" id="" class="form-control form-control-sm">
-						<option value="">Ascending</option>
-						<option value="">Descending</option>
-					</select>
-				</div>
-			</div>
-			
-			<div class="form-row">	
-				<div class="form-group col-md-12 manucturer">	
-					<label>MANUFACTURERS</label>
-					<div class="form-check">
-						<input class="form-check-input" type="checkbox" value="" id="" name="">
-						<label class="form-check-label" for="">
-							All
-						</label>
-					</div>
-					<div class="form-check">
-						<input class="form-check-input" type="checkbox" value="" id="" name="">
-						<label class="form-check-label" for="">
-							VS1
-						</label>
-					</div>
-					<div class="form-check">
-						<input class="form-check-input" type="checkbox" value="" id="" name="">
-						<label class="form-check-label" for="">
-							MOTOTEK
-						</label>
-					</div>
-					<div class="form-check">
-						<input class="form-check-input" type="checkbox" value="" id="" name="">
-						<label class="form-check-label" for="">
-							PETRON
-						</label>
-					</div>
-					<div class="form-check">
-						<input class="form-check-input" type="checkbox" value="" id="" name="">
-						<label class="form-check-label" for="">
-							RACING BOY
-						</label>
-					</div>
-				</div>
-			</div>
-		</div>
+@section('content') 
+<div class="container-fluid"> 
+	<div class="row" style="padding-top:10px;">
 		
-
-		<!-- products -->
-
-		<div class="col-md-10 d-flex align-self-center">
-			<div class="container-fluid py-5" id="rewards">
-				<div class="row">
-					<div class="col-md-12">
-						<div class="card-columns">
-							<div class="card">
-								<img class="card-img-top " src="/assets/p1.jpg" alt="Card image cap">
-								<div class="card-body">
-									<div class="card-title">
-										a	
-									</div>
-									<p>80 PTS</p>
-									<a href="" class="btn btn-sm btn-block btn-secondary">Redeem</a>
-								</div>
-							</div>
-							<div class="card">
-								<img class="card-img-top " src="/assets/p1.jpg" alt="Card image cap">
-								<div class="card-body">
-									<div class="card-title">
-										b
-									</div>
-									<p>80 PTS</p>
-									<a href="" class="btn btn-sm btn-block btn-secondary">Redeem</a>
-								</div>
-							</div>
-							<div class="card">
-								<img class="card-img-top " src="/assets/p1.jpg" alt="Card image cap">
-								<div class="card-body">
-									<div class="card-title">
-										c
-									</div>
-									<p>Lorem ipsum dolor </p>
-									<a href="" class="btn btn-sm btn-block btn-secondary">Redeem</a>
-								</div>
-							</div>
-							<div class="card">
-								<img class="card-img-top " src="/assets/p1.jpg" alt="Card image cap">
-								<div class="card-body">
-									<div class="card-title">
-										d
-									</div>
-									<p>80 PTS</p>
-									<a href="" class="btn btn-sm btn-block btn-secondary">Redeem</a>
-								</div>
-							</div>
-							<div class="card">
-								<img class="card-img-top " src="/assets/p1.jpg" alt="Card image cap">
-								<div class="card-body">
-									<div class="card-title">
-										e
-									</div>
-									<p>Lorem ipsum dolor </p>
-									<a href="" class="btn btn-sm btn-block btn-secondary">Redeem</a>
-								</div>
-							</div>
+		{{-- START OF SIDEBAR --}}
+		<div class="col-sm-12 col-md-2 col-lg-2">
+			<div class="row">
+				<div class="form-group col-md-12 col-sm-6">
+					<label for="search">Search Item:</label>
+					<div class="input-group input-group-sm mb-3">
+						<input id="search_val" type="text" class="form-control" placeholder="Search item here...">
+						<div class="input-group-append">
+							<button id="btn_search" class="btn btn-outline-secondary" type="button">Search</button>
 						</div>
 					</div>
 				</div>
-				
-			</div>
+				<div class="form-group col-md-12 col-sm-6">
+					<label for="" class="">Sort by Points</label>
+					<select  id="sort_by_points" class="form-control form-control-sm">
+						<option value="asc">Ascending</option>
+						<option value="desc">Descending</option>
+					</select> 
+				</div>
+
+				<div class="col-sm-6 col-md-12">
+					MANUFACTURERS
+					<div id="manufacturers">
+						{{-- <div class="form-check">
+						  <input class="form-check-input" type="radio" name="manufacturer" id="exampleRadios1" value="option1" checked>
+						  <label class="form-check-label" for="exampleRadios1">
+						    All
+						  </label>
+						</div>  --}}
+					</div>
+					
+				</div>
+				<div class="col-sm-6 col-md-12"> 
+					 <div style="text-align:center; margin: 10px 0px 10px 0px; border:1px solid gray; padding:10px;">
+						 <h6>TOP REDEEMABLE ITEM</h6>
+						 <img src="/assets/clubcard.jpg" alt="" class="w-100" height="150">
+						 <strong>TITLE (Php500)</strong> 
+						 <div>100 yamaha points</div>
+						 <div style="padding:0px 20px 0px 20px;">
+							<button class="btn btn-sm btn-seconday w-100">Redeem</button>
+						 </div>
+					 </div>
+				</div>
+			</div> 
 		</div>
-	</div>
+		{{-- END OF SIDEBAR --}}
+
+		{{-- START OF ITEMS --}}
+		<div class="col-sm-12 col-md-10 col-lg-10"> 
+			<div class="row"> 
+				<div class="col-sm-12 col-md-12">
+					<strong>REDEEMABLE ITEMS</strong>
+					<div class="form-inline float-right">
+						<div class="form-group">
+							<label for="limit">Limit &nbsp;</label> 
+							<select id="limit" class="custom-select custom-select-sm form-control form-control-sm">
+								<option value="10">10</option>
+								<option value="25">25</option>
+								<option value="50">50</option>
+								<option value="100">100</option>
+							</select> 
+						</div> 
+					</div> 
+				</div> 
+			</div>
+			<div class="row .items" id="items"> 
+				{{-- <div class="col-sm-4 col-md-2 col-lg-2" style=" padding:5px;"> 
+					<div class="item">
+						<img src="/assets/p1.jpg" alt="">
+						<div class="product_name">test name</div>
+						<div class="r-points"> <label class="points">100</label> YAMAHA CLUB POINTS</div>
+						<button class="btn btn-sm btn-primary w-75">redeem</button> 
+					</div>   
+				</div>  --}}
+			 </div>
+			 <div class="row">
+				<div class="col-sm-12 col-md-6">
+					<div class="dataTables_length">
+						page-<strong id="current_page">1</strong>
+					</div>
+				</div>
+				<div class="col-sm-12 col-md-6">
+					<nav aria-label="..." class="float-right">
+						<ul class="pagination pagination-sm">
+							<li class="page-item disabled"> 
+								<button class="page-link" id="prev_page_url">Previous</button>
+							</li> 
+							<li class="page-item">
+								<button class="page-link" id="next_page_url">Next</button> 
+							</li>
+						</ul>
+					</nav> 
+				</div>
+			</div> 
+		{{-- END OF ITEMS --}}  
+	</div> 
 </div>
 @endsection
 
-@section('custom_js')
-<script>
-	
-</script>
+@section('custom_js') 
+<script src="/js/plugins/jquery.preloader.min.js"></script>
+<script src="/js/pages/rewards.js"></script>
 @endsection
+
+

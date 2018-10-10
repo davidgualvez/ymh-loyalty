@@ -42,14 +42,17 @@ function login(username , password){
             if (response.status == 400) {
                 showError('Login', response.message, function () { 
                 });
+                return;
             }
             if(response.status == 401){
                 showError('Login',response.message,function(){ 
                 });
+                return;
             } 
             if (response.status == 422) {
                 showError('Login', response.message, function () { 
                 });
+                return;
             } 
         }
 

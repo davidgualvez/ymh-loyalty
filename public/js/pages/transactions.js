@@ -1,12 +1,9 @@
 $(document).ready(function(){
     if(!isLogin()){
         redirectTo('/login');
-    }
-   
-
+    } 
     //user info
-    loadUserInfo();
-
+    loadUserInfo(); 
     // earn transaction history
     earnPaginate();
     earnBtnNext();
@@ -16,16 +13,24 @@ $(document).ready(function(){
 
 //user info
 function loadUserInfo(){
-    postWithHeader(routes.userInfo,'',function(response){
-        console.log(response);
+    $('.user-profile').preloader();
+    postWithHeader(routes.userInfo,'',function(response){ 
         if(response.success == false){
-            return;
+            if(response.status == 401){
+                showError('',response.message,function(){
+                    clearStorage();
+                    redirectTo('/login');
+                }); 
+                return;
+            } 
         }
-
-         $('#name').html(response.data.name);
+        $('#name').html(response.data.name);
         $('#card_number').html(response.data.card_number);
         $('#expiry_date').html(response.data.expiry_date);
         $('#current_points').html(response.data.current_points);
+        // remove the loading indicator 
+        $('.user-profile').preloader('remove')
+
     });
 }
 
@@ -49,7 +54,8 @@ function earnPaginate() {
         current_page = 1;
 
     }
- 
+    
+    $('.earned-history').preloader();
     postWithHeader(routes.transactions + "?page=" + current_page, data, function (response) {
         current_page = response.data.current_page;
         console.log(response.data.data); 
@@ -67,6 +73,7 @@ function earnPaginate() {
         }
 
         earnDataDisplayer(response.data.data, response.data.from);
+        $('.earned-history').preloader('remove');
     });
 }
 
