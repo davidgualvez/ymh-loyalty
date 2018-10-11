@@ -14,7 +14,8 @@ var routes = {
     userInfo:               '/api/user/user_info',
     rewards:                '/api/reward/index',
     reward:                 '/api/reward/show', //{id} append the id of reward
-    rewards_manufacturer:   '/api/reward/manufacturer'
+    rewards_manufacturer:   '/api/reward/manufacturer',
+    redemption:             '/api/user/redemption'
 };
 
 //
@@ -150,4 +151,13 @@ function getParams(id){
 function validateEmail(email) {
     var re = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
     return re.test(String(email).toLowerCase());
+}
+
+function validateContactNumber(value){ 
+  var regEx = /^([ 0-9\(\)\+\-]{8,})*$/; // accept any phone or mobile number
+  //var regEx = /^(09|\+639)\d{9}$/;  // accept only PH Mobile number
+  if (!value.match(regEx)){
+    return false;
+  } 
+  return true;
 }

@@ -1,0 +1,16 @@
+.easy-autocomplete{
+	width: 100%!important;
+}
+
+
+@media (max-width: 1114px) {
+	.custom.card{
+		width:75%!important;
+	}
+}
+
+@media (max-width: 780px){
+	.custom.card{
+		width:95%!important;
+	}
+}

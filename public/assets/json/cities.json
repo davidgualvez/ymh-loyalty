@@ -1,0 +1,8239 @@
+{
+  "cities": [
+    {
+      "CityID": 1,
+      "CityName": "ADAMS",
+      "ProvinceID": 1
+    },
+    {
+      "CityID": 2,
+      "CityName": "BACARRA",
+      "ProvinceID": 1
+    },
+    {
+      "CityID": 3,
+      "CityName": "BADOC",
+      "ProvinceID": 1
+    },
+    {
+      "CityID": 4,
+      "CityName": "BANGUI",
+      "ProvinceID": 1
+    },
+    {
+      "CityID": 5,
+      "CityName": "CITY OF BATAC",
+      "ProvinceID": 1
+    },
+    {
+      "CityID": 6,
+      "CityName": "BURGOS",
+      "ProvinceID": 1
+    },
+    {
+      "CityID": 7,
+      "CityName": "CARASI",
+      "ProvinceID": 1
+    },
+    {
+      "CityID": 8,
+      "CityName": "CURRIMAO",
+      "ProvinceID": 1
+    },
+    {
+      "CityID": 9,
+      "CityName": "DINGRAS",
+      "ProvinceID": 1
+    },
+    {
+      "CityID": 10,
+      "CityName": "DUMALNEG",
+      "ProvinceID": 1
+    },
+    {
+      "CityID": 11,
+      "CityName": "BANNA (ESPIRITU)",
+      "ProvinceID": 1
+    },
+    {
+      "CityID": 12,
+      "CityName": "LAOAG CITY (Capital)",
+      "ProvinceID": 1
+    },
+    {
+      "CityID": 13,
+      "CityName": "MARCOS",
+      "ProvinceID": 1
+    },
+    {
+      "CityID": 14,
+      "CityName": "NUEVA ERA",
+      "ProvinceID": 1
+    },
+    {
+      "CityID": 15,
+      "CityName": "PAGUDPUD",
+      "ProvinceID": 1
+    },
+    {
+      "CityID": 16,
+      "CityName": "PAOAY",
+      "ProvinceID": 1
+    },
+    {
+      "CityID": 17,
+      "CityName": "PASUQUIN",
+      "ProvinceID": 1
+    },
+    {
+      "CityID": 18,
+      "CityName": "PIDDIG",
+      "ProvinceID": 1
+    },
+    {
+      "CityID": 19,
+      "CityName": "PINILI",
+      "ProvinceID": 1
+    },
+    {
+      "CityID": 20,
+      "CityName": "SAN NICOLAS",
+      "ProvinceID": 1
+    },
+    {
+      "CityID": 21,
+      "CityName": "SARRAT",
+      "ProvinceID": 1
+    },
+    {
+      "CityID": 22,
+      "CityName": "SOLSONA",
+      "ProvinceID": 1
+    },
+    {
+      "CityID": 23,
+      "CityName": "VINTAR",
+      "ProvinceID": 1
+    },
+    {
+      "CityID": 24,
+      "CityName": "ALILEM",
+      "ProvinceID": 2
+    },
+    {
+      "CityID": 25,
+      "CityName": "BANAYOYO",
+      "ProvinceID": 2
+    },
+    {
+      "CityID": 26,
+      "CityName": "BANTAY",
+      "ProvinceID": 2
+    },
+    {
+      "CityID": 27,
+      "CityName": "BURGOS",
+      "ProvinceID": 2
+    },
+    {
+      "CityID": 28,
+      "CityName": "CABUGAO",
+      "ProvinceID": 2
+    },
+    {
+      "CityID": 29,
+      "CityName": "CITY OF CANDON",
+      "ProvinceID": 2
+    },
+    {
+      "CityID": 30,
+      "CityName": "CAOAYAN",
+      "ProvinceID": 2
+    },
+    {
+      "CityID": 31,
+      "CityName": "CERVANTES",
+      "ProvinceID": 2
+    },
+    {
+      "CityID": 32,
+      "CityName": "GALIMUYOD",
+      "ProvinceID": 2
+    },
+    {
+      "CityID": 33,
+      "CityName": "GREGORIO DEL PILAR (CONCEPCION)",
+      "ProvinceID": 2
+    },
+    {
+      "CityID": 34,
+      "CityName": "LIDLIDDA",
+      "ProvinceID": 2
+    },
+    {
+      "CityID": 35,
+      "CityName": "MAGSINGAL",
+      "ProvinceID": 2
+    },
+    {
+      "CityID": 36,
+      "CityName": "NAGBUKEL",
+      "ProvinceID": 2
+    },
+    {
+      "CityID": 37,
+      "CityName": "NARVACAN",
+      "ProvinceID": 2
+    },
+    {
+      "CityID": 38,
+      "CityName": "QUIRINO (ANGKAKI)",
+      "ProvinceID": 2
+    },
+    {
+      "CityID": 39,
+      "CityName": "SALCEDO (BAUGEN)",
+      "ProvinceID": 2
+    },
+    {
+      "CityID": 40,
+      "CityName": "SAN EMILIO",
+      "ProvinceID": 2
+    },
+    {
+      "CityID": 41,
+      "CityName": "SAN ESTEBAN",
+      "ProvinceID": 2
+    },
+    {
+      "CityID": 42,
+      "CityName": "SAN ILDEFONSO",
+      "ProvinceID": 2
+    },
+    {
+      "CityID": 43,
+      "CityName": "SAN JUAN (LAPOG)",
+      "ProvinceID": 2
+    },
+    {
+      "CityID": 44,
+      "CityName": "SAN VICENTE",
+      "ProvinceID": 2
+    },
+    {
+      "CityID": 45,
+      "CityName": "SANTA",
+      "ProvinceID": 2
+    },
+    {
+      "CityID": 46,
+      "CityName": "SANTA CATALINA",
+      "ProvinceID": 2
+    },
+    {
+      "CityID": 47,
+      "CityName": "SANTA CRUZ",
+      "ProvinceID": 2
+    },
+    {
+      "CityID": 48,
+      "CityName": "SANTA LUCIA",
+      "ProvinceID": 2
+    },
+    {
+      "CityID": 49,
+      "CityName": "SANTA MARIA",
+      "ProvinceID": 2
+    },
+    {
+      "CityID": 50,
+      "CityName": "SANTIAGO",
+      "ProvinceID": 2
+    },
+    {
+      "CityID": 51,
+      "CityName": "SANTO DOMINGO",
+      "ProvinceID": 2
+    },
+    {
+      "CityID": 52,
+      "CityName": "SIGAY",
+      "ProvinceID": 2
+    },
+    {
+      "CityID": 53,
+      "CityName": "SINAIT",
+      "ProvinceID": 2
+    },
+    {
+      "CityID": 54,
+      "CityName": "SUGPON",
+      "ProvinceID": 2
+    },
+    {
+      "CityID": 55,
+      "CityName": "SUYO",
+      "ProvinceID": 2
+    },
+    {
+      "CityID": 56,
+      "CityName": "TAGUDIN",
+      "ProvinceID": 2
+    },
+    {
+      "CityID": 57,
+      "CityName": "CITY OF VIGAN (Capital)",
+      "ProvinceID": 2
+    },
+    {
+      "CityID": 58,
+      "CityName": "AGOO",
+      "ProvinceID": 3
+    },
+    {
+      "CityID": 59,
+      "CityName": "ARINGAY",
+      "ProvinceID": 3
+    },
+    {
+      "CityID": 60,
+      "CityName": "BACNOTAN",
+      "ProvinceID": 3
+    },
+    {
+      "CityID": 61,
+      "CityName": "BAGULIN",
+      "ProvinceID": 3
+    },
+    {
+      "CityID": 62,
+      "CityName": "BALAOAN",
+      "ProvinceID": 3
+    },
+    {
+      "CityID": 63,
+      "CityName": "BANGAR",
+      "ProvinceID": 3
+    },
+    {
+      "CityID": 64,
+      "CityName": "BAUANG",
+      "ProvinceID": 3
+    },
+    {
+      "CityID": 65,
+      "CityName": "BURGOS",
+      "ProvinceID": 3
+    },
+    {
+      "CityID": 66,
+      "CityName": "CABA",
+      "ProvinceID": 3
+    },
+    {
+      "CityID": 67,
+      "CityName": "LUNA",
+      "ProvinceID": 3
+    },
+    {
+      "CityID": 68,
+      "CityName": "NAGUILIAN",
+      "ProvinceID": 3
+    },
+    {
+      "CityID": 69,
+      "CityName": "PUGO",
+      "ProvinceID": 3
+    },
+    {
+      "CityID": 70,
+      "CityName": "ROSARIO",
+      "ProvinceID": 3
+    },
+    {
+      "CityID": 71,
+      "CityName": "CITY OF SAN FERNANDO (Capital)",
+      "ProvinceID": 3
+    },
+    {
+      "CityID": 72,
+      "CityName": "SAN GABRIEL",
+      "ProvinceID": 3
+    },
+    {
+      "CityID": 73,
+      "CityName": "SAN JUAN",
+      "ProvinceID": 3
+    },
+    {
+      "CityID": 74,
+      "CityName": "SANTO TOMAS",
+      "ProvinceID": 3
+    },
+    {
+      "CityID": 75,
+      "CityName": "SANTOL",
+      "ProvinceID": 3
+    },
+    {
+      "CityID": 76,
+      "CityName": "SUDIPEN",
+      "ProvinceID": 3
+    },
+    {
+      "CityID": 77,
+      "CityName": "TUBAO",
+      "ProvinceID": 3
+    },
+    {
+      "CityID": 78,
+      "CityName": "AGNO",
+      "ProvinceID": 4
+    },
+    {
+      "CityID": 79,
+      "CityName": "AGUILAR",
+      "ProvinceID": 4
+    },
+    {
+      "CityID": 80,
+      "CityName": "CITY OF ALAMINOS",
+      "ProvinceID": 4
+    },
+    {
+      "CityID": 81,
+      "CityName": "ALCALA",
+      "ProvinceID": 4
+    },
+    {
+      "CityID": 82,
+      "CityName": "ANDA",
+      "ProvinceID": 4
+    },
+    {
+      "CityID": 83,
+      "CityName": "ASINGAN",
+      "ProvinceID": 4
+    },
+    {
+      "CityID": 84,
+      "CityName": "BALUNGAO",
+      "ProvinceID": 4
+    },
+    {
+      "CityID": 85,
+      "CityName": "BANI",
+      "ProvinceID": 4
+    },
+    {
+      "CityID": 86,
+      "CityName": "BASISTA",
+      "ProvinceID": 4
+    },
+    {
+      "CityID": 87,
+      "CityName": "BAUTISTA",
+      "ProvinceID": 4
+    },
+    {
+      "CityID": 88,
+      "CityName": "BAYAMBANG",
+      "ProvinceID": 4
+    },
+    {
+      "CityID": 89,
+      "CityName": "BINALONAN",
+      "ProvinceID": 4
+    },
+    {
+      "CityID": 90,
+      "CityName": "BINMALEY",
+      "ProvinceID": 4
+    },
+    {
+      "CityID": 91,
+      "CityName": "BOLINAO",
+      "ProvinceID": 4
+    },
+    {
+      "CityID": 92,
+      "CityName": "BUGALLON",
+      "ProvinceID": 4
+    },
+    {
+      "CityID": 93,
+      "CityName": "BURGOS",
+      "ProvinceID": 4
+    },
+    {
+      "CityID": 94,
+      "CityName": "CALASIAO",
+      "ProvinceID": 4
+    },
+    {
+      "CityID": 95,
+      "CityName": "DAGUPAN CITY",
+      "ProvinceID": 4
+    },
+    {
+      "CityID": 96,
+      "CityName": "DASOL",
+      "ProvinceID": 4
+    },
+    {
+      "CityID": 97,
+      "CityName": "INFANTA",
+      "ProvinceID": 4
+    },
+    {
+      "CityID": 98,
+      "CityName": "LABRADOR",
+      "ProvinceID": 4
+    },
+    {
+      "CityID": 99,
+      "CityName": "LINGAYEN (Capital)",
+      "ProvinceID": 4
+    },
+    {
+      "CityID": 100,
+      "CityName": "MABINI",
+      "ProvinceID": 4
+    },
+    {
+      "CityID": 101,
+      "CityName": "MALASIQUI",
+      "ProvinceID": 4
+    },
+    {
+      "CityID": 102,
+      "CityName": "MANAOAG",
+      "ProvinceID": 4
+    },
+    {
+      "CityID": 103,
+      "CityName": "MANGALDAN",
+      "ProvinceID": 4
+    },
+    {
+      "CityID": 104,
+      "CityName": "MANGATAREM",
+      "ProvinceID": 4
+    },
+    {
+      "CityID": 105,
+      "CityName": "MAPANDAN",
+      "ProvinceID": 4
+    },
+    {
+      "CityID": 106,
+      "CityName": "NATIVIDAD",
+      "ProvinceID": 4
+    },
+    {
+      "CityID": 107,
+      "CityName": "POZORRUBIO",
+      "ProvinceID": 4
+    },
+    {
+      "CityID": 108,
+      "CityName": "ROSALES",
+      "ProvinceID": 4
+    },
+    {
+      "CityID": 109,
+      "CityName": "SAN CARLOS CITY",
+      "ProvinceID": 4
+    },
+    {
+      "CityID": 110,
+      "CityName": "SAN FABIAN",
+      "ProvinceID": 4
+    },
+    {
+      "CityID": 111,
+      "CityName": "SAN JACINTO",
+      "ProvinceID": 4
+    },
+    {
+      "CityID": 112,
+      "CityName": "SAN MANUEL",
+      "ProvinceID": 4
+    },
+    {
+      "CityID": 113,
+      "CityName": "SAN NICOLAS",
+      "ProvinceID": 4
+    },
+    {
+      "CityID": 114,
+      "CityName": "SAN QUINTIN",
+      "ProvinceID": 4
+    },
+    {
+      "CityID": 115,
+      "CityName": "SANTA BARBARA",
+      "ProvinceID": 4
+    },
+    {
+      "CityID": 116,
+      "CityName": "SANTA MARIA",
+      "ProvinceID": 4
+    },
+    {
+      "CityID": 117,
+      "CityName": "SANTO TOMAS",
+      "ProvinceID": 4
+    },
+    {
+      "CityID": 118,
+      "CityName": "SISON",
+      "ProvinceID": 4
+    },
+    {
+      "CityID": 119,
+      "CityName": "SUAL",
+      "ProvinceID": 4
+    },
+    {
+      "CityID": 120,
+      "CityName": "TAYUG",
+      "ProvinceID": 4
+    },
+    {
+      "CityID": 121,
+      "CityName": "UMINGAN",
+      "ProvinceID": 4
+    },
+    {
+      "CityID": 122,
+      "CityName": "URBIZTONDO",
+      "ProvinceID": 4
+    },
+    {
+      "CityID": 123,
+      "CityName": "CITY OF URDANETA",
+      "ProvinceID": 4
+    },
+    {
+      "CityID": 124,
+      "CityName": "VILLASIS",
+      "ProvinceID": 4
+    },
+    {
+      "CityID": 125,
+      "CityName": "LAOAC",
+      "ProvinceID": 4
+    },
+    {
+      "CityID": 126,
+      "CityName": "BASCO (Capital)",
+      "ProvinceID": 5
+    },
+    {
+      "CityID": 127,
+      "CityName": "ITBAYAT",
+      "ProvinceID": 5
+    },
+    {
+      "CityID": 128,
+      "CityName": "IVANA",
+      "ProvinceID": 5
+    },
+    {
+      "CityID": 129,
+      "CityName": "MAHATAO",
+      "ProvinceID": 5
+    },
+    {
+      "CityID": 130,
+      "CityName": "SABTANG",
+      "ProvinceID": 5
+    },
+    {
+      "CityID": 131,
+      "CityName": "UYUGAN",
+      "ProvinceID": 5
+    },
+    {
+      "CityID": 132,
+      "CityName": "ABULUG",
+      "ProvinceID": 6
+    },
+    {
+      "CityID": 133,
+      "CityName": "ALCALA",
+      "ProvinceID": 6
+    },
+    {
+      "CityID": 134,
+      "CityName": "ALLACAPAN",
+      "ProvinceID": 6
+    },
+    {
+      "CityID": 135,
+      "CityName": "AMULUNG",
+      "ProvinceID": 6
+    },
+    {
+      "CityID": 136,
+      "CityName": "APARRI",
+      "ProvinceID": 6
+    },
+    {
+      "CityID": 137,
+      "CityName": "BAGGAO",
+      "ProvinceID": 6
+    },
+    {
+      "CityID": 138,
+      "CityName": "BALLESTEROS",
+      "ProvinceID": 6
+    },
+    {
+      "CityID": 139,
+      "CityName": "BUGUEY",
+      "ProvinceID": 6
+    },
+    {
+      "CityID": 140,
+      "CityName": "CALAYAN",
+      "ProvinceID": 6
+    },
+    {
+      "CityID": 141,
+      "CityName": "CAMALANIUGAN",
+      "ProvinceID": 6
+    },
+    {
+      "CityID": 142,
+      "CityName": "CLAVERIA",
+      "ProvinceID": 6
+    },
+    {
+      "CityID": 143,
+      "CityName": "ENRILE",
+      "ProvinceID": 6
+    },
+    {
+      "CityID": 144,
+      "CityName": "GATTARAN",
+      "ProvinceID": 6
+    },
+    {
+      "CityID": 145,
+      "CityName": "GONZAGA",
+      "ProvinceID": 6
+    },
+    {
+      "CityID": 146,
+      "CityName": "IGUIG",
+      "ProvinceID": 6
+    },
+    {
+      "CityID": 147,
+      "CityName": "LAL-LO",
+      "ProvinceID": 6
+    },
+    {
+      "CityID": 148,
+      "CityName": "LASAM",
+      "ProvinceID": 6
+    },
+    {
+      "CityID": 149,
+      "CityName": "PAMPLONA",
+      "ProvinceID": 6
+    },
+    {
+      "CityID": 150,
+      "CityName": "PEÑABLANCA",
+      "ProvinceID": 6
+    },
+    {
+      "CityID": 151,
+      "CityName": "PIAT",
+      "ProvinceID": 6
+    },
+    {
+      "CityID": 152,
+      "CityName": "RIZAL",
+      "ProvinceID": 6
+    },
+    {
+      "CityID": 153,
+      "CityName": "SANCHEZ-MIRA",
+      "ProvinceID": 6
+    },
+    {
+      "CityID": 154,
+      "CityName": "SANTA ANA",
+      "ProvinceID": 6
+    },
+    {
+      "CityID": 155,
+      "CityName": "SANTA PRAXEDES",
+      "ProvinceID": 6
+    },
+    {
+      "CityID": 156,
+      "CityName": "SANTA TERESITA",
+      "ProvinceID": 6
+    },
+    {
+      "CityID": 157,
+      "CityName": "SANTO NIÑO (FAIRE)",
+      "ProvinceID": 6
+    },
+    {
+      "CityID": 158,
+      "CityName": "SOLANA",
+      "ProvinceID": 6
+    },
+    {
+      "CityID": 159,
+      "CityName": "TUAO",
+      "ProvinceID": 6
+    },
+    {
+      "CityID": 160,
+      "CityName": "TUGUEGARAO CITY (Capital)",
+      "ProvinceID": 6
+    },
+    {
+      "CityID": 161,
+      "CityName": "ALICIA",
+      "ProvinceID": 7
+    },
+    {
+      "CityID": 162,
+      "CityName": "ANGADANAN",
+      "ProvinceID": 7
+    },
+    {
+      "CityID": 163,
+      "CityName": "AURORA",
+      "ProvinceID": 7
+    },
+    {
+      "CityID": 164,
+      "CityName": "BENITO SOLIVEN",
+      "ProvinceID": 7
+    },
+    {
+      "CityID": 165,
+      "CityName": "BURGOS",
+      "ProvinceID": 7
+    },
+    {
+      "CityID": 166,
+      "CityName": "CABAGAN",
+      "ProvinceID": 7
+    },
+    {
+      "CityID": 167,
+      "CityName": "CABATUAN",
+      "ProvinceID": 7
+    },
+    {
+      "CityID": 168,
+      "CityName": "CITY OF CAUAYAN",
+      "ProvinceID": 7
+    },
+    {
+      "CityID": 169,
+      "CityName": "CORDON",
+      "ProvinceID": 7
+    },
+    {
+      "CityID": 170,
+      "CityName": "DINAPIGUE",
+      "ProvinceID": 7
+    },
+    {
+      "CityID": 171,
+      "CityName": "DIVILACAN",
+      "ProvinceID": 7
+    },
+    {
+      "CityID": 172,
+      "CityName": "ECHAGUE",
+      "ProvinceID": 7
+    },
+    {
+      "CityID": 173,
+      "CityName": "GAMU",
+      "ProvinceID": 7
+    },
+    {
+      "CityID": 174,
+      "CityName": "ILAGAN CITY (Capital)",
+      "ProvinceID": 7
+    },
+    {
+      "CityID": 175,
+      "CityName": "JONES",
+      "ProvinceID": 7
+    },
+    {
+      "CityID": 176,
+      "CityName": "LUNA",
+      "ProvinceID": 7
+    },
+    {
+      "CityID": 177,
+      "CityName": "MACONACON",
+      "ProvinceID": 7
+    },
+    {
+      "CityID": 178,
+      "CityName": "DELFIN ALBANO (MAGSAYSAY)",
+      "ProvinceID": 7
+    },
+    {
+      "CityID": 179,
+      "CityName": "MALLIG",
+      "ProvinceID": 7
+    },
+    {
+      "CityID": 180,
+      "CityName": "NAGUILIAN",
+      "ProvinceID": 7
+    },
+    {
+      "CityID": 181,
+      "CityName": "PALANAN",
+      "ProvinceID": 7
+    },
+    {
+      "CityID": 182,
+      "CityName": "QUEZON",
+      "ProvinceID": 7
+    },
+    {
+      "CityID": 183,
+      "CityName": "QUIRINO",
+      "ProvinceID": 7
+    },
+    {
+      "CityID": 184,
+      "CityName": "RAMON",
+      "ProvinceID": 7
+    },
+    {
+      "CityID": 185,
+      "CityName": "REINA MERCEDES",
+      "ProvinceID": 7
+    },
+    {
+      "CityID": 186,
+      "CityName": "ROXAS",
+      "ProvinceID": 7
+    },
+    {
+      "CityID": 187,
+      "CityName": "SAN AGUSTIN",
+      "ProvinceID": 7
+    },
+    {
+      "CityID": 188,
+      "CityName": "SAN GUILLERMO",
+      "ProvinceID": 7
+    },
+    {
+      "CityID": 189,
+      "CityName": "SAN ISIDRO",
+      "ProvinceID": 7
+    },
+    {
+      "CityID": 190,
+      "CityName": "SAN MANUEL",
+      "ProvinceID": 7
+    },
+    {
+      "CityID": 191,
+      "CityName": "SAN MARIANO",
+      "ProvinceID": 7
+    },
+    {
+      "CityID": 192,
+      "CityName": "SAN MATEO",
+      "ProvinceID": 7
+    },
+    {
+      "CityID": 193,
+      "CityName": "SAN PABLO",
+      "ProvinceID": 7
+    },
+    {
+      "CityID": 194,
+      "CityName": "SANTA MARIA",
+      "ProvinceID": 7
+    },
+    {
+      "CityID": 195,
+      "CityName": "CITY OF SANTIAGO",
+      "ProvinceID": 7
+    },
+    {
+      "CityID": 196,
+      "CityName": "SANTO TOMAS",
+      "ProvinceID": 7
+    },
+    {
+      "CityID": 197,
+      "CityName": "TUMAUINI",
+      "ProvinceID": 7
+    },
+    {
+      "CityID": 198,
+      "CityName": "AMBAGUIO",
+      "ProvinceID": 8
+    },
+    {
+      "CityID": 199,
+      "CityName": "ARITAO",
+      "ProvinceID": 8
+    },
+    {
+      "CityID": 200,
+      "CityName": "BAGABAG",
+      "ProvinceID": 8
+    },
+    {
+      "CityID": 201,
+      "CityName": "BAMBANG",
+      "ProvinceID": 8
+    },
+    {
+      "CityID": 202,
+      "CityName": "BAYOMBONG (Capital)",
+      "ProvinceID": 8
+    },
+    {
+      "CityID": 203,
+      "CityName": "DIADI",
+      "ProvinceID": 8
+    },
+    {
+      "CityID": 204,
+      "CityName": "DUPAX DEL NORTE",
+      "ProvinceID": 8
+    },
+    {
+      "CityID": 205,
+      "CityName": "DUPAX DEL SUR",
+      "ProvinceID": 8
+    },
+    {
+      "CityID": 206,
+      "CityName": "KASIBU",
+      "ProvinceID": 8
+    },
+    {
+      "CityID": 207,
+      "CityName": "KAYAPA",
+      "ProvinceID": 8
+    },
+    {
+      "CityID": 208,
+      "CityName": "QUEZON",
+      "ProvinceID": 8
+    },
+    {
+      "CityID": 209,
+      "CityName": "SANTA FE",
+      "ProvinceID": 8
+    },
+    {
+      "CityID": 210,
+      "CityName": "SOLANO",
+      "ProvinceID": 8
+    },
+    {
+      "CityID": 211,
+      "CityName": "VILLAVERDE",
+      "ProvinceID": 8
+    },
+    {
+      "CityID": 212,
+      "CityName": "ALFONSO CASTANEDA",
+      "ProvinceID": 8
+    },
+    {
+      "CityID": 213,
+      "CityName": "AGLIPAY",
+      "ProvinceID": 9
+    },
+    {
+      "CityID": 214,
+      "CityName": "CABARROGUIS (Capital)",
+      "ProvinceID": 9
+    },
+    {
+      "CityID": 215,
+      "CityName": "DIFFUN",
+      "ProvinceID": 9
+    },
+    {
+      "CityID": 216,
+      "CityName": "MADDELA",
+      "ProvinceID": 9
+    },
+    {
+      "CityID": 217,
+      "CityName": "SAGUDAY",
+      "ProvinceID": 9
+    },
+    {
+      "CityID": 218,
+      "CityName": "NAGTIPUNAN",
+      "ProvinceID": 9
+    },
+    {
+      "CityID": 219,
+      "CityName": "ABUCAY",
+      "ProvinceID": 10
+    },
+    {
+      "CityID": 220,
+      "CityName": "BAGAC",
+      "ProvinceID": 10
+    },
+    {
+      "CityID": 221,
+      "CityName": "CITY OF BALANGA (Capital)",
+      "ProvinceID": 10
+    },
+    {
+      "CityID": 222,
+      "CityName": "DINALUPIHAN",
+      "ProvinceID": 10
+    },
+    {
+      "CityID": 223,
+      "CityName": "HERMOSA",
+      "ProvinceID": 10
+    },
+    {
+      "CityID": 224,
+      "CityName": "LIMAY",
+      "ProvinceID": 10
+    },
+    {
+      "CityID": 225,
+      "CityName": "MARIVELES",
+      "ProvinceID": 10
+    },
+    {
+      "CityID": 226,
+      "CityName": "MORONG",
+      "ProvinceID": 10
+    },
+    {
+      "CityID": 227,
+      "CityName": "ORANI",
+      "ProvinceID": 10
+    },
+    {
+      "CityID": 228,
+      "CityName": "ORION",
+      "ProvinceID": 10
+    },
+    {
+      "CityID": 229,
+      "CityName": "PILAR",
+      "ProvinceID": 10
+    },
+    {
+      "CityID": 230,
+      "CityName": "SAMAL",
+      "ProvinceID": 10
+    },
+    {
+      "CityID": 231,
+      "CityName": "ANGAT",
+      "ProvinceID": 11
+    },
+    {
+      "CityID": 232,
+      "CityName": "BALAGTAS (BIGAA)",
+      "ProvinceID": 11
+    },
+    {
+      "CityID": 233,
+      "CityName": "BALIUAG",
+      "ProvinceID": 11
+    },
+    {
+      "CityID": 234,
+      "CityName": "BOCAUE",
+      "ProvinceID": 11
+    },
+    {
+      "CityID": 235,
+      "CityName": "BULACAN",
+      "ProvinceID": 11
+    },
+    {
+      "CityID": 236,
+      "CityName": "BUSTOS",
+      "ProvinceID": 11
+    },
+    {
+      "CityID": 237,
+      "CityName": "CALUMPIT",
+      "ProvinceID": 11
+    },
+    {
+      "CityID": 238,
+      "CityName": "GUIGUINTO",
+      "ProvinceID": 11
+    },
+    {
+      "CityID": 239,
+      "CityName": "HAGONOY",
+      "ProvinceID": 11
+    },
+    {
+      "CityID": 240,
+      "CityName": "CITY OF MALOLOS (Capital)",
+      "ProvinceID": 11
+    },
+    {
+      "CityID": 241,
+      "CityName": "MARILAO",
+      "ProvinceID": 11
+    },
+    {
+      "CityID": 242,
+      "CityName": "CITY OF MEYCAUAYAN",
+      "ProvinceID": 11
+    },
+    {
+      "CityID": 243,
+      "CityName": "NORZAGARAY",
+      "ProvinceID": 11
+    },
+    {
+      "CityID": 244,
+      "CityName": "OBANDO",
+      "ProvinceID": 11
+    },
+    {
+      "CityID": 245,
+      "CityName": "PANDI",
+      "ProvinceID": 11
+    },
+    {
+      "CityID": 246,
+      "CityName": "PAOMBONG",
+      "ProvinceID": 11
+    },
+    {
+      "CityID": 247,
+      "CityName": "PLARIDEL",
+      "ProvinceID": 11
+    },
+    {
+      "CityID": 248,
+      "CityName": "PULILAN",
+      "ProvinceID": 11
+    },
+    {
+      "CityID": 249,
+      "CityName": "SAN ILDEFONSO",
+      "ProvinceID": 11
+    },
+    {
+      "CityID": 250,
+      "CityName": "CITY OF SAN JOSE DEL MONTE",
+      "ProvinceID": 11
+    },
+    {
+      "CityID": 251,
+      "CityName": "SAN MIGUEL",
+      "ProvinceID": 11
+    },
+    {
+      "CityID": 252,
+      "CityName": "SAN RAFAEL",
+      "ProvinceID": 11
+    },
+    {
+      "CityID": 253,
+      "CityName": "SANTA MARIA",
+      "ProvinceID": 11
+    },
+    {
+      "CityID": 254,
+      "CityName": "DOÑA REMEDIOS TRINIDAD",
+      "ProvinceID": 11
+    },
+    {
+      "CityID": 255,
+      "CityName": "ALIAGA",
+      "ProvinceID": 12
+    },
+    {
+      "CityID": 256,
+      "CityName": "BONGABON",
+      "ProvinceID": 12
+    },
+    {
+      "CityID": 257,
+      "CityName": "CABANATUAN CITY",
+      "ProvinceID": 12
+    },
+    {
+      "CityID": 258,
+      "CityName": "CABIAO",
+      "ProvinceID": 12
+    },
+    {
+      "CityID": 259,
+      "CityName": "CARRANGLAN",
+      "ProvinceID": 12
+    },
+    {
+      "CityID": 260,
+      "CityName": "CUYAPO",
+      "ProvinceID": 12
+    },
+    {
+      "CityID": 261,
+      "CityName": "GABALDON (BITULOK & SABANI)",
+      "ProvinceID": 12
+    },
+    {
+      "CityID": 262,
+      "CityName": "CITY OF GAPAN",
+      "ProvinceID": 12
+    },
+    {
+      "CityID": 263,
+      "CityName": "GENERAL MAMERTO NATIVIDAD",
+      "ProvinceID": 12
+    },
+    {
+      "CityID": 264,
+      "CityName": "GENERAL TINIO (PAPAYA)",
+      "ProvinceID": 12
+    },
+    {
+      "CityID": 265,
+      "CityName": "GUIMBA",
+      "ProvinceID": 12
+    },
+    {
+      "CityID": 266,
+      "CityName": "JAEN",
+      "ProvinceID": 12
+    },
+    {
+      "CityID": 267,
+      "CityName": "LAUR",
+      "ProvinceID": 12
+    },
+    {
+      "CityID": 268,
+      "CityName": "LICAB",
+      "ProvinceID": 12
+    },
+    {
+      "CityID": 269,
+      "CityName": "LLANERA",
+      "ProvinceID": 12
+    },
+    {
+      "CityID": 270,
+      "CityName": "LUPAO",
+      "ProvinceID": 12
+    },
+    {
+      "CityID": 271,
+      "CityName": "SCIENCE CITY OF MUÑOZ",
+      "ProvinceID": 12
+    },
+    {
+      "CityID": 272,
+      "CityName": "NAMPICUAN",
+      "ProvinceID": 12
+    },
+    {
+      "CityID": 273,
+      "CityName": "PALAYAN CITY (Capital)",
+      "ProvinceID": 12
+    },
+    {
+      "CityID": 274,
+      "CityName": "PANTABANGAN",
+      "ProvinceID": 12
+    },
+    {
+      "CityID": 275,
+      "CityName": "PEÑARANDA",
+      "ProvinceID": 12
+    },
+    {
+      "CityID": 276,
+      "CityName": "QUEZON",
+      "ProvinceID": 12
+    },
+    {
+      "CityID": 277,
+      "CityName": "RIZAL",
+      "ProvinceID": 12
+    },
+    {
+      "CityID": 278,
+      "CityName": "SAN ANTONIO",
+      "ProvinceID": 12
+    },
+    {
+      "CityID": 279,
+      "CityName": "SAN ISIDRO",
+      "ProvinceID": 12
+    },
+    {
+      "CityID": 280,
+      "CityName": "SAN JOSE CITY",
+      "ProvinceID": 12
+    },
+    {
+      "CityID": 281,
+      "CityName": "SAN LEONARDO",
+      "ProvinceID": 12
+    },
+    {
+      "CityID": 282,
+      "CityName": "SANTA ROSA",
+      "ProvinceID": 12
+    },
+    {
+      "CityID": 283,
+      "CityName": "SANTO DOMINGO",
+      "ProvinceID": 12
+    },
+    {
+      "CityID": 284,
+      "CityName": "TALAVERA",
+      "ProvinceID": 12
+    },
+    {
+      "CityID": 285,
+      "CityName": "TALUGTUG",
+      "ProvinceID": 12
+    },
+    {
+      "CityID": 286,
+      "CityName": "ZARAGOZA",
+      "ProvinceID": 12
+    },
+    {
+      "CityID": 287,
+      "CityName": "ANGELES CITY",
+      "ProvinceID": 13
+    },
+    {
+      "CityID": 288,
+      "CityName": "APALIT",
+      "ProvinceID": 13
+    },
+    {
+      "CityID": 289,
+      "CityName": "ARAYAT",
+      "ProvinceID": 13
+    },
+    {
+      "CityID": 290,
+      "CityName": "BACOLOR",
+      "ProvinceID": 13
+    },
+    {
+      "CityID": 291,
+      "CityName": "CANDABA",
+      "ProvinceID": 13
+    },
+    {
+      "CityID": 292,
+      "CityName": "FLORIDABLANCA",
+      "ProvinceID": 13
+    },
+    {
+      "CityID": 293,
+      "CityName": "GUAGUA",
+      "ProvinceID": 13
+    },
+    {
+      "CityID": 294,
+      "CityName": "LUBAO",
+      "ProvinceID": 13
+    },
+    {
+      "CityID": 295,
+      "CityName": "MABALACAT CITY",
+      "ProvinceID": 13
+    },
+    {
+      "CityID": 296,
+      "CityName": "MACABEBE",
+      "ProvinceID": 13
+    },
+    {
+      "CityID": 297,
+      "CityName": "MAGALANG",
+      "ProvinceID": 13
+    },
+    {
+      "CityID": 298,
+      "CityName": "MASANTOL",
+      "ProvinceID": 13
+    },
+    {
+      "CityID": 299,
+      "CityName": "MEXICO",
+      "ProvinceID": 13
+    },
+    {
+      "CityID": 300,
+      "CityName": "MINALIN",
+      "ProvinceID": 13
+    },
+    {
+      "CityID": 301,
+      "CityName": "PORAC",
+      "ProvinceID": 13
+    },
+    {
+      "CityID": 302,
+      "CityName": "CITY OF SAN FERNANDO (Capital)",
+      "ProvinceID": 13
+    },
+    {
+      "CityID": 303,
+      "CityName": "SAN LUIS",
+      "ProvinceID": 13
+    },
+    {
+      "CityID": 304,
+      "CityName": "SAN SIMON",
+      "ProvinceID": 13
+    },
+    {
+      "CityID": 305,
+      "CityName": "SANTA ANA",
+      "ProvinceID": 13
+    },
+    {
+      "CityID": 306,
+      "CityName": "SANTA RITA",
+      "ProvinceID": 13
+    },
+    {
+      "CityID": 307,
+      "CityName": "SANTO TOMAS",
+      "ProvinceID": 13
+    },
+    {
+      "CityID": 308,
+      "CityName": "SASMUAN (Sexmoan)",
+      "ProvinceID": 13
+    },
+    {
+      "CityID": 309,
+      "CityName": "ANAO",
+      "ProvinceID": 14
+    },
+    {
+      "CityID": 310,
+      "CityName": "BAMBAN",
+      "ProvinceID": 14
+    },
+    {
+      "CityID": 311,
+      "CityName": "CAMILING",
+      "ProvinceID": 14
+    },
+    {
+      "CityID": 312,
+      "CityName": "CAPAS",
+      "ProvinceID": 14
+    },
+    {
+      "CityID": 313,
+      "CityName": "CONCEPCION",
+      "ProvinceID": 14
+    },
+    {
+      "CityID": 314,
+      "CityName": "GERONA",
+      "ProvinceID": 14
+    },
+    {
+      "CityID": 315,
+      "CityName": "LA PAZ",
+      "ProvinceID": 14
+    },
+    {
+      "CityID": 316,
+      "CityName": "MAYANTOC",
+      "ProvinceID": 14
+    },
+    {
+      "CityID": 317,
+      "CityName": "MONCADA",
+      "ProvinceID": 14
+    },
+    {
+      "CityID": 318,
+      "CityName": "PANIQUI",
+      "ProvinceID": 14
+    },
+    {
+      "CityID": 319,
+      "CityName": "PURA",
+      "ProvinceID": 14
+    },
+    {
+      "CityID": 320,
+      "CityName": "RAMOS",
+      "ProvinceID": 14
+    },
+    {
+      "CityID": 321,
+      "CityName": "SAN CLEMENTE",
+      "ProvinceID": 14
+    },
+    {
+      "CityID": 322,
+      "CityName": "SAN MANUEL",
+      "ProvinceID": 14
+    },
+    {
+      "CityID": 323,
+      "CityName": "SANTA IGNACIA",
+      "ProvinceID": 14
+    },
+    {
+      "CityID": 324,
+      "CityName": "CITY OF TARLAC (Capital)",
+      "ProvinceID": 14
+    },
+    {
+      "CityID": 325,
+      "CityName": "VICTORIA",
+      "ProvinceID": 14
+    },
+    {
+      "CityID": 326,
+      "CityName": "SAN JOSE",
+      "ProvinceID": 14
+    },
+    {
+      "CityID": 327,
+      "CityName": "BOTOLAN",
+      "ProvinceID": 15
+    },
+    {
+      "CityID": 328,
+      "CityName": "CABANGAN",
+      "ProvinceID": 15
+    },
+    {
+      "CityID": 329,
+      "CityName": "CANDELARIA",
+      "ProvinceID": 15
+    },
+    {
+      "CityID": 330,
+      "CityName": "CASTILLEJOS",
+      "ProvinceID": 15
+    },
+    {
+      "CityID": 331,
+      "CityName": "IBA (Capital)",
+      "ProvinceID": 15
+    },
+    {
+      "CityID": 332,
+      "CityName": "MASINLOC",
+      "ProvinceID": 15
+    },
+    {
+      "CityID": 333,
+      "CityName": "OLONGAPO CITY",
+      "ProvinceID": 15
+    },
+    {
+      "CityID": 334,
+      "CityName": "PALAUIG",
+      "ProvinceID": 15
+    },
+    {
+      "CityID": 335,
+      "CityName": "SAN ANTONIO",
+      "ProvinceID": 15
+    },
+    {
+      "CityID": 336,
+      "CityName": "SAN FELIPE",
+      "ProvinceID": 15
+    },
+    {
+      "CityID": 337,
+      "CityName": "SAN MARCELINO",
+      "ProvinceID": 15
+    },
+    {
+      "CityID": 338,
+      "CityName": "SAN NARCISO",
+      "ProvinceID": 15
+    },
+    {
+      "CityID": 339,
+      "CityName": "SANTA CRUZ",
+      "ProvinceID": 15
+    },
+    {
+      "CityID": 340,
+      "CityName": "SUBIC",
+      "ProvinceID": 15
+    },
+    {
+      "CityID": 341,
+      "CityName": "BALER (Capital)",
+      "ProvinceID": 16
+    },
+    {
+      "CityID": 342,
+      "CityName": "CASIGURAN",
+      "ProvinceID": 16
+    },
+    {
+      "CityID": 343,
+      "CityName": "DILASAG",
+      "ProvinceID": 16
+    },
+    {
+      "CityID": 344,
+      "CityName": "DINALUNGAN",
+      "ProvinceID": 16
+    },
+    {
+      "CityID": 345,
+      "CityName": "DINGALAN",
+      "ProvinceID": 16
+    },
+    {
+      "CityID": 346,
+      "CityName": "DIPACULAO",
+      "ProvinceID": 16
+    },
+    {
+      "CityID": 347,
+      "CityName": "MARIA AURORA",
+      "ProvinceID": 16
+    },
+    {
+      "CityID": 348,
+      "CityName": "SAN LUIS",
+      "ProvinceID": 16
+    },
+    {
+      "CityID": 349,
+      "CityName": "AGONCILLO",
+      "ProvinceID": 17
+    },
+    {
+      "CityID": 350,
+      "CityName": "ALITAGTAG",
+      "ProvinceID": 17
+    },
+    {
+      "CityID": 351,
+      "CityName": "BALAYAN",
+      "ProvinceID": 17
+    },
+    {
+      "CityID": 352,
+      "CityName": "BALETE",
+      "ProvinceID": 17
+    },
+    {
+      "CityID": 353,
+      "CityName": "BATANGAS CITY (Capital)",
+      "ProvinceID": 17
+    },
+    {
+      "CityID": 354,
+      "CityName": "BAUAN",
+      "ProvinceID": 17
+    },
+    {
+      "CityID": 355,
+      "CityName": "CALACA",
+      "ProvinceID": 17
+    },
+    {
+      "CityID": 356,
+      "CityName": "CALATAGAN",
+      "ProvinceID": 17
+    },
+    {
+      "CityID": 357,
+      "CityName": "CUENCA",
+      "ProvinceID": 17
+    },
+    {
+      "CityID": 358,
+      "CityName": "IBAAN",
+      "ProvinceID": 17
+    },
+    {
+      "CityID": 359,
+      "CityName": "LAUREL",
+      "ProvinceID": 17
+    },
+    {
+      "CityID": 360,
+      "CityName": "LEMERY",
+      "ProvinceID": 17
+    },
+    {
+      "CityID": 361,
+      "CityName": "LIAN",
+      "ProvinceID": 17
+    },
+    {
+      "CityID": 362,
+      "CityName": "LIPA CITY",
+      "ProvinceID": 17
+    },
+    {
+      "CityID": 363,
+      "CityName": "LOBO",
+      "ProvinceID": 17
+    },
+    {
+      "CityID": 364,
+      "CityName": "MABINI",
+      "ProvinceID": 17
+    },
+    {
+      "CityID": 365,
+      "CityName": "MALVAR",
+      "ProvinceID": 17
+    },
+    {
+      "CityID": 366,
+      "CityName": "MATAASNAKAHOY",
+      "ProvinceID": 17
+    },
+    {
+      "CityID": 367,
+      "CityName": "NASUGBU",
+      "ProvinceID": 17
+    },
+    {
+      "CityID": 368,
+      "CityName": "PADRE GARCIA",
+      "ProvinceID": 17
+    },
+    {
+      "CityID": 369,
+      "CityName": "ROSARIO",
+      "ProvinceID": 17
+    },
+    {
+      "CityID": 370,
+      "CityName": "SAN JOSE",
+      "ProvinceID": 17
+    },
+    {
+      "CityID": 371,
+      "CityName": "SAN JUAN",
+      "ProvinceID": 17
+    },
+    {
+      "CityID": 372,
+      "CityName": "SAN LUIS",
+      "ProvinceID": 17
+    },
+    {
+      "CityID": 373,
+      "CityName": "SAN NICOLAS",
+      "ProvinceID": 17
+    },
+    {
+      "CityID": 374,
+      "CityName": "SAN PASCUAL",
+      "ProvinceID": 17
+    },
+    {
+      "CityID": 375,
+      "CityName": "SANTA TERESITA",
+      "ProvinceID": 17
+    },
+    {
+      "CityID": 376,
+      "CityName": "SANTO TOMAS",
+      "ProvinceID": 17
+    },
+    {
+      "CityID": 377,
+      "CityName": "TAAL",
+      "ProvinceID": 17
+    },
+    {
+      "CityID": 378,
+      "CityName": "TALISAY",
+      "ProvinceID": 17
+    },
+    {
+      "CityID": 379,
+      "CityName": "CITY OF TANAUAN",
+      "ProvinceID": 17
+    },
+    {
+      "CityID": 380,
+      "CityName": "TAYSAN",
+      "ProvinceID": 17
+    },
+    {
+      "CityID": 381,
+      "CityName": "TINGLOY",
+      "ProvinceID": 17
+    },
+    {
+      "CityID": 382,
+      "CityName": "TUY",
+      "ProvinceID": 17
+    },
+    {
+      "CityID": 383,
+      "CityName": "ALFONSO",
+      "ProvinceID": 18
+    },
+    {
+      "CityID": 384,
+      "CityName": "AMADEO",
+      "ProvinceID": 18
+    },
+    {
+      "CityID": 385,
+      "CityName": "BACOOR CITY",
+      "ProvinceID": 18
+    },
+    {
+      "CityID": 386,
+      "CityName": "CARMONA",
+      "ProvinceID": 18
+    },
+    {
+      "CityID": 387,
+      "CityName": "CAVITE CITY",
+      "ProvinceID": 18
+    },
+    {
+      "CityID": 388,
+      "CityName": "CITY OF DASMARIÑAS",
+      "ProvinceID": 18
+    },
+    {
+      "CityID": 389,
+      "CityName": "GENERAL EMILIO AGUINALDO",
+      "ProvinceID": 18
+    },
+    {
+      "CityID": 390,
+      "CityName": "GENERAL TRIAS",
+      "ProvinceID": 18
+    },
+    {
+      "CityID": 391,
+      "CityName": "IMUS CITY",
+      "ProvinceID": 18
+    },
+    {
+      "CityID": 392,
+      "CityName": "INDANG",
+      "ProvinceID": 18
+    },
+    {
+      "CityID": 393,
+      "CityName": "KAWIT",
+      "ProvinceID": 18
+    },
+    {
+      "CityID": 394,
+      "CityName": "MAGALLANES",
+      "ProvinceID": 18
+    },
+    {
+      "CityID": 395,
+      "CityName": "MARAGONDON",
+      "ProvinceID": 18
+    },
+    {
+      "CityID": 396,
+      "CityName": "MENDEZ (MENDEZ-NUÑEZ)",
+      "ProvinceID": 18
+    },
+    {
+      "CityID": 397,
+      "CityName": "NAIC",
+      "ProvinceID": 18
+    },
+    {
+      "CityID": 398,
+      "CityName": "NOVELETA",
+      "ProvinceID": 18
+    },
+    {
+      "CityID": 399,
+      "CityName": "ROSARIO",
+      "ProvinceID": 18
+    },
+    {
+      "CityID": 400,
+      "CityName": "SILANG",
+      "ProvinceID": 18
+    },
+    {
+      "CityID": 401,
+      "CityName": "TAGAYTAY CITY",
+      "ProvinceID": 18
+    },
+    {
+      "CityID": 402,
+      "CityName": "TANZA",
+      "ProvinceID": 18
+    },
+    {
+      "CityID": 403,
+      "CityName": "TERNATE",
+      "ProvinceID": 18
+    },
+    {
+      "CityID": 404,
+      "CityName": "TRECE MARTIRES CITY (Capital)",
+      "ProvinceID": 18
+    },
+    {
+      "CityID": 405,
+      "CityName": "GEN. MARIANO ALVAREZ",
+      "ProvinceID": 18
+    },
+    {
+      "CityID": 406,
+      "CityName": "ALAMINOS",
+      "ProvinceID": 19
+    },
+    {
+      "CityID": 407,
+      "CityName": "BAY",
+      "ProvinceID": 19
+    },
+    {
+      "CityID": 408,
+      "CityName": "CITY OF BIÑAN",
+      "ProvinceID": 19
+    },
+    {
+      "CityID": 409,
+      "CityName": "CABUYAO CITY",
+      "ProvinceID": 19
+    },
+    {
+      "CityID": 410,
+      "CityName": "CITY OF CALAMBA",
+      "ProvinceID": 19
+    },
+    {
+      "CityID": 411,
+      "CityName": "CALAUAN",
+      "ProvinceID": 19
+    },
+    {
+      "CityID": 412,
+      "CityName": "CAVINTI",
+      "ProvinceID": 19
+    },
+    {
+      "CityID": 413,
+      "CityName": "FAMY",
+      "ProvinceID": 19
+    },
+    {
+      "CityID": 414,
+      "CityName": "KALAYAAN",
+      "ProvinceID": 19
+    },
+    {
+      "CityID": 415,
+      "CityName": "LILIW",
+      "ProvinceID": 19
+    },
+    {
+      "CityID": 416,
+      "CityName": "LOS BAÑOS",
+      "ProvinceID": 19
+    },
+    {
+      "CityID": 417,
+      "CityName": "LUISIANA",
+      "ProvinceID": 19
+    },
+    {
+      "CityID": 418,
+      "CityName": "LUMBAN",
+      "ProvinceID": 19
+    },
+    {
+      "CityID": 419,
+      "CityName": "MABITAC",
+      "ProvinceID": 19
+    },
+    {
+      "CityID": 420,
+      "CityName": "MAGDALENA",
+      "ProvinceID": 19
+    },
+    {
+      "CityID": 421,
+      "CityName": "MAJAYJAY",
+      "ProvinceID": 19
+    },
+    {
+      "CityID": 422,
+      "CityName": "NAGCARLAN",
+      "ProvinceID": 19
+    },
+    {
+      "CityID": 423,
+      "CityName": "PAETE",
+      "ProvinceID": 19
+    },
+    {
+      "CityID": 424,
+      "CityName": "PAGSANJAN",
+      "ProvinceID": 19
+    },
+    {
+      "CityID": 425,
+      "CityName": "PAKIL",
+      "ProvinceID": 19
+    },
+    {
+      "CityID": 426,
+      "CityName": "PANGIL",
+      "ProvinceID": 19
+    },
+    {
+      "CityID": 427,
+      "CityName": "PILA",
+      "ProvinceID": 19
+    },
+    {
+      "CityID": 428,
+      "CityName": "RIZAL",
+      "ProvinceID": 19
+    },
+    {
+      "CityID": 429,
+      "CityName": "SAN PABLO CITY",
+      "ProvinceID": 19
+    },
+    {
+      "CityID": 430,
+      "CityName": "CITY OF SAN PEDRO",
+      "ProvinceID": 19
+    },
+    {
+      "CityID": 431,
+      "CityName": "SANTA CRUZ (Capital)",
+      "ProvinceID": 19
+    },
+    {
+      "CityID": 432,
+      "CityName": "SANTA MARIA",
+      "ProvinceID": 19
+    },
+    {
+      "CityID": 433,
+      "CityName": "CITY OF SANTA ROSA",
+      "ProvinceID": 19
+    },
+    {
+      "CityID": 434,
+      "CityName": "SINILOAN",
+      "ProvinceID": 19
+    },
+    {
+      "CityID": 435,
+      "CityName": "VICTORIA",
+      "ProvinceID": 19
+    },
+    {
+      "CityID": 436,
+      "CityName": "AGDANGAN",
+      "ProvinceID": 20
+    },
+    {
+      "CityID": 437,
+      "CityName": "ALABAT",
+      "ProvinceID": 20
+    },
+    {
+      "CityID": 438,
+      "CityName": "ATIMONAN",
+      "ProvinceID": 20
+    },
+    {
+      "CityID": 439,
+      "CityName": "BUENAVISTA",
+      "ProvinceID": 20
+    },
+    {
+      "CityID": 440,
+      "CityName": "BURDEOS",
+      "ProvinceID": 20
+    },
+    {
+      "CityID": 441,
+      "CityName": "CALAUAG",
+      "ProvinceID": 20
+    },
+    {
+      "CityID": 442,
+      "CityName": "CANDELARIA",
+      "ProvinceID": 20
+    },
+    {
+      "CityID": 443,
+      "CityName": "CATANAUAN",
+      "ProvinceID": 20
+    },
+    {
+      "CityID": 444,
+      "CityName": "DOLORES",
+      "ProvinceID": 20
+    },
+    {
+      "CityID": 445,
+      "CityName": "GENERAL LUNA",
+      "ProvinceID": 20
+    },
+    {
+      "CityID": 446,
+      "CityName": "GENERAL NAKAR",
+      "ProvinceID": 20
+    },
+    {
+      "CityID": 447,
+      "CityName": "GUINAYANGAN",
+      "ProvinceID": 20
+    },
+    {
+      "CityID": 448,
+      "CityName": "GUMACA",
+      "ProvinceID": 20
+    },
+    {
+      "CityID": 449,
+      "CityName": "INFANTA",
+      "ProvinceID": 20
+    },
+    {
+      "CityID": 450,
+      "CityName": "JOMALIG",
+      "ProvinceID": 20
+    },
+    {
+      "CityID": 451,
+      "CityName": "LOPEZ",
+      "ProvinceID": 20
+    },
+    {
+      "CityID": 452,
+      "CityName": "LUCBAN",
+      "ProvinceID": 20
+    },
+    {
+      "CityID": 453,
+      "CityName": "LUCENA CITY (Capital)",
+      "ProvinceID": 20
+    },
+    {
+      "CityID": 454,
+      "CityName": "MACALELON",
+      "ProvinceID": 20
+    },
+    {
+      "CityID": 455,
+      "CityName": "MAUBAN",
+      "ProvinceID": 20
+    },
+    {
+      "CityID": 456,
+      "CityName": "MULANAY",
+      "ProvinceID": 20
+    },
+    {
+      "CityID": 457,
+      "CityName": "PADRE BURGOS",
+      "ProvinceID": 20
+    },
+    {
+      "CityID": 458,
+      "CityName": "PAGBILAO",
+      "ProvinceID": 20
+    },
+    {
+      "CityID": 459,
+      "CityName": "PANUKULAN",
+      "ProvinceID": 20
+    },
+    {
+      "CityID": 460,
+      "CityName": "PATNANUNGAN",
+      "ProvinceID": 20
+    },
+    {
+      "CityID": 461,
+      "CityName": "PEREZ",
+      "ProvinceID": 20
+    },
+    {
+      "CityID": 462,
+      "CityName": "PITOGO",
+      "ProvinceID": 20
+    },
+    {
+      "CityID": 463,
+      "CityName": "PLARIDEL",
+      "ProvinceID": 20
+    },
+    {
+      "CityID": 464,
+      "CityName": "POLILLO",
+      "ProvinceID": 20
+    },
+    {
+      "CityID": 465,
+      "CityName": "QUEZON",
+      "ProvinceID": 20
+    },
+    {
+      "CityID": 466,
+      "CityName": "REAL",
+      "ProvinceID": 20
+    },
+    {
+      "CityID": 467,
+      "CityName": "SAMPALOC",
+      "ProvinceID": 20
+    },
+    {
+      "CityID": 468,
+      "CityName": "SAN ANDRES",
+      "ProvinceID": 20
+    },
+    {
+      "CityID": 469,
+      "CityName": "SAN ANTONIO",
+      "ProvinceID": 20
+    },
+    {
+      "CityID": 470,
+      "CityName": "SAN FRANCISCO (AURORA)",
+      "ProvinceID": 20
+    },
+    {
+      "CityID": 471,
+      "CityName": "SAN NARCISO",
+      "ProvinceID": 20
+    },
+    {
+      "CityID": 472,
+      "CityName": "SARIAYA",
+      "ProvinceID": 20
+    },
+    {
+      "CityID": 473,
+      "CityName": "TAGKAWAYAN",
+      "ProvinceID": 20
+    },
+    {
+      "CityID": 474,
+      "CityName": "CITY OF TAYABAS",
+      "ProvinceID": 20
+    },
+    {
+      "CityID": 475,
+      "CityName": "TIAONG",
+      "ProvinceID": 20
+    },
+    {
+      "CityID": 476,
+      "CityName": "UNISAN",
+      "ProvinceID": 20
+    },
+    {
+      "CityID": 477,
+      "CityName": "ANGONO",
+      "ProvinceID": 21
+    },
+    {
+      "CityID": 478,
+      "CityName": "CITY OF ANTIPOLO",
+      "ProvinceID": 21
+    },
+    {
+      "CityID": 479,
+      "CityName": "BARAS",
+      "ProvinceID": 21
+    },
+    {
+      "CityID": 480,
+      "CityName": "BINANGONAN",
+      "ProvinceID": 21
+    },
+    {
+      "CityID": 481,
+      "CityName": "CAINTA",
+      "ProvinceID": 21
+    },
+    {
+      "CityID": 482,
+      "CityName": "CARDONA",
+      "ProvinceID": 21
+    },
+    {
+      "CityID": 483,
+      "CityName": "JALA-JALA",
+      "ProvinceID": 21
+    },
+    {
+      "CityID": 484,
+      "CityName": "RODRIGUEZ (MONTALBAN)",
+      "ProvinceID": 21
+    },
+    {
+      "CityID": 485,
+      "CityName": "MORONG",
+      "ProvinceID": 21
+    },
+    {
+      "CityID": 486,
+      "CityName": "PILILLA",
+      "ProvinceID": 21
+    },
+    {
+      "CityID": 487,
+      "CityName": "SAN MATEO",
+      "ProvinceID": 21
+    },
+    {
+      "CityID": 488,
+      "CityName": "TANAY",
+      "ProvinceID": 21
+    },
+    {
+      "CityID": 489,
+      "CityName": "TAYTAY",
+      "ProvinceID": 21
+    },
+    {
+      "CityID": 490,
+      "CityName": "TERESA",
+      "ProvinceID": 21
+    },
+    {
+      "CityID": 491,
+      "CityName": "BOAC (Capital)",
+      "ProvinceID": 22
+    },
+    {
+      "CityID": 492,
+      "CityName": "BUENAVISTA",
+      "ProvinceID": 22
+    },
+    {
+      "CityID": 493,
+      "CityName": "GASAN",
+      "ProvinceID": 22
+    },
+    {
+      "CityID": 494,
+      "CityName": "MOGPOG",
+      "ProvinceID": 22
+    },
+    {
+      "CityID": 495,
+      "CityName": "SANTA CRUZ",
+      "ProvinceID": 22
+    },
+    {
+      "CityID": 496,
+      "CityName": "TORRIJOS",
+      "ProvinceID": 22
+    },
+    {
+      "CityID": 497,
+      "CityName": "ABRA DE ILOG",
+      "ProvinceID": 23
+    },
+    {
+      "CityID": 498,
+      "CityName": "CALINTAAN",
+      "ProvinceID": 23
+    },
+    {
+      "CityID": 499,
+      "CityName": "LOOC",
+      "ProvinceID": 23
+    },
+    {
+      "CityID": 500,
+      "CityName": "LUBANG",
+      "ProvinceID": 23
+    },
+    {
+      "CityID": 501,
+      "CityName": "MAGSAYSAY",
+      "ProvinceID": 23
+    },
+    {
+      "CityID": 502,
+      "CityName": "MAMBURAO (Capital)",
+      "ProvinceID": 23
+    },
+    {
+      "CityID": 503,
+      "CityName": "PALUAN",
+      "ProvinceID": 23
+    },
+    {
+      "CityID": 504,
+      "CityName": "RIZAL",
+      "ProvinceID": 23
+    },
+    {
+      "CityID": 505,
+      "CityName": "SABLAYAN",
+      "ProvinceID": 23
+    },
+    {
+      "CityID": 506,
+      "CityName": "SAN JOSE",
+      "ProvinceID": 23
+    },
+    {
+      "CityID": 507,
+      "CityName": "SANTA CRUZ",
+      "ProvinceID": 23
+    },
+    {
+      "CityID": 508,
+      "CityName": "BACO",
+      "ProvinceID": 24
+    },
+    {
+      "CityID": 509,
+      "CityName": "BANSUD",
+      "ProvinceID": 24
+    },
+    {
+      "CityID": 510,
+      "CityName": "BONGABONG",
+      "ProvinceID": 24
+    },
+    {
+      "CityID": 511,
+      "CityName": "BULALACAO (SAN PEDRO)",
+      "ProvinceID": 24
+    },
+    {
+      "CityID": 512,
+      "CityName": "CITY OF CALAPAN (Capital)",
+      "ProvinceID": 24
+    },
+    {
+      "CityID": 513,
+      "CityName": "GLORIA",
+      "ProvinceID": 24
+    },
+    {
+      "CityID": 514,
+      "CityName": "MANSALAY",
+      "ProvinceID": 24
+    },
+    {
+      "CityID": 515,
+      "CityName": "NAUJAN",
+      "ProvinceID": 24
+    },
+    {
+      "CityID": 516,
+      "CityName": "PINAMALAYAN",
+      "ProvinceID": 24
+    },
+    {
+      "CityID": 517,
+      "CityName": "POLA",
+      "ProvinceID": 24
+    },
+    {
+      "CityID": 518,
+      "CityName": "PUERTO GALERA",
+      "ProvinceID": 24
+    },
+    {
+      "CityID": 519,
+      "CityName": "ROXAS",
+      "ProvinceID": 24
+    },
+    {
+      "CityID": 520,
+      "CityName": "SAN TEODORO",
+      "ProvinceID": 24
+    },
+    {
+      "CityID": 521,
+      "CityName": "SOCORRO",
+      "ProvinceID": 24
+    },
+    {
+      "CityID": 522,
+      "CityName": "VICTORIA",
+      "ProvinceID": 24
+    },
+    {
+      "CityID": 523,
+      "CityName": "ABORLAN",
+      "ProvinceID": 25
+    },
+    {
+      "CityID": 524,
+      "CityName": "AGUTAYA",
+      "ProvinceID": 25
+    },
+    {
+      "CityID": 525,
+      "CityName": "ARACELI",
+      "ProvinceID": 25
+    },
+    {
+      "CityID": 526,
+      "CityName": "BALABAC",
+      "ProvinceID": 25
+    },
+    {
+      "CityID": 527,
+      "CityName": "BATARAZA",
+      "ProvinceID": 25
+    },
+    {
+      "CityID": 528,
+      "CityName": "BROOKE'S POINT",
+      "ProvinceID": 25
+    },
+    {
+      "CityID": 529,
+      "CityName": "BUSUANGA",
+      "ProvinceID": 25
+    },
+    {
+      "CityID": 530,
+      "CityName": "CAGAYANCILLO",
+      "ProvinceID": 25
+    },
+    {
+      "CityID": 531,
+      "CityName": "CORON",
+      "ProvinceID": 25
+    },
+    {
+      "CityID": 532,
+      "CityName": "CUYO",
+      "ProvinceID": 25
+    },
+    {
+      "CityID": 533,
+      "CityName": "DUMARAN",
+      "ProvinceID": 25
+    },
+    {
+      "CityID": 534,
+      "CityName": "EL NIDO (BACUIT)",
+      "ProvinceID": 25
+    },
+    {
+      "CityID": 535,
+      "CityName": "LINAPACAN",
+      "ProvinceID": 25
+    },
+    {
+      "CityID": 536,
+      "CityName": "MAGSAYSAY",
+      "ProvinceID": 25
+    },
+    {
+      "CityID": 537,
+      "CityName": "NARRA",
+      "ProvinceID": 25
+    },
+    {
+      "CityID": 538,
+      "CityName": "PUERTO PRINCESA CITY (Capital)",
+      "ProvinceID": 25
+    },
+    {
+      "CityID": 539,
+      "CityName": "QUEZON",
+      "ProvinceID": 25
+    },
+    {
+      "CityID": 540,
+      "CityName": "ROXAS",
+      "ProvinceID": 25
+    },
+    {
+      "CityID": 541,
+      "CityName": "SAN VICENTE",
+      "ProvinceID": 25
+    },
+    {
+      "CityID": 542,
+      "CityName": "TAYTAY",
+      "ProvinceID": 25
+    },
+    {
+      "CityID": 543,
+      "CityName": "KALAYAAN",
+      "ProvinceID": 25
+    },
+    {
+      "CityID": 544,
+      "CityName": "CULION",
+      "ProvinceID": 25
+    },
+    {
+      "CityID": 545,
+      "CityName": "RIZAL (MARCOS)",
+      "ProvinceID": 25
+    },
+    {
+      "CityID": 546,
+      "CityName": "SOFRONIO ESPAÑOLA",
+      "ProvinceID": 25
+    },
+    {
+      "CityID": 547,
+      "CityName": "ALCANTARA",
+      "ProvinceID": 26
+    },
+    {
+      "CityID": 548,
+      "CityName": "BANTON",
+      "ProvinceID": 26
+    },
+    {
+      "CityID": 549,
+      "CityName": "CAJIDIOCAN",
+      "ProvinceID": 26
+    },
+    {
+      "CityID": 550,
+      "CityName": "CALATRAVA",
+      "ProvinceID": 26
+    },
+    {
+      "CityID": 551,
+      "CityName": "CONCEPCION",
+      "ProvinceID": 26
+    },
+    {
+      "CityID": 552,
+      "CityName": "CORCUERA",
+      "ProvinceID": 26
+    },
+    {
+      "CityID": 553,
+      "CityName": "LOOC",
+      "ProvinceID": 26
+    },
+    {
+      "CityID": 554,
+      "CityName": "MAGDIWANG",
+      "ProvinceID": 26
+    },
+    {
+      "CityID": 555,
+      "CityName": "ODIONGAN",
+      "ProvinceID": 26
+    },
+    {
+      "CityID": 556,
+      "CityName": "ROMBLON (Capital)",
+      "ProvinceID": 26
+    },
+    {
+      "CityID": 557,
+      "CityName": "SAN AGUSTIN",
+      "ProvinceID": 26
+    },
+    {
+      "CityID": 558,
+      "CityName": "SAN ANDRES",
+      "ProvinceID": 26
+    },
+    {
+      "CityID": 559,
+      "CityName": "SAN FERNANDO",
+      "ProvinceID": 26
+    },
+    {
+      "CityID": 560,
+      "CityName": "SAN JOSE",
+      "ProvinceID": 26
+    },
+    {
+      "CityID": 561,
+      "CityName": "SANTA FE",
+      "ProvinceID": 26
+    },
+    {
+      "CityID": 562,
+      "CityName": "FERROL",
+      "ProvinceID": 26
+    },
+    {
+      "CityID": 563,
+      "CityName": "SANTA MARIA (IMELDA)",
+      "ProvinceID": 26
+    },
+    {
+      "CityID": 564,
+      "CityName": "BACACAY",
+      "ProvinceID": 27
+    },
+    {
+      "CityID": 565,
+      "CityName": "CAMALIG",
+      "ProvinceID": 27
+    },
+    {
+      "CityID": 566,
+      "CityName": "DARAGA (LOCSIN)",
+      "ProvinceID": 27
+    },
+    {
+      "CityID": 567,
+      "CityName": "GUINOBATAN",
+      "ProvinceID": 27
+    },
+    {
+      "CityID": 568,
+      "CityName": "JOVELLAR",
+      "ProvinceID": 27
+    },
+    {
+      "CityID": 569,
+      "CityName": "LEGAZPI CITY (Capital)",
+      "ProvinceID": 27
+    },
+    {
+      "CityID": 570,
+      "CityName": "LIBON",
+      "ProvinceID": 27
+    },
+    {
+      "CityID": 571,
+      "CityName": "CITY OF LIGAO",
+      "ProvinceID": 27
+    },
+    {
+      "CityID": 572,
+      "CityName": "MALILIPOT",
+      "ProvinceID": 27
+    },
+    {
+      "CityID": 573,
+      "CityName": "MALINAO",
+      "ProvinceID": 27
+    },
+    {
+      "CityID": 574,
+      "CityName": "MANITO",
+      "ProvinceID": 27
+    },
+    {
+      "CityID": 575,
+      "CityName": "OAS",
+      "ProvinceID": 27
+    },
+    {
+      "CityID": 576,
+      "CityName": "PIO DURAN",
+      "ProvinceID": 27
+    },
+    {
+      "CityID": 577,
+      "CityName": "POLANGUI",
+      "ProvinceID": 27
+    },
+    {
+      "CityID": 578,
+      "CityName": "RAPU-RAPU",
+      "ProvinceID": 27
+    },
+    {
+      "CityID": 579,
+      "CityName": "SANTO DOMINGO (LIBOG)",
+      "ProvinceID": 27
+    },
+    {
+      "CityID": 580,
+      "CityName": "CITY OF TABACO",
+      "ProvinceID": 27
+    },
+    {
+      "CityID": 581,
+      "CityName": "TIWI",
+      "ProvinceID": 27
+    },
+    {
+      "CityID": 582,
+      "CityName": "BASUD",
+      "ProvinceID": 28
+    },
+    {
+      "CityID": 583,
+      "CityName": "CAPALONGA",
+      "ProvinceID": 28
+    },
+    {
+      "CityID": 584,
+      "CityName": "DAET (Capital)",
+      "ProvinceID": 28
+    },
+    {
+      "CityID": 585,
+      "CityName": "SAN LORENZO RUIZ (IMELDA)",
+      "ProvinceID": 28
+    },
+    {
+      "CityID": 586,
+      "CityName": "JOSE PANGANIBAN",
+      "ProvinceID": 28
+    },
+    {
+      "CityID": 587,
+      "CityName": "LABO",
+      "ProvinceID": 28
+    },
+    {
+      "CityID": 588,
+      "CityName": "MERCEDES",
+      "ProvinceID": 28
+    },
+    {
+      "CityID": 589,
+      "CityName": "PARACALE",
+      "ProvinceID": 28
+    },
+    {
+      "CityID": 590,
+      "CityName": "SAN VICENTE",
+      "ProvinceID": 28
+    },
+    {
+      "CityID": 591,
+      "CityName": "SANTA ELENA",
+      "ProvinceID": 28
+    },
+    {
+      "CityID": 592,
+      "CityName": "TALISAY",
+      "ProvinceID": 28
+    },
+    {
+      "CityID": 593,
+      "CityName": "VINZONS",
+      "ProvinceID": 28
+    },
+    {
+      "CityID": 594,
+      "CityName": "BAAO",
+      "ProvinceID": 29
+    },
+    {
+      "CityID": 595,
+      "CityName": "BALATAN",
+      "ProvinceID": 29
+    },
+    {
+      "CityID": 596,
+      "CityName": "BATO",
+      "ProvinceID": 29
+    },
+    {
+      "CityID": 597,
+      "CityName": "BOMBON",
+      "ProvinceID": 29
+    },
+    {
+      "CityID": 598,
+      "CityName": "BUHI",
+      "ProvinceID": 29
+    },
+    {
+      "CityID": 599,
+      "CityName": "BULA",
+      "ProvinceID": 29
+    },
+    {
+      "CityID": 600,
+      "CityName": "CABUSAO",
+      "ProvinceID": 29
+    },
+    {
+      "CityID": 601,
+      "CityName": "CALABANGA",
+      "ProvinceID": 29
+    },
+    {
+      "CityID": 602,
+      "CityName": "CAMALIGAN",
+      "ProvinceID": 29
+    },
+    {
+      "CityID": 603,
+      "CityName": "CANAMAN",
+      "ProvinceID": 29
+    },
+    {
+      "CityID": 604,
+      "CityName": "CARAMOAN",
+      "ProvinceID": 29
+    },
+    {
+      "CityID": 605,
+      "CityName": "DEL GALLEGO",
+      "ProvinceID": 29
+    },
+    {
+      "CityID": 606,
+      "CityName": "GAINZA",
+      "ProvinceID": 29
+    },
+    {
+      "CityID": 607,
+      "CityName": "GARCHITORENA",
+      "ProvinceID": 29
+    },
+    {
+      "CityID": 608,
+      "CityName": "GOA",
+      "ProvinceID": 29
+    },
+    {
+      "CityID": 609,
+      "CityName": "IRIGA CITY",
+      "ProvinceID": 29
+    },
+    {
+      "CityID": 610,
+      "CityName": "LAGONOY",
+      "ProvinceID": 29
+    },
+    {
+      "CityID": 611,
+      "CityName": "LIBMANAN",
+      "ProvinceID": 29
+    },
+    {
+      "CityID": 612,
+      "CityName": "LUPI",
+      "ProvinceID": 29
+    },
+    {
+      "CityID": 613,
+      "CityName": "MAGARAO",
+      "ProvinceID": 29
+    },
+    {
+      "CityID": 614,
+      "CityName": "MILAOR",
+      "ProvinceID": 29
+    },
+    {
+      "CityID": 615,
+      "CityName": "MINALABAC",
+      "ProvinceID": 29
+    },
+    {
+      "CityID": 616,
+      "CityName": "NABUA",
+      "ProvinceID": 29
+    },
+    {
+      "CityID": 617,
+      "CityName": "NAGA CITY",
+      "ProvinceID": 29
+    },
+    {
+      "CityID": 618,
+      "CityName": "OCAMPO",
+      "ProvinceID": 29
+    },
+    {
+      "CityID": 619,
+      "CityName": "PAMPLONA",
+      "ProvinceID": 29
+    },
+    {
+      "CityID": 620,
+      "CityName": "PASACAO",
+      "ProvinceID": 29
+    },
+    {
+      "CityID": 621,
+      "CityName": "PILI (Capital)",
+      "ProvinceID": 29
+    },
+    {
+      "CityID": 622,
+      "CityName": "PRESENTACION (PARUBCAN)",
+      "ProvinceID": 29
+    },
+    {
+      "CityID": 623,
+      "CityName": "RAGAY",
+      "ProvinceID": 29
+    },
+    {
+      "CityID": 624,
+      "CityName": "SAGÑAY",
+      "ProvinceID": 29
+    },
+    {
+      "CityID": 625,
+      "CityName": "SAN FERNANDO",
+      "ProvinceID": 29
+    },
+    {
+      "CityID": 626,
+      "CityName": "SAN JOSE",
+      "ProvinceID": 29
+    },
+    {
+      "CityID": 627,
+      "CityName": "SIPOCOT",
+      "ProvinceID": 29
+    },
+    {
+      "CityID": 628,
+      "CityName": "SIRUMA",
+      "ProvinceID": 29
+    },
+    {
+      "CityID": 629,
+      "CityName": "TIGAON",
+      "ProvinceID": 29
+    },
+    {
+      "CityID": 630,
+      "CityName": "TINAMBAC",
+      "ProvinceID": 29
+    },
+    {
+      "CityID": 631,
+      "CityName": "BAGAMANOC",
+      "ProvinceID": 30
+    },
+    {
+      "CityID": 632,
+      "CityName": "BARAS",
+      "ProvinceID": 30
+    },
+    {
+      "CityID": 633,
+      "CityName": "BATO",
+      "ProvinceID": 30
+    },
+    {
+      "CityID": 634,
+      "CityName": "CARAMORAN",
+      "ProvinceID": 30
+    },
+    {
+      "CityID": 635,
+      "CityName": "GIGMOTO",
+      "ProvinceID": 30
+    },
+    {
+      "CityID": 636,
+      "CityName": "PANDAN",
+      "ProvinceID": 30
+    },
+    {
+      "CityID": 637,
+      "CityName": "PANGANIBAN (PAYO)",
+      "ProvinceID": 30
+    },
+    {
+      "CityID": 638,
+      "CityName": "SAN ANDRES (CALOLBON)",
+      "ProvinceID": 30
+    },
+    {
+      "CityID": 639,
+      "CityName": "SAN MIGUEL",
+      "ProvinceID": 30
+    },
+    {
+      "CityID": 640,
+      "CityName": "VIGA",
+      "ProvinceID": 30
+    },
+    {
+      "CityID": 641,
+      "CityName": "VIRAC (Capital)",
+      "ProvinceID": 30
+    },
+    {
+      "CityID": 642,
+      "CityName": "AROROY",
+      "ProvinceID": 31
+    },
+    {
+      "CityID": 643,
+      "CityName": "BALENO",
+      "ProvinceID": 31
+    },
+    {
+      "CityID": 644,
+      "CityName": "BALUD",
+      "ProvinceID": 31
+    },
+    {
+      "CityID": 645,
+      "CityName": "BATUAN",
+      "ProvinceID": 31
+    },
+    {
+      "CityID": 646,
+      "CityName": "CATAINGAN",
+      "ProvinceID": 31
+    },
+    {
+      "CityID": 647,
+      "CityName": "CAWAYAN",
+      "ProvinceID": 31
+    },
+    {
+      "CityID": 648,
+      "CityName": "CLAVERIA",
+      "ProvinceID": 31
+    },
+    {
+      "CityID": 649,
+      "CityName": "DIMASALANG",
+      "ProvinceID": 31
+    },
+    {
+      "CityID": 650,
+      "CityName": "ESPERANZA",
+      "ProvinceID": 31
+    },
+    {
+      "CityID": 651,
+      "CityName": "MANDAON",
+      "ProvinceID": 31
+    },
+    {
+      "CityID": 652,
+      "CityName": "CITY OF MASBATE (Capital)",
+      "ProvinceID": 31
+    },
+    {
+      "CityID": 653,
+      "CityName": "MILAGROS",
+      "ProvinceID": 31
+    },
+    {
+      "CityID": 654,
+      "CityName": "MOBO",
+      "ProvinceID": 31
+    },
+    {
+      "CityID": 655,
+      "CityName": "MONREAL",
+      "ProvinceID": 31
+    },
+    {
+      "CityID": 656,
+      "CityName": "PALANAS",
+      "ProvinceID": 31
+    },
+    {
+      "CityID": 657,
+      "CityName": "PIO V. CORPUZ (LIMBUHAN)",
+      "ProvinceID": 31
+    },
+    {
+      "CityID": 658,
+      "CityName": "PLACER",
+      "ProvinceID": 31
+    },
+    {
+      "CityID": 659,
+      "CityName": "SAN FERNANDO",
+      "ProvinceID": 31
+    },
+    {
+      "CityID": 660,
+      "CityName": "SAN JACINTO",
+      "ProvinceID": 31
+    },
+    {
+      "CityID": 661,
+      "CityName": "SAN PASCUAL",
+      "ProvinceID": 31
+    },
+    {
+      "CityID": 662,
+      "CityName": "USON",
+      "ProvinceID": 31
+    },
+    {
+      "CityID": 663,
+      "CityName": "BARCELONA",
+      "ProvinceID": 32
+    },
+    {
+      "CityID": 664,
+      "CityName": "BULAN",
+      "ProvinceID": 32
+    },
+    {
+      "CityID": 665,
+      "CityName": "BULUSAN",
+      "ProvinceID": 32
+    },
+    {
+      "CityID": 666,
+      "CityName": "CASIGURAN",
+      "ProvinceID": 32
+    },
+    {
+      "CityID": 667,
+      "CityName": "CASTILLA",
+      "ProvinceID": 32
+    },
+    {
+      "CityID": 668,
+      "CityName": "DONSOL",
+      "ProvinceID": 32
+    },
+    {
+      "CityID": 669,
+      "CityName": "GUBAT",
+      "ProvinceID": 32
+    },
+    {
+      "CityID": 670,
+      "CityName": "IROSIN",
+      "ProvinceID": 32
+    },
+    {
+      "CityID": 671,
+      "CityName": "JUBAN",
+      "ProvinceID": 32
+    },
+    {
+      "CityID": 672,
+      "CityName": "MAGALLANES",
+      "ProvinceID": 32
+    },
+    {
+      "CityID": 673,
+      "CityName": "MATNOG",
+      "ProvinceID": 32
+    },
+    {
+      "CityID": 674,
+      "CityName": "PILAR",
+      "ProvinceID": 32
+    },
+    {
+      "CityID": 675,
+      "CityName": "PRIETO DIAZ",
+      "ProvinceID": 32
+    },
+    {
+      "CityID": 676,
+      "CityName": "SANTA MAGDALENA",
+      "ProvinceID": 32
+    },
+    {
+      "CityID": 677,
+      "CityName": "CITY OF SORSOGON (Capital)",
+      "ProvinceID": 32
+    },
+    {
+      "CityID": 678,
+      "CityName": "ALTAVAS",
+      "ProvinceID": 33
+    },
+    {
+      "CityID": 679,
+      "CityName": "BALETE",
+      "ProvinceID": 33
+    },
+    {
+      "CityID": 680,
+      "CityName": "BANGA",
+      "ProvinceID": 33
+    },
+    {
+      "CityID": 681,
+      "CityName": "BATAN",
+      "ProvinceID": 33
+    },
+    {
+      "CityID": 682,
+      "CityName": "BURUANGA",
+      "ProvinceID": 33
+    },
+    {
+      "CityID": 683,
+      "CityName": "IBAJAY",
+      "ProvinceID": 33
+    },
+    {
+      "CityID": 684,
+      "CityName": "KALIBO (Capital)",
+      "ProvinceID": 33
+    },
+    {
+      "CityID": 685,
+      "CityName": "LEZO",
+      "ProvinceID": 33
+    },
+    {
+      "CityID": 686,
+      "CityName": "LIBACAO",
+      "ProvinceID": 33
+    },
+    {
+      "CityID": 687,
+      "CityName": "MADALAG",
+      "ProvinceID": 33
+    },
+    {
+      "CityID": 688,
+      "CityName": "MAKATO",
+      "ProvinceID": 33
+    },
+    {
+      "CityID": 689,
+      "CityName": "MALAY",
+      "ProvinceID": 33
+    },
+    {
+      "CityID": 690,
+      "CityName": "MALINAO",
+      "ProvinceID": 33
+    },
+    {
+      "CityID": 691,
+      "CityName": "NABAS",
+      "ProvinceID": 33
+    },
+    {
+      "CityID": 692,
+      "CityName": "NEW WASHINGTON",
+      "ProvinceID": 33
+    },
+    {
+      "CityID": 693,
+      "CityName": "NUMANCIA",
+      "ProvinceID": 33
+    },
+    {
+      "CityID": 694,
+      "CityName": "TANGALAN",
+      "ProvinceID": 33
+    },
+    {
+      "CityID": 695,
+      "CityName": "ANINI-Y",
+      "ProvinceID": 34
+    },
+    {
+      "CityID": 696,
+      "CityName": "BARBAZA",
+      "ProvinceID": 34
+    },
+    {
+      "CityID": 697,
+      "CityName": "BELISON",
+      "ProvinceID": 34
+    },
+    {
+      "CityID": 698,
+      "CityName": "BUGASONG",
+      "ProvinceID": 34
+    },
+    {
+      "CityID": 699,
+      "CityName": "CALUYA",
+      "ProvinceID": 34
+    },
+    {
+      "CityID": 700,
+      "CityName": "CULASI",
+      "ProvinceID": 34
+    },
+    {
+      "CityID": 701,
+      "CityName": "TOBIAS FORNIER (DAO)",
+      "ProvinceID": 34
+    },
+    {
+      "CityID": 702,
+      "CityName": "HAMTIC",
+      "ProvinceID": 34
+    },
+    {
+      "CityID": 703,
+      "CityName": "LAUA-AN",
+      "ProvinceID": 34
+    },
+    {
+      "CityID": 704,
+      "CityName": "LIBERTAD",
+      "ProvinceID": 34
+    },
+    {
+      "CityID": 705,
+      "CityName": "PANDAN",
+      "ProvinceID": 34
+    },
+    {
+      "CityID": 706,
+      "CityName": "PATNONGON",
+      "ProvinceID": 34
+    },
+    {
+      "CityID": 707,
+      "CityName": "SAN JOSE (Capital)",
+      "ProvinceID": 34
+    },
+    {
+      "CityID": 708,
+      "CityName": "SAN REMIGIO",
+      "ProvinceID": 34
+    },
+    {
+      "CityID": 709,
+      "CityName": "SEBASTE",
+      "ProvinceID": 34
+    },
+    {
+      "CityID": 710,
+      "CityName": "SIBALOM",
+      "ProvinceID": 34
+    },
+    {
+      "CityID": 711,
+      "CityName": "TIBIAO",
+      "ProvinceID": 34
+    },
+    {
+      "CityID": 712,
+      "CityName": "VALDERRAMA",
+      "ProvinceID": 34
+    },
+    {
+      "CityID": 713,
+      "CityName": "CUARTERO",
+      "ProvinceID": 35
+    },
+    {
+      "CityID": 714,
+      "CityName": "DAO",
+      "ProvinceID": 35
+    },
+    {
+      "CityID": 715,
+      "CityName": "DUMALAG",
+      "ProvinceID": 35
+    },
+    {
+      "CityID": 716,
+      "CityName": "DUMARAO",
+      "ProvinceID": 35
+    },
+    {
+      "CityID": 717,
+      "CityName": "IVISAN",
+      "ProvinceID": 35
+    },
+    {
+      "CityID": 718,
+      "CityName": "JAMINDAN",
+      "ProvinceID": 35
+    },
+    {
+      "CityID": 719,
+      "CityName": "MA-AYON",
+      "ProvinceID": 35
+    },
+    {
+      "CityID": 720,
+      "CityName": "MAMBUSAO",
+      "ProvinceID": 35
+    },
+    {
+      "CityID": 721,
+      "CityName": "PANAY",
+      "ProvinceID": 35
+    },
+    {
+      "CityID": 722,
+      "CityName": "PANITAN",
+      "ProvinceID": 35
+    },
+    {
+      "CityID": 723,
+      "CityName": "PILAR",
+      "ProvinceID": 35
+    },
+    {
+      "CityID": 724,
+      "CityName": "PONTEVEDRA",
+      "ProvinceID": 35
+    },
+    {
+      "CityID": 725,
+      "CityName": "PRESIDENT ROXAS",
+      "ProvinceID": 35
+    },
+    {
+      "CityID": 726,
+      "CityName": "ROXAS CITY (Capital)",
+      "ProvinceID": 35
+    },
+    {
+      "CityID": 727,
+      "CityName": "SAPI-AN",
+      "ProvinceID": 35
+    },
+    {
+      "CityID": 728,
+      "CityName": "SIGMA",
+      "ProvinceID": 35
+    },
+    {
+      "CityID": 729,
+      "CityName": "TAPAZ",
+      "ProvinceID": 35
+    },
+    {
+      "CityID": 730,
+      "CityName": "AJUY",
+      "ProvinceID": 36
+    },
+    {
+      "CityID": 731,
+      "CityName": "ALIMODIAN",
+      "ProvinceID": 36
+    },
+    {
+      "CityID": 732,
+      "CityName": "ANILAO",
+      "ProvinceID": 36
+    },
+    {
+      "CityID": 733,
+      "CityName": "BADIANGAN",
+      "ProvinceID": 36
+    },
+    {
+      "CityID": 734,
+      "CityName": "BALASAN",
+      "ProvinceID": 36
+    },
+    {
+      "CityID": 735,
+      "CityName": "BANATE",
+      "ProvinceID": 36
+    },
+    {
+      "CityID": 736,
+      "CityName": "BAROTAC NUEVO",
+      "ProvinceID": 36
+    },
+    {
+      "CityID": 737,
+      "CityName": "BAROTAC VIEJO",
+      "ProvinceID": 36
+    },
+    {
+      "CityID": 738,
+      "CityName": "BATAD",
+      "ProvinceID": 36
+    },
+    {
+      "CityID": 739,
+      "CityName": "BINGAWAN",
+      "ProvinceID": 36
+    },
+    {
+      "CityID": 740,
+      "CityName": "CABATUAN",
+      "ProvinceID": 36
+    },
+    {
+      "CityID": 741,
+      "CityName": "CALINOG",
+      "ProvinceID": 36
+    },
+    {
+      "CityID": 742,
+      "CityName": "CARLES",
+      "ProvinceID": 36
+    },
+    {
+      "CityID": 743,
+      "CityName": "CONCEPCION",
+      "ProvinceID": 36
+    },
+    {
+      "CityID": 744,
+      "CityName": "DINGLE",
+      "ProvinceID": 36
+    },
+    {
+      "CityID": 745,
+      "CityName": "DUEÑAS",
+      "ProvinceID": 36
+    },
+    {
+      "CityID": 746,
+      "CityName": "DUMANGAS",
+      "ProvinceID": 36
+    },
+    {
+      "CityID": 747,
+      "CityName": "ESTANCIA",
+      "ProvinceID": 36
+    },
+    {
+      "CityID": 748,
+      "CityName": "GUIMBAL",
+      "ProvinceID": 36
+    },
+    {
+      "CityID": 749,
+      "CityName": "IGBARAS",
+      "ProvinceID": 36
+    },
+    {
+      "CityID": 750,
+      "CityName": "ILOILO CITY (Capital)",
+      "ProvinceID": 36
+    },
+    {
+      "CityID": 751,
+      "CityName": "JANIUAY",
+      "ProvinceID": 36
+    },
+    {
+      "CityID": 752,
+      "CityName": "LAMBUNAO",
+      "ProvinceID": 36
+    },
+    {
+      "CityID": 753,
+      "CityName": "LEGANES",
+      "ProvinceID": 36
+    },
+    {
+      "CityID": 754,
+      "CityName": "LEMERY",
+      "ProvinceID": 36
+    },
+    {
+      "CityID": 755,
+      "CityName": "LEON",
+      "ProvinceID": 36
+    },
+    {
+      "CityID": 756,
+      "CityName": "MAASIN",
+      "ProvinceID": 36
+    },
+    {
+      "CityID": 757,
+      "CityName": "MIAGAO",
+      "ProvinceID": 36
+    },
+    {
+      "CityID": 758,
+      "CityName": "MINA",
+      "ProvinceID": 36
+    },
+    {
+      "CityID": 759,
+      "CityName": "NEW LUCENA",
+      "ProvinceID": 36
+    },
+    {
+      "CityID": 760,
+      "CityName": "OTON",
+      "ProvinceID": 36
+    },
+    {
+      "CityID": 761,
+      "CityName": "CITY OF PASSI",
+      "ProvinceID": 36
+    },
+    {
+      "CityID": 762,
+      "CityName": "PAVIA",
+      "ProvinceID": 36
+    },
+    {
+      "CityID": 763,
+      "CityName": "POTOTAN",
+      "ProvinceID": 36
+    },
+    {
+      "CityID": 764,
+      "CityName": "SAN DIONISIO",
+      "ProvinceID": 36
+    },
+    {
+      "CityID": 765,
+      "CityName": "SAN ENRIQUE",
+      "ProvinceID": 36
+    },
+    {
+      "CityID": 766,
+      "CityName": "SAN JOAQUIN",
+      "ProvinceID": 36
+    },
+    {
+      "CityID": 767,
+      "CityName": "SAN MIGUEL",
+      "ProvinceID": 36
+    },
+    {
+      "CityID": 768,
+      "CityName": "SAN RAFAEL",
+      "ProvinceID": 36
+    },
+    {
+      "CityID": 769,
+      "CityName": "SANTA BARBARA",
+      "ProvinceID": 36
+    },
+    {
+      "CityID": 770,
+      "CityName": "SARA",
+      "ProvinceID": 36
+    },
+    {
+      "CityID": 771,
+      "CityName": "TIGBAUAN",
+      "ProvinceID": 36
+    },
+    {
+      "CityID": 772,
+      "CityName": "TUBUNGAN",
+      "ProvinceID": 36
+    },
+    {
+      "CityID": 773,
+      "CityName": "ZARRAGA",
+      "ProvinceID": 36
+    },
+    {
+      "CityID": 774,
+      "CityName": "BACOLOD CITY (Capital)",
+      "ProvinceID": 37
+    },
+    {
+      "CityID": 775,
+      "CityName": "BAGO CITY",
+      "ProvinceID": 37
+    },
+    {
+      "CityID": 776,
+      "CityName": "BINALBAGAN",
+      "ProvinceID": 37
+    },
+    {
+      "CityID": 777,
+      "CityName": "CADIZ CITY",
+      "ProvinceID": 37
+    },
+    {
+      "CityID": 778,
+      "CityName": "CALATRAVA",
+      "ProvinceID": 37
+    },
+    {
+      "CityID": 779,
+      "CityName": "CANDONI",
+      "ProvinceID": 37
+    },
+    {
+      "CityID": 780,
+      "CityName": "CAUAYAN",
+      "ProvinceID": 37
+    },
+    {
+      "CityID": 781,
+      "CityName": "ENRIQUE B. MAGALONA (SARAVIA)",
+      "ProvinceID": 37
+    },
+    {
+      "CityID": 782,
+      "CityName": "CITY OF ESCALANTE",
+      "ProvinceID": 37
+    },
+    {
+      "CityID": 783,
+      "CityName": "CITY OF HIMAMAYLAN",
+      "ProvinceID": 37
+    },
+    {
+      "CityID": 784,
+      "CityName": "HINIGARAN",
+      "ProvinceID": 37
+    },
+    {
+      "CityID": 785,
+      "CityName": "HINOBA-AN (ASIA)",
+      "ProvinceID": 37
+    },
+    {
+      "CityID": 786,
+      "CityName": "ILOG",
+      "ProvinceID": 37
+    },
+    {
+      "CityID": 787,
+      "CityName": "ISABELA",
+      "ProvinceID": 37
+    },
+    {
+      "CityID": 788,
+      "CityName": "CITY OF KABANKALAN",
+      "ProvinceID": 37
+    },
+    {
+      "CityID": 789,
+      "CityName": "LA CARLOTA CITY",
+      "ProvinceID": 37
+    },
+    {
+      "CityID": 790,
+      "CityName": "LA CASTELLANA",
+      "ProvinceID": 37
+    },
+    {
+      "CityID": 791,
+      "CityName": "MANAPLA",
+      "ProvinceID": 37
+    },
+    {
+      "CityID": 792,
+      "CityName": "MOISES PADILLA (MAGALLON)",
+      "ProvinceID": 37
+    },
+    {
+      "CityID": 793,
+      "CityName": "MURCIA",
+      "ProvinceID": 37
+    },
+    {
+      "CityID": 794,
+      "CityName": "PONTEVEDRA",
+      "ProvinceID": 37
+    },
+    {
+      "CityID": 795,
+      "CityName": "PULUPANDAN",
+      "ProvinceID": 37
+    },
+    {
+      "CityID": 796,
+      "CityName": "SAGAY CITY",
+      "ProvinceID": 37
+    },
+    {
+      "CityID": 797,
+      "CityName": "SAN CARLOS CITY",
+      "ProvinceID": 37
+    },
+    {
+      "CityID": 798,
+      "CityName": "SAN ENRIQUE",
+      "ProvinceID": 37
+    },
+    {
+      "CityID": 799,
+      "CityName": "SILAY CITY",
+      "ProvinceID": 37
+    },
+    {
+      "CityID": 800,
+      "CityName": "CITY OF SIPALAY",
+      "ProvinceID": 37
+    },
+    {
+      "CityID": 801,
+      "CityName": "CITY OF TALISAY",
+      "ProvinceID": 37
+    },
+    {
+      "CityID": 802,
+      "CityName": "TOBOSO",
+      "ProvinceID": 37
+    },
+    {
+      "CityID": 803,
+      "CityName": "VALLADOLID",
+      "ProvinceID": 37
+    },
+    {
+      "CityID": 804,
+      "CityName": "CITY OF VICTORIAS",
+      "ProvinceID": 37
+    },
+    {
+      "CityID": 805,
+      "CityName": "SALVADOR BENEDICTO",
+      "ProvinceID": 37
+    },
+    {
+      "CityID": 806,
+      "CityName": "BUENAVISTA",
+      "ProvinceID": 38
+    },
+    {
+      "CityID": 807,
+      "CityName": "JORDAN (Capital)",
+      "ProvinceID": 38
+    },
+    {
+      "CityID": 808,
+      "CityName": "NUEVA VALENCIA",
+      "ProvinceID": 38
+    },
+    {
+      "CityID": 809,
+      "CityName": "SAN LORENZO",
+      "ProvinceID": 38
+    },
+    {
+      "CityID": 810,
+      "CityName": "SIBUNAG",
+      "ProvinceID": 38
+    },
+    {
+      "CityID": 811,
+      "CityName": "ALBURQUERQUE",
+      "ProvinceID": 39
+    },
+    {
+      "CityID": 812,
+      "CityName": "ALICIA",
+      "ProvinceID": 39
+    },
+    {
+      "CityID": 813,
+      "CityName": "ANDA",
+      "ProvinceID": 39
+    },
+    {
+      "CityID": 814,
+      "CityName": "ANTEQUERA",
+      "ProvinceID": 39
+    },
+    {
+      "CityID": 815,
+      "CityName": "BACLAYON",
+      "ProvinceID": 39
+    },
+    {
+      "CityID": 816,
+      "CityName": "BALILIHAN",
+      "ProvinceID": 39
+    },
+    {
+      "CityID": 817,
+      "CityName": "BATUAN",
+      "ProvinceID": 39
+    },
+    {
+      "CityID": 818,
+      "CityName": "BILAR",
+      "ProvinceID": 39
+    },
+    {
+      "CityID": 819,
+      "CityName": "BUENAVISTA",
+      "ProvinceID": 39
+    },
+    {
+      "CityID": 820,
+      "CityName": "CALAPE",
+      "ProvinceID": 39
+    },
+    {
+      "CityID": 821,
+      "CityName": "CANDIJAY",
+      "ProvinceID": 39
+    },
+    {
+      "CityID": 822,
+      "CityName": "CARMEN",
+      "ProvinceID": 39
+    },
+    {
+      "CityID": 823,
+      "CityName": "CATIGBIAN",
+      "ProvinceID": 39
+    },
+    {
+      "CityID": 824,
+      "CityName": "CLARIN",
+      "ProvinceID": 39
+    },
+    {
+      "CityID": 825,
+      "CityName": "CORELLA",
+      "ProvinceID": 39
+    },
+    {
+      "CityID": 826,
+      "CityName": "CORTES",
+      "ProvinceID": 39
+    },
+    {
+      "CityID": 827,
+      "CityName": "DAGOHOY",
+      "ProvinceID": 39
+    },
+    {
+      "CityID": 828,
+      "CityName": "DANAO",
+      "ProvinceID": 39
+    },
+    {
+      "CityID": 829,
+      "CityName": "DAUIS",
+      "ProvinceID": 39
+    },
+    {
+      "CityID": 830,
+      "CityName": "DIMIAO",
+      "ProvinceID": 39
+    },
+    {
+      "CityID": 831,
+      "CityName": "DUERO",
+      "ProvinceID": 39
+    },
+    {
+      "CityID": 832,
+      "CityName": "GARCIA HERNANDEZ",
+      "ProvinceID": 39
+    },
+    {
+      "CityID": 833,
+      "CityName": "GUINDULMAN",
+      "ProvinceID": 39
+    },
+    {
+      "CityID": 834,
+      "CityName": "INABANGA",
+      "ProvinceID": 39
+    },
+    {
+      "CityID": 835,
+      "CityName": "JAGNA",
+      "ProvinceID": 39
+    },
+    {
+      "CityID": 836,
+      "CityName": "JETAFE",
+      "ProvinceID": 39
+    },
+    {
+      "CityID": 837,
+      "CityName": "LILA",
+      "ProvinceID": 39
+    },
+    {
+      "CityID": 838,
+      "CityName": "LOAY",
+      "ProvinceID": 39
+    },
+    {
+      "CityID": 839,
+      "CityName": "LOBOC",
+      "ProvinceID": 39
+    },
+    {
+      "CityID": 840,
+      "CityName": "LOON",
+      "ProvinceID": 39
+    },
+    {
+      "CityID": 841,
+      "CityName": "MABINI",
+      "ProvinceID": 39
+    },
+    {
+      "CityID": 842,
+      "CityName": "MARIBOJOC",
+      "ProvinceID": 39
+    },
+    {
+      "CityID": 843,
+      "CityName": "PANGLAO",
+      "ProvinceID": 39
+    },
+    {
+      "CityID": 844,
+      "CityName": "PILAR",
+      "ProvinceID": 39
+    },
+    {
+      "CityID": 845,
+      "CityName": "PRES. CARLOS P. GARCIA (PITOGO)",
+      "ProvinceID": 39
+    },
+    {
+      "CityID": 846,
+      "CityName": "SAGBAYAN (BORJA)",
+      "ProvinceID": 39
+    },
+    {
+      "CityID": 847,
+      "CityName": "SAN ISIDRO",
+      "ProvinceID": 39
+    },
+    {
+      "CityID": 848,
+      "CityName": "SAN MIGUEL",
+      "ProvinceID": 39
+    },
+    {
+      "CityID": 849,
+      "CityName": "SEVILLA",
+      "ProvinceID": 39
+    },
+    {
+      "CityID": 850,
+      "CityName": "SIERRA BULLONES",
+      "ProvinceID": 39
+    },
+    {
+      "CityID": 851,
+      "CityName": "SIKATUNA",
+      "ProvinceID": 39
+    },
+    {
+      "CityID": 852,
+      "CityName": "TAGBILARAN CITY (Capital)",
+      "ProvinceID": 39
+    },
+    {
+      "CityID": 853,
+      "CityName": "TALIBON",
+      "ProvinceID": 39
+    },
+    {
+      "CityID": 854,
+      "CityName": "TRINIDAD",
+      "ProvinceID": 39
+    },
+    {
+      "CityID": 855,
+      "CityName": "TUBIGON",
+      "ProvinceID": 39
+    },
+    {
+      "CityID": 856,
+      "CityName": "UBAY",
+      "ProvinceID": 39
+    },
+    {
+      "CityID": 857,
+      "CityName": "VALENCIA",
+      "ProvinceID": 39
+    },
+    {
+      "CityID": 858,
+      "CityName": "BIEN UNIDO",
+      "ProvinceID": 39
+    },
+    {
+      "CityID": 859,
+      "CityName": "ALCANTARA",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 860,
+      "CityName": "ALCOY",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 861,
+      "CityName": "ALEGRIA",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 862,
+      "CityName": "ALOGUINSAN",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 863,
+      "CityName": "ARGAO",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 864,
+      "CityName": "ASTURIAS",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 865,
+      "CityName": "BADIAN",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 866,
+      "CityName": "BALAMBAN",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 867,
+      "CityName": "BANTAYAN",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 868,
+      "CityName": "BARILI",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 869,
+      "CityName": "CITY OF BOGO",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 870,
+      "CityName": "BOLJOON",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 871,
+      "CityName": "BORBON",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 872,
+      "CityName": "CITY OF CARCAR",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 873,
+      "CityName": "CARMEN",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 874,
+      "CityName": "CATMON",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 875,
+      "CityName": "CEBU CITY (Capital)",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 876,
+      "CityName": "COMPOSTELA",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 877,
+      "CityName": "CONSOLACION",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 878,
+      "CityName": "CORDOVA",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 879,
+      "CityName": "DAANBANTAYAN",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 880,
+      "CityName": "DALAGUETE",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 881,
+      "CityName": "DANAO CITY",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 882,
+      "CityName": "DUMANJUG",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 883,
+      "CityName": "GINATILAN",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 884,
+      "CityName": "LAPU-LAPU CITY (OPON)",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 885,
+      "CityName": "LILOAN",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 886,
+      "CityName": "MADRIDEJOS",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 887,
+      "CityName": "MALABUYOC",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 888,
+      "CityName": "MANDAUE CITY",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 889,
+      "CityName": "MEDELLIN",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 890,
+      "CityName": "MINGLANILLA",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 891,
+      "CityName": "MOALBOAL",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 892,
+      "CityName": "CITY OF NAGA",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 893,
+      "CityName": "OSLOB",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 894,
+      "CityName": "PILAR",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 895,
+      "CityName": "PINAMUNGAHAN",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 896,
+      "CityName": "PORO",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 897,
+      "CityName": "RONDA",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 898,
+      "CityName": "SAMBOAN",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 899,
+      "CityName": "SAN FERNANDO",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 900,
+      "CityName": "SAN FRANCISCO",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 901,
+      "CityName": "SAN REMIGIO",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 902,
+      "CityName": "SANTA FE",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 903,
+      "CityName": "SANTANDER",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 904,
+      "CityName": "SIBONGA",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 905,
+      "CityName": "SOGOD",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 906,
+      "CityName": "TABOGON",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 907,
+      "CityName": "TABUELAN",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 908,
+      "CityName": "CITY OF TALISAY",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 909,
+      "CityName": "TOLEDO CITY",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 910,
+      "CityName": "TUBURAN",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 911,
+      "CityName": "TUDELA",
+      "ProvinceID": 40
+    },
+    {
+      "CityID": 912,
+      "CityName": "AMLAN (AYUQUITAN)",
+      "ProvinceID": 41
+    },
+    {
+      "CityID": 913,
+      "CityName": "AYUNGON",
+      "ProvinceID": 41
+    },
+    {
+      "CityID": 914,
+      "CityName": "BACONG",
+      "ProvinceID": 41
+    },
+    {
+      "CityID": 915,
+      "CityName": "BAIS CITY",
+      "ProvinceID": 41
+    },
+    {
+      "CityID": 916,
+      "CityName": "BASAY",
+      "ProvinceID": 41
+    },
+    {
+      "CityID": 917,
+      "CityName": "CITY OF BAYAWAN (TULONG)",
+      "ProvinceID": 41
+    },
+    {
+      "CityID": 918,
+      "CityName": "BINDOY (PAYABON)",
+      "ProvinceID": 41
+    },
+    {
+      "CityID": 919,
+      "CityName": "CANLAON CITY",
+      "ProvinceID": 41
+    },
+    {
+      "CityID": 920,
+      "CityName": "DAUIN",
+      "ProvinceID": 41
+    },
+    {
+      "CityID": 921,
+      "CityName": "DUMAGUETE CITY (Capital)",
+      "ProvinceID": 41
+    },
+    {
+      "CityID": 922,
+      "CityName": "CITY OF GUIHULNGAN",
+      "ProvinceID": 41
+    },
+    {
+      "CityID": 923,
+      "CityName": "JIMALALUD",
+      "ProvinceID": 41
+    },
+    {
+      "CityID": 924,
+      "CityName": "LA LIBERTAD",
+      "ProvinceID": 41
+    },
+    {
+      "CityID": 925,
+      "CityName": "MABINAY",
+      "ProvinceID": 41
+    },
+    {
+      "CityID": 926,
+      "CityName": "MANJUYOD",
+      "ProvinceID": 41
+    },
+    {
+      "CityID": 927,
+      "CityName": "PAMPLONA",
+      "ProvinceID": 41
+    },
+    {
+      "CityID": 928,
+      "CityName": "SAN JOSE",
+      "ProvinceID": 41
+    },
+    {
+      "CityID": 929,
+      "CityName": "SANTA CATALINA",
+      "ProvinceID": 41
+    },
+    {
+      "CityID": 930,
+      "CityName": "SIATON",
+      "ProvinceID": 41
+    },
+    {
+      "CityID": 931,
+      "CityName": "SIBULAN",
+      "ProvinceID": 41
+    },
+    {
+      "CityID": 932,
+      "CityName": "CITY OF TANJAY",
+      "ProvinceID": 41
+    },
+    {
+      "CityID": 933,
+      "CityName": "TAYASAN",
+      "ProvinceID": 41
+    },
+    {
+      "CityID": 934,
+      "CityName": "VALENCIA (LUZURRIAGA)",
+      "ProvinceID": 41
+    },
+    {
+      "CityID": 935,
+      "CityName": "VALLEHERMOSO",
+      "ProvinceID": 41
+    },
+    {
+      "CityID": 936,
+      "CityName": "ZAMBOANGUITA",
+      "ProvinceID": 41
+    },
+    {
+      "CityID": 937,
+      "CityName": "ENRIQUE VILLANUEVA",
+      "ProvinceID": 42
+    },
+    {
+      "CityID": 938,
+      "CityName": "LARENA",
+      "ProvinceID": 42
+    },
+    {
+      "CityID": 939,
+      "CityName": "LAZI",
+      "ProvinceID": 42
+    },
+    {
+      "CityID": 940,
+      "CityName": "MARIA",
+      "ProvinceID": 42
+    },
+    {
+      "CityID": 941,
+      "CityName": "SAN JUAN",
+      "ProvinceID": 42
+    },
+    {
+      "CityID": 942,
+      "CityName": "SIQUIJOR (Capital)",
+      "ProvinceID": 42
+    },
+    {
+      "CityID": 943,
+      "CityName": "ARTECHE",
+      "ProvinceID": 43
+    },
+    {
+      "CityID": 944,
+      "CityName": "BALANGIGA",
+      "ProvinceID": 43
+    },
+    {
+      "CityID": 945,
+      "CityName": "BALANGKAYAN",
+      "ProvinceID": 43
+    },
+    {
+      "CityID": 946,
+      "CityName": "CITY OF BORONGAN (Capital)",
+      "ProvinceID": 43
+    },
+    {
+      "CityID": 947,
+      "CityName": "CAN-AVID",
+      "ProvinceID": 43
+    },
+    {
+      "CityID": 948,
+      "CityName": "DOLORES",
+      "ProvinceID": 43
+    },
+    {
+      "CityID": 949,
+      "CityName": "GENERAL MACARTHUR",
+      "ProvinceID": 43
+    },
+    {
+      "CityID": 950,
+      "CityName": "GIPORLOS",
+      "ProvinceID": 43
+    },
+    {
+      "CityID": 951,
+      "CityName": "GUIUAN",
+      "ProvinceID": 43
+    },
+    {
+      "CityID": 952,
+      "CityName": "HERNANI",
+      "ProvinceID": 43
+    },
+    {
+      "CityID": 953,
+      "CityName": "JIPAPAD",
+      "ProvinceID": 43
+    },
+    {
+      "CityID": 954,
+      "CityName": "LAWAAN",
+      "ProvinceID": 43
+    },
+    {
+      "CityID": 955,
+      "CityName": "LLORENTE",
+      "ProvinceID": 43
+    },
+    {
+      "CityID": 956,
+      "CityName": "MASLOG",
+      "ProvinceID": 43
+    },
+    {
+      "CityID": 957,
+      "CityName": "MAYDOLONG",
+      "ProvinceID": 43
+    },
+    {
+      "CityID": 958,
+      "CityName": "MERCEDES",
+      "ProvinceID": 43
+    },
+    {
+      "CityID": 959,
+      "CityName": "ORAS",
+      "ProvinceID": 43
+    },
+    {
+      "CityID": 960,
+      "CityName": "QUINAPONDAN",
+      "ProvinceID": 43
+    },
+    {
+      "CityID": 961,
+      "CityName": "SALCEDO",
+      "ProvinceID": 43
+    },
+    {
+      "CityID": 962,
+      "CityName": "SAN JULIAN",
+      "ProvinceID": 43
+    },
+    {
+      "CityID": 963,
+      "CityName": "SAN POLICARPO",
+      "ProvinceID": 43
+    },
+    {
+      "CityID": 964,
+      "CityName": "SULAT",
+      "ProvinceID": 43
+    },
+    {
+      "CityID": 965,
+      "CityName": "TAFT",
+      "ProvinceID": 43
+    },
+    {
+      "CityID": 966,
+      "CityName": "ABUYOG",
+      "ProvinceID": 44
+    },
+    {
+      "CityID": 967,
+      "CityName": "ALANGALANG",
+      "ProvinceID": 44
+    },
+    {
+      "CityID": 968,
+      "CityName": "ALBUERA",
+      "ProvinceID": 44
+    },
+    {
+      "CityID": 969,
+      "CityName": "BABATNGON",
+      "ProvinceID": 44
+    },
+    {
+      "CityID": 970,
+      "CityName": "BARUGO",
+      "ProvinceID": 44
+    },
+    {
+      "CityID": 971,
+      "CityName": "BATO",
+      "ProvinceID": 44
+    },
+    {
+      "CityID": 972,
+      "CityName": "CITY OF BAYBAY",
+      "ProvinceID": 44
+    },
+    {
+      "CityID": 973,
+      "CityName": "BURAUEN",
+      "ProvinceID": 44
+    },
+    {
+      "CityID": 974,
+      "CityName": "CALUBIAN",
+      "ProvinceID": 44
+    },
+    {
+      "CityID": 975,
+      "CityName": "CAPOOCAN",
+      "ProvinceID": 44
+    },
+    {
+      "CityID": 976,
+      "CityName": "CARIGARA",
+      "ProvinceID": 44
+    },
+    {
+      "CityID": 977,
+      "CityName": "DAGAMI",
+      "ProvinceID": 44
+    },
+    {
+      "CityID": 978,
+      "CityName": "DULAG",
+      "ProvinceID": 44
+    },
+    {
+      "CityID": 979,
+      "CityName": "HILONGOS",
+      "ProvinceID": 44
+    },
+    {
+      "CityID": 980,
+      "CityName": "HINDANG",
+      "ProvinceID": 44
+    },
+    {
+      "CityID": 981,
+      "CityName": "INOPACAN",
+      "ProvinceID": 44
+    },
+    {
+      "CityID": 982,
+      "CityName": "ISABEL",
+      "ProvinceID": 44
+    },
+    {
+      "CityID": 983,
+      "CityName": "JARO",
+      "ProvinceID": 44
+    },
+    {
+      "CityID": 984,
+      "CityName": "JAVIER (BUGHO)",
+      "ProvinceID": 44
+    },
+    {
+      "CityID": 985,
+      "CityName": "JULITA",
+      "ProvinceID": 44
+    },
+    {
+      "CityID": 986,
+      "CityName": "KANANGA",
+      "ProvinceID": 44
+    },
+    {
+      "CityID": 987,
+      "CityName": "LA PAZ",
+      "ProvinceID": 44
+    },
+    {
+      "CityID": 988,
+      "CityName": "LEYTE",
+      "ProvinceID": 44
+    },
+    {
+      "CityID": 989,
+      "CityName": "MACARTHUR",
+      "ProvinceID": 44
+    },
+    {
+      "CityID": 990,
+      "CityName": "MAHAPLAG",
+      "ProvinceID": 44
+    },
+    {
+      "CityID": 991,
+      "CityName": "MATAG-OB",
+      "ProvinceID": 44
+    },
+    {
+      "CityID": 992,
+      "CityName": "MATALOM",
+      "ProvinceID": 44
+    },
+    {
+      "CityID": 993,
+      "CityName": "MAYORGA",
+      "ProvinceID": 44
+    },
+    {
+      "CityID": 994,
+      "CityName": "MERIDA",
+      "ProvinceID": 44
+    },
+    {
+      "CityID": 995,
+      "CityName": "ORMOC CITY",
+      "ProvinceID": 44
+    },
+    {
+      "CityID": 996,
+      "CityName": "PALO",
+      "ProvinceID": 44
+    },
+    {
+      "CityID": 997,
+      "CityName": "PALOMPON",
+      "ProvinceID": 44
+    },
+    {
+      "CityID": 998,
+      "CityName": "PASTRANA",
+      "ProvinceID": 44
+    },
+    {
+      "CityID": 999,
+      "CityName": "SAN ISIDRO",
+      "ProvinceID": 44
+    },
+    {
+      "CityID": 1000,
+      "CityName": "SAN MIGUEL",
+      "ProvinceID": 44
+    },
+    {
+      "CityID": 1001,
+      "CityName": "SANTA FE",
+      "ProvinceID": 44
+    },
+    {
+      "CityID": 1002,
+      "CityName": "TABANGO",
+      "ProvinceID": 44
+    },
+    {
+      "CityID": 1003,
+      "CityName": "TABONTABON",
+      "ProvinceID": 44
+    },
+    {
+      "CityID": 1004,
+      "CityName": "TACLOBAN CITY (Capital)",
+      "ProvinceID": 44
+    },
+    {
+      "CityID": 1005,
+      "CityName": "TANAUAN",
+      "ProvinceID": 44
+    },
+    {
+      "CityID": 1006,
+      "CityName": "TOLOSA",
+      "ProvinceID": 44
+    },
+    {
+      "CityID": 1007,
+      "CityName": "TUNGA",
+      "ProvinceID": 44
+    },
+    {
+      "CityID": 1008,
+      "CityName": "VILLABA",
+      "ProvinceID": 44
+    },
+    {
+      "CityID": 1009,
+      "CityName": "ALLEN",
+      "ProvinceID": 45
+    },
+    {
+      "CityID": 1010,
+      "CityName": "BIRI",
+      "ProvinceID": 45
+    },
+    {
+      "CityID": 1011,
+      "CityName": "BOBON",
+      "ProvinceID": 45
+    },
+    {
+      "CityID": 1012,
+      "CityName": "CAPUL",
+      "ProvinceID": 45
+    },
+    {
+      "CityID": 1013,
+      "CityName": "CATARMAN (Capital)",
+      "ProvinceID": 45
+    },
+    {
+      "CityID": 1014,
+      "CityName": "CATUBIG",
+      "ProvinceID": 45
+    },
+    {
+      "CityID": 1015,
+      "CityName": "GAMAY",
+      "ProvinceID": 45
+    },
+    {
+      "CityID": 1016,
+      "CityName": "LAOANG",
+      "ProvinceID": 45
+    },
+    {
+      "CityID": 1017,
+      "CityName": "LAPINIG",
+      "ProvinceID": 45
+    },
+    {
+      "CityID": 1018,
+      "CityName": "LAS NAVAS",
+      "ProvinceID": 45
+    },
+    {
+      "CityID": 1019,
+      "CityName": "LAVEZARES",
+      "ProvinceID": 45
+    },
+    {
+      "CityID": 1020,
+      "CityName": "MAPANAS",
+      "ProvinceID": 45
+    },
+    {
+      "CityID": 1021,
+      "CityName": "MONDRAGON",
+      "ProvinceID": 45
+    },
+    {
+      "CityID": 1022,
+      "CityName": "PALAPAG",
+      "ProvinceID": 45
+    },
+    {
+      "CityID": 1023,
+      "CityName": "PAMBUJAN",
+      "ProvinceID": 45
+    },
+    {
+      "CityID": 1024,
+      "CityName": "ROSARIO",
+      "ProvinceID": 45
+    },
+    {
+      "CityID": 1025,
+      "CityName": "SAN ANTONIO",
+      "ProvinceID": 45
+    },
+    {
+      "CityID": 1026,
+      "CityName": "SAN ISIDRO",
+      "ProvinceID": 45
+    },
+    {
+      "CityID": 1027,
+      "CityName": "SAN JOSE",
+      "ProvinceID": 45
+    },
+    {
+      "CityID": 1028,
+      "CityName": "SAN ROQUE",
+      "ProvinceID": 45
+    },
+    {
+      "CityID": 1029,
+      "CityName": "SAN VICENTE",
+      "ProvinceID": 45
+    },
+    {
+      "CityID": 1030,
+      "CityName": "SILVINO LOBOS",
+      "ProvinceID": 45
+    },
+    {
+      "CityID": 1031,
+      "CityName": "VICTORIA",
+      "ProvinceID": 45
+    },
+    {
+      "CityID": 1032,
+      "CityName": "LOPE DE VEGA",
+      "ProvinceID": 45
+    },
+    {
+      "CityID": 1033,
+      "CityName": "ALMAGRO",
+      "ProvinceID": 46
+    },
+    {
+      "CityID": 1034,
+      "CityName": "BASEY",
+      "ProvinceID": 46
+    },
+    {
+      "CityID": 1035,
+      "CityName": "CALBAYOG CITY",
+      "ProvinceID": 46
+    },
+    {
+      "CityID": 1036,
+      "CityName": "CALBIGA",
+      "ProvinceID": 46
+    },
+    {
+      "CityID": 1037,
+      "CityName": "CITY OF CATBALOGAN (Capital)",
+      "ProvinceID": 46
+    },
+    {
+      "CityID": 1038,
+      "CityName": "DARAM",
+      "ProvinceID": 46
+    },
+    {
+      "CityID": 1039,
+      "CityName": "GANDARA",
+      "ProvinceID": 46
+    },
+    {
+      "CityID": 1040,
+      "CityName": "HINABANGAN",
+      "ProvinceID": 46
+    },
+    {
+      "CityID": 1041,
+      "CityName": "JIABONG",
+      "ProvinceID": 46
+    },
+    {
+      "CityID": 1042,
+      "CityName": "MARABUT",
+      "ProvinceID": 46
+    },
+    {
+      "CityID": 1043,
+      "CityName": "MATUGUINAO",
+      "ProvinceID": 46
+    },
+    {
+      "CityID": 1044,
+      "CityName": "MOTIONG",
+      "ProvinceID": 46
+    },
+    {
+      "CityID": 1045,
+      "CityName": "PINABACDAO",
+      "ProvinceID": 46
+    },
+    {
+      "CityID": 1046,
+      "CityName": "SAN JOSE DE BUAN",
+      "ProvinceID": 46
+    },
+    {
+      "CityID": 1047,
+      "CityName": "SAN SEBASTIAN",
+      "ProvinceID": 46
+    },
+    {
+      "CityID": 1048,
+      "CityName": "SANTA MARGARITA",
+      "ProvinceID": 46
+    },
+    {
+      "CityID": 1049,
+      "CityName": "SANTA RITA",
+      "ProvinceID": 46
+    },
+    {
+      "CityID": 1050,
+      "CityName": "SANTO NIÑO",
+      "ProvinceID": 46
+    },
+    {
+      "CityID": 1051,
+      "CityName": "TALALORA",
+      "ProvinceID": 46
+    },
+    {
+      "CityID": 1052,
+      "CityName": "TARANGNAN",
+      "ProvinceID": 46
+    },
+    {
+      "CityID": 1053,
+      "CityName": "VILLAREAL",
+      "ProvinceID": 46
+    },
+    {
+      "CityID": 1054,
+      "CityName": "PARANAS (WRIGHT)",
+      "ProvinceID": 46
+    },
+    {
+      "CityID": 1055,
+      "CityName": "ZUMARRAGA",
+      "ProvinceID": 46
+    },
+    {
+      "CityID": 1056,
+      "CityName": "TAGAPUL-AN",
+      "ProvinceID": 46
+    },
+    {
+      "CityID": 1057,
+      "CityName": "SAN JORGE",
+      "ProvinceID": 46
+    },
+    {
+      "CityID": 1058,
+      "CityName": "PAGSANGHAN",
+      "ProvinceID": 46
+    },
+    {
+      "CityID": 1059,
+      "CityName": "ANAHAWAN",
+      "ProvinceID": 47
+    },
+    {
+      "CityID": 1060,
+      "CityName": "BONTOC",
+      "ProvinceID": 47
+    },
+    {
+      "CityID": 1061,
+      "CityName": "HINUNANGAN",
+      "ProvinceID": 47
+    },
+    {
+      "CityID": 1062,
+      "CityName": "HINUNDAYAN",
+      "ProvinceID": 47
+    },
+    {
+      "CityID": 1063,
+      "CityName": "LIBAGON",
+      "ProvinceID": 47
+    },
+    {
+      "CityID": 1064,
+      "CityName": "LILOAN",
+      "ProvinceID": 47
+    },
+    {
+      "CityID": 1065,
+      "CityName": "CITY OF MAASIN (Capital)",
+      "ProvinceID": 47
+    },
+    {
+      "CityID": 1066,
+      "CityName": "MACROHON",
+      "ProvinceID": 47
+    },
+    {
+      "CityID": 1067,
+      "CityName": "MALITBOG",
+      "ProvinceID": 47
+    },
+    {
+      "CityID": 1068,
+      "CityName": "PADRE BURGOS",
+      "ProvinceID": 47
+    },
+    {
+      "CityID": 1069,
+      "CityName": "PINTUYAN",
+      "ProvinceID": 47
+    },
+    {
+      "CityID": 1070,
+      "CityName": "SAINT BERNARD",
+      "ProvinceID": 47
+    },
+    {
+      "CityID": 1071,
+      "CityName": "SAN FRANCISCO",
+      "ProvinceID": 47
+    },
+    {
+      "CityID": 1072,
+      "CityName": "SAN JUAN (CABALIAN)",
+      "ProvinceID": 47
+    },
+    {
+      "CityID": 1073,
+      "CityName": "SAN RICARDO",
+      "ProvinceID": 47
+    },
+    {
+      "CityID": 1074,
+      "CityName": "SILAGO",
+      "ProvinceID": 47
+    },
+    {
+      "CityID": 1075,
+      "CityName": "SOGOD",
+      "ProvinceID": 47
+    },
+    {
+      "CityID": 1076,
+      "CityName": "TOMAS OPPUS",
+      "ProvinceID": 47
+    },
+    {
+      "CityID": 1077,
+      "CityName": "LIMASAWA",
+      "ProvinceID": 47
+    },
+    {
+      "CityID": 1078,
+      "CityName": "ALMERIA",
+      "ProvinceID": 48
+    },
+    {
+      "CityID": 1079,
+      "CityName": "BILIRAN",
+      "ProvinceID": 48
+    },
+    {
+      "CityID": 1080,
+      "CityName": "CABUCGAYAN",
+      "ProvinceID": 48
+    },
+    {
+      "CityID": 1081,
+      "CityName": "CAIBIRAN",
+      "ProvinceID": 48
+    },
+    {
+      "CityID": 1082,
+      "CityName": "CULABA",
+      "ProvinceID": 48
+    },
+    {
+      "CityID": 1083,
+      "CityName": "KAWAYAN",
+      "ProvinceID": 48
+    },
+    {
+      "CityID": 1084,
+      "CityName": "MARIPIPI",
+      "ProvinceID": 48
+    },
+    {
+      "CityID": 1085,
+      "CityName": "NAVAL (Capital)",
+      "ProvinceID": 48
+    },
+    {
+      "CityID": 1086,
+      "CityName": "DAPITAN CITY",
+      "ProvinceID": 49
+    },
+    {
+      "CityID": 1087,
+      "CityName": "DIPOLOG CITY (Capital)",
+      "ProvinceID": 49
+    },
+    {
+      "CityID": 1088,
+      "CityName": "KATIPUNAN",
+      "ProvinceID": 49
+    },
+    {
+      "CityID": 1089,
+      "CityName": "LA LIBERTAD",
+      "ProvinceID": 49
+    },
+    {
+      "CityID": 1090,
+      "CityName": "LABASON",
+      "ProvinceID": 49
+    },
+    {
+      "CityID": 1091,
+      "CityName": "LILOY",
+      "ProvinceID": 49
+    },
+    {
+      "CityID": 1092,
+      "CityName": "MANUKAN",
+      "ProvinceID": 49
+    },
+    {
+      "CityID": 1093,
+      "CityName": "MUTIA",
+      "ProvinceID": 49
+    },
+    {
+      "CityID": 1094,
+      "CityName": "PIÑAN (NEW PIÑAN)",
+      "ProvinceID": 49
+    },
+    {
+      "CityID": 1095,
+      "CityName": "POLANCO",
+      "ProvinceID": 49
+    },
+    {
+      "CityID": 1096,
+      "CityName": "PRES. MANUEL A. ROXAS",
+      "ProvinceID": 49
+    },
+    {
+      "CityID": 1097,
+      "CityName": "RIZAL",
+      "ProvinceID": 49
+    },
+    {
+      "CityID": 1098,
+      "CityName": "SALUG",
+      "ProvinceID": 49
+    },
+    {
+      "CityID": 1099,
+      "CityName": "SERGIO OSMEÑA SR.",
+      "ProvinceID": 49
+    },
+    {
+      "CityID": 1100,
+      "CityName": "SIAYAN",
+      "ProvinceID": 49
+    },
+    {
+      "CityID": 1101,
+      "CityName": "SIBUCO",
+      "ProvinceID": 49
+    },
+    {
+      "CityID": 1102,
+      "CityName": "SIBUTAD",
+      "ProvinceID": 49
+    },
+    {
+      "CityID": 1103,
+      "CityName": "SINDANGAN",
+      "ProvinceID": 49
+    },
+    {
+      "CityID": 1104,
+      "CityName": "SIOCON",
+      "ProvinceID": 49
+    },
+    {
+      "CityID": 1105,
+      "CityName": "SIRAWAI",
+      "ProvinceID": 49
+    },
+    {
+      "CityID": 1106,
+      "CityName": "TAMPILISAN",
+      "ProvinceID": 49
+    },
+    {
+      "CityID": 1107,
+      "CityName": "JOSE DALMAN (PONOT)",
+      "ProvinceID": 49
+    },
+    {
+      "CityID": 1108,
+      "CityName": "GUTALAC",
+      "ProvinceID": 49
+    },
+    {
+      "CityID": 1109,
+      "CityName": "BALIGUIAN",
+      "ProvinceID": 49
+    },
+    {
+      "CityID": 1110,
+      "CityName": "GODOD",
+      "ProvinceID": 49
+    },
+    {
+      "CityID": 1111,
+      "CityName": "BACUNGAN (Leon T. Postigo)",
+      "ProvinceID": 49
+    },
+    {
+      "CityID": 1112,
+      "CityName": "KALAWIT",
+      "ProvinceID": 49
+    },
+    {
+      "CityID": 1113,
+      "CityName": "AURORA",
+      "ProvinceID": 50
+    },
+    {
+      "CityID": 1114,
+      "CityName": "BAYOG",
+      "ProvinceID": 50
+    },
+    {
+      "CityID": 1115,
+      "CityName": "DIMATALING",
+      "ProvinceID": 50
+    },
+    {
+      "CityID": 1116,
+      "CityName": "DINAS",
+      "ProvinceID": 50
+    },
+    {
+      "CityID": 1117,
+      "CityName": "DUMALINAO",
+      "ProvinceID": 50
+    },
+    {
+      "CityID": 1118,
+      "CityName": "DUMINGAG",
+      "ProvinceID": 50
+    },
+    {
+      "CityID": 1119,
+      "CityName": "KUMALARANG",
+      "ProvinceID": 50
+    },
+    {
+      "CityID": 1120,
+      "CityName": "LABANGAN",
+      "ProvinceID": 50
+    },
+    {
+      "CityID": 1121,
+      "CityName": "LAPUYAN",
+      "ProvinceID": 50
+    },
+    {
+      "CityID": 1122,
+      "CityName": "MAHAYAG",
+      "ProvinceID": 50
+    },
+    {
+      "CityID": 1123,
+      "CityName": "MARGOSATUBIG",
+      "ProvinceID": 50
+    },
+    {
+      "CityID": 1124,
+      "CityName": "MIDSALIP",
+      "ProvinceID": 50
+    },
+    {
+      "CityID": 1125,
+      "CityName": "MOLAVE",
+      "ProvinceID": 50
+    },
+    {
+      "CityID": 1126,
+      "CityName": "PAGADIAN CITY (Capital)",
+      "ProvinceID": 50
+    },
+    {
+      "CityID": 1127,
+      "CityName": "RAMON MAGSAYSAY (LIARGO)",
+      "ProvinceID": 50
+    },
+    {
+      "CityID": 1128,
+      "CityName": "SAN MIGUEL",
+      "ProvinceID": 50
+    },
+    {
+      "CityID": 1129,
+      "CityName": "SAN PABLO",
+      "ProvinceID": 50
+    },
+    {
+      "CityID": 1130,
+      "CityName": "TABINA",
+      "ProvinceID": 50
+    },
+    {
+      "CityID": 1131,
+      "CityName": "TAMBULIG",
+      "ProvinceID": 50
+    },
+    {
+      "CityID": 1132,
+      "CityName": "TUKURAN",
+      "ProvinceID": 50
+    },
+    {
+      "CityID": 1133,
+      "CityName": "ZAMBOANGA CITY",
+      "ProvinceID": 50
+    },
+    {
+      "CityID": 1134,
+      "CityName": "LAKEWOOD",
+      "ProvinceID": 50
+    },
+    {
+      "CityID": 1135,
+      "CityName": "JOSEFINA",
+      "ProvinceID": 50
+    },
+    {
+      "CityID": 1136,
+      "CityName": "PITOGO",
+      "ProvinceID": 50
+    },
+    {
+      "CityID": 1137,
+      "CityName": "SOMINOT (DON MARIANO MARCOS)",
+      "ProvinceID": 50
+    },
+    {
+      "CityID": 1138,
+      "CityName": "VINCENZO A. SAGUN",
+      "ProvinceID": 50
+    },
+    {
+      "CityID": 1139,
+      "CityName": "GUIPOS",
+      "ProvinceID": 50
+    },
+    {
+      "CityID": 1140,
+      "CityName": "TIGBAO",
+      "ProvinceID": 50
+    },
+    {
+      "CityID": 1141,
+      "CityName": "ALICIA",
+      "ProvinceID": 51
+    },
+    {
+      "CityID": 1142,
+      "CityName": "BUUG",
+      "ProvinceID": 51
+    },
+    {
+      "CityID": 1143,
+      "CityName": "DIPLAHAN",
+      "ProvinceID": 51
+    },
+    {
+      "CityID": 1144,
+      "CityName": "IMELDA",
+      "ProvinceID": 51
+    },
+    {
+      "CityID": 1145,
+      "CityName": "IPIL (Capital)",
+      "ProvinceID": 51
+    },
+    {
+      "CityID": 1146,
+      "CityName": "KABASALAN",
+      "ProvinceID": 51
+    },
+    {
+      "CityID": 1147,
+      "CityName": "MABUHAY",
+      "ProvinceID": 51
+    },
+    {
+      "CityID": 1148,
+      "CityName": "MALANGAS",
+      "ProvinceID": 51
+    },
+    {
+      "CityID": 1149,
+      "CityName": "NAGA",
+      "ProvinceID": 51
+    },
+    {
+      "CityID": 1150,
+      "CityName": "OLUTANGA",
+      "ProvinceID": 51
+    },
+    {
+      "CityID": 1151,
+      "CityName": "PAYAO",
+      "ProvinceID": 51
+    },
+    {
+      "CityID": 1152,
+      "CityName": "ROSELLER LIM",
+      "ProvinceID": 51
+    },
+    {
+      "CityID": 1153,
+      "CityName": "SIAY",
+      "ProvinceID": 51
+    },
+    {
+      "CityID": 1154,
+      "CityName": "TALUSAN",
+      "ProvinceID": 51
+    },
+    {
+      "CityID": 1155,
+      "CityName": "TITAY",
+      "ProvinceID": 51
+    },
+    {
+      "CityID": 1156,
+      "CityName": "TUNGAWAN",
+      "ProvinceID": 51
+    },
+    {
+      "CityID": 1157,
+      "CityName": "CITY OF ISABELA",
+      "ProvinceID": 52
+    },
+    {
+      "CityID": 1158,
+      "CityName": "BAUNGON",
+      "ProvinceID": 53
+    },
+    {
+      "CityID": 1159,
+      "CityName": "DAMULOG",
+      "ProvinceID": 53
+    },
+    {
+      "CityID": 1160,
+      "CityName": "DANGCAGAN",
+      "ProvinceID": 53
+    },
+    {
+      "CityID": 1161,
+      "CityName": "DON CARLOS",
+      "ProvinceID": 53
+    },
+    {
+      "CityID": 1162,
+      "CityName": "IMPASUG-ONG",
+      "ProvinceID": 53
+    },
+    {
+      "CityID": 1163,
+      "CityName": "KADINGILAN",
+      "ProvinceID": 53
+    },
+    {
+      "CityID": 1164,
+      "CityName": "KALILANGAN",
+      "ProvinceID": 53
+    },
+    {
+      "CityID": 1165,
+      "CityName": "KIBAWE",
+      "ProvinceID": 53
+    },
+    {
+      "CityID": 1166,
+      "CityName": "KITAOTAO",
+      "ProvinceID": 53
+    },
+    {
+      "CityID": 1167,
+      "CityName": "LANTAPAN",
+      "ProvinceID": 53
+    },
+    {
+      "CityID": 1168,
+      "CityName": "LIBONA",
+      "ProvinceID": 53
+    },
+    {
+      "CityID": 1169,
+      "CityName": "CITY OF MALAYBALAY (Capital)",
+      "ProvinceID": 53
+    },
+    {
+      "CityID": 1170,
+      "CityName": "MALITBOG",
+      "ProvinceID": 53
+    },
+    {
+      "CityID": 1171,
+      "CityName": "MANOLO FORTICH",
+      "ProvinceID": 53
+    },
+    {
+      "CityID": 1172,
+      "CityName": "MARAMAG",
+      "ProvinceID": 53
+    },
+    {
+      "CityID": 1173,
+      "CityName": "PANGANTUCAN",
+      "ProvinceID": 53
+    },
+    {
+      "CityID": 1174,
+      "CityName": "QUEZON",
+      "ProvinceID": 53
+    },
+    {
+      "CityID": 1175,
+      "CityName": "SAN FERNANDO",
+      "ProvinceID": 53
+    },
+    {
+      "CityID": 1176,
+      "CityName": "SUMILAO",
+      "ProvinceID": 53
+    },
+    {
+      "CityID": 1177,
+      "CityName": "TALAKAG",
+      "ProvinceID": 53
+    },
+    {
+      "CityID": 1178,
+      "CityName": "CITY OF VALENCIA",
+      "ProvinceID": 53
+    },
+    {
+      "CityID": 1179,
+      "CityName": "CABANGLASAN",
+      "ProvinceID": 53
+    },
+    {
+      "CityID": 1180,
+      "CityName": "CATARMAN",
+      "ProvinceID": 54
+    },
+    {
+      "CityID": 1181,
+      "CityName": "GUINSILIBAN",
+      "ProvinceID": 54
+    },
+    {
+      "CityID": 1182,
+      "CityName": "MAHINOG",
+      "ProvinceID": 54
+    },
+    {
+      "CityID": 1183,
+      "CityName": "MAMBAJAO (Capital)",
+      "ProvinceID": 54
+    },
+    {
+      "CityID": 1184,
+      "CityName": "SAGAY",
+      "ProvinceID": 54
+    },
+    {
+      "CityID": 1185,
+      "CityName": "BACOLOD",
+      "ProvinceID": 55
+    },
+    {
+      "CityID": 1186,
+      "CityName": "BALOI",
+      "ProvinceID": 55
+    },
+    {
+      "CityID": 1187,
+      "CityName": "BAROY",
+      "ProvinceID": 55
+    },
+    {
+      "CityID": 1188,
+      "CityName": "ILIGAN CITY",
+      "ProvinceID": 55
+    },
+    {
+      "CityID": 1189,
+      "CityName": "KAPATAGAN",
+      "ProvinceID": 55
+    },
+    {
+      "CityID": 1190,
+      "CityName": "SULTAN NAGA DIMAPORO (KAROMATAN)",
+      "ProvinceID": 55
+    },
+    {
+      "CityID": 1191,
+      "CityName": "KAUSWAGAN",
+      "ProvinceID": 55
+    },
+    {
+      "CityID": 1192,
+      "CityName": "KOLAMBUGAN",
+      "ProvinceID": 55
+    },
+    {
+      "CityID": 1193,
+      "CityName": "LALA",
+      "ProvinceID": 55
+    },
+    {
+      "CityID": 1194,
+      "CityName": "LINAMON",
+      "ProvinceID": 55
+    },
+    {
+      "CityID": 1195,
+      "CityName": "MAGSAYSAY",
+      "ProvinceID": 55
+    },
+    {
+      "CityID": 1196,
+      "CityName": "MAIGO",
+      "ProvinceID": 55
+    },
+    {
+      "CityID": 1197,
+      "CityName": "MATUNGAO",
+      "ProvinceID": 55
+    },
+    {
+      "CityID": 1198,
+      "CityName": "MUNAI",
+      "ProvinceID": 55
+    },
+    {
+      "CityID": 1199,
+      "CityName": "NUNUNGAN",
+      "ProvinceID": 55
+    },
+    {
+      "CityID": 1200,
+      "CityName": "PANTAO RAGAT",
+      "ProvinceID": 55
+    },
+    {
+      "CityID": 1201,
+      "CityName": "POONA PIAGAPO",
+      "ProvinceID": 55
+    },
+    {
+      "CityID": 1202,
+      "CityName": "SALVADOR",
+      "ProvinceID": 55
+    },
+    {
+      "CityID": 1203,
+      "CityName": "SAPAD",
+      "ProvinceID": 55
+    },
+    {
+      "CityID": 1204,
+      "CityName": "TAGOLOAN",
+      "ProvinceID": 55
+    },
+    {
+      "CityID": 1205,
+      "CityName": "TANGCAL",
+      "ProvinceID": 55
+    },
+    {
+      "CityID": 1206,
+      "CityName": "TUBOD (Capital)",
+      "ProvinceID": 55
+    },
+    {
+      "CityID": 1207,
+      "CityName": "PANTAR",
+      "ProvinceID": 55
+    },
+    {
+      "CityID": 1208,
+      "CityName": "ALORAN",
+      "ProvinceID": 56
+    },
+    {
+      "CityID": 1209,
+      "CityName": "BALIANGAO",
+      "ProvinceID": 56
+    },
+    {
+      "CityID": 1210,
+      "CityName": "BONIFACIO",
+      "ProvinceID": 56
+    },
+    {
+      "CityID": 1211,
+      "CityName": "CALAMBA",
+      "ProvinceID": 56
+    },
+    {
+      "CityID": 1212,
+      "CityName": "CLARIN",
+      "ProvinceID": 56
+    },
+    {
+      "CityID": 1213,
+      "CityName": "CONCEPCION",
+      "ProvinceID": 56
+    },
+    {
+      "CityID": 1214,
+      "CityName": "JIMENEZ",
+      "ProvinceID": 56
+    },
+    {
+      "CityID": 1215,
+      "CityName": "LOPEZ JAENA",
+      "ProvinceID": 56
+    },
+    {
+      "CityID": 1216,
+      "CityName": "OROQUIETA CITY (Capital)",
+      "ProvinceID": 56
+    },
+    {
+      "CityID": 1217,
+      "CityName": "OZAMIS CITY",
+      "ProvinceID": 56
+    },
+    {
+      "CityID": 1218,
+      "CityName": "PANAON",
+      "ProvinceID": 56
+    },
+    {
+      "CityID": 1219,
+      "CityName": "PLARIDEL",
+      "ProvinceID": 56
+    },
+    {
+      "CityID": 1220,
+      "CityName": "SAPANG DALAGA",
+      "ProvinceID": 56
+    },
+    {
+      "CityID": 1221,
+      "CityName": "SINACABAN",
+      "ProvinceID": 56
+    },
+    {
+      "CityID": 1222,
+      "CityName": "TANGUB CITY",
+      "ProvinceID": 56
+    },
+    {
+      "CityID": 1223,
+      "CityName": "TUDELA",
+      "ProvinceID": 56
+    },
+    {
+      "CityID": 1224,
+      "CityName": "DON VICTORIANO CHIONGBIAN  (DON MARIANO MARCOS)",
+      "ProvinceID": 56
+    },
+    {
+      "CityID": 1225,
+      "CityName": "ALUBIJID",
+      "ProvinceID": 57
+    },
+    {
+      "CityID": 1226,
+      "CityName": "BALINGASAG",
+      "ProvinceID": 57
+    },
+    {
+      "CityID": 1227,
+      "CityName": "BALINGOAN",
+      "ProvinceID": 57
+    },
+    {
+      "CityID": 1228,
+      "CityName": "BINUANGAN",
+      "ProvinceID": 57
+    },
+    {
+      "CityID": 1229,
+      "CityName": "CAGAYAN DE ORO CITY (Capital)",
+      "ProvinceID": 57
+    },
+    {
+      "CityID": 1230,
+      "CityName": "CLAVERIA",
+      "ProvinceID": 57
+    },
+    {
+      "CityID": 1231,
+      "CityName": "CITY OF EL SALVADOR",
+      "ProvinceID": 57
+    },
+    {
+      "CityID": 1232,
+      "CityName": "GINGOOG CITY",
+      "ProvinceID": 57
+    },
+    {
+      "CityID": 1233,
+      "CityName": "GITAGUM",
+      "ProvinceID": 57
+    },
+    {
+      "CityID": 1234,
+      "CityName": "INITAO",
+      "ProvinceID": 57
+    },
+    {
+      "CityID": 1235,
+      "CityName": "JASAAN",
+      "ProvinceID": 57
+    },
+    {
+      "CityID": 1236,
+      "CityName": "KINOGUITAN",
+      "ProvinceID": 57
+    },
+    {
+      "CityID": 1237,
+      "CityName": "LAGONGLONG",
+      "ProvinceID": 57
+    },
+    {
+      "CityID": 1238,
+      "CityName": "LAGUINDINGAN",
+      "ProvinceID": 57
+    },
+    {
+      "CityID": 1239,
+      "CityName": "LIBERTAD",
+      "ProvinceID": 57
+    },
+    {
+      "CityID": 1240,
+      "CityName": "LUGAIT",
+      "ProvinceID": 57
+    },
+    {
+      "CityID": 1241,
+      "CityName": "MAGSAYSAY (LINUGOS)",
+      "ProvinceID": 57
+    },
+    {
+      "CityID": 1242,
+      "CityName": "MANTICAO",
+      "ProvinceID": 57
+    },
+    {
+      "CityID": 1243,
+      "CityName": "MEDINA",
+      "ProvinceID": 57
+    },
+    {
+      "CityID": 1244,
+      "CityName": "NAAWAN",
+      "ProvinceID": 57
+    },
+    {
+      "CityID": 1245,
+      "CityName": "OPOL",
+      "ProvinceID": 57
+    },
+    {
+      "CityID": 1246,
+      "CityName": "SALAY",
+      "ProvinceID": 57
+    },
+    {
+      "CityID": 1247,
+      "CityName": "SUGBONGCOGON",
+      "ProvinceID": 57
+    },
+    {
+      "CityID": 1248,
+      "CityName": "TAGOLOAN",
+      "ProvinceID": 57
+    },
+    {
+      "CityID": 1249,
+      "CityName": "TALISAYAN",
+      "ProvinceID": 57
+    },
+    {
+      "CityID": 1250,
+      "CityName": "VILLANUEVA",
+      "ProvinceID": 57
+    },
+    {
+      "CityID": 1251,
+      "CityName": "ASUNCION (SAUG)",
+      "ProvinceID": 58
+    },
+    {
+      "CityID": 1252,
+      "CityName": "CARMEN",
+      "ProvinceID": 58
+    },
+    {
+      "CityID": 1253,
+      "CityName": "KAPALONG",
+      "ProvinceID": 58
+    },
+    {
+      "CityID": 1254,
+      "CityName": "NEW CORELLA",
+      "ProvinceID": 58
+    },
+    {
+      "CityID": 1255,
+      "CityName": "CITY OF PANABO",
+      "ProvinceID": 58
+    },
+    {
+      "CityID": 1256,
+      "CityName": "ISLAND GARDEN CITY OF SAMAL",
+      "ProvinceID": 58
+    },
+    {
+      "CityID": 1257,
+      "CityName": "SANTO TOMAS",
+      "ProvinceID": 58
+    },
+    {
+      "CityID": 1258,
+      "CityName": "CITY OF TAGUM (Capital)",
+      "ProvinceID": 58
+    },
+    {
+      "CityID": 1259,
+      "CityName": "TALAINGOD",
+      "ProvinceID": 58
+    },
+    {
+      "CityID": 1260,
+      "CityName": "BRAULIO E. DUJALI",
+      "ProvinceID": 58
+    },
+    {
+      "CityID": 1261,
+      "CityName": "SAN ISIDRO",
+      "ProvinceID": 58
+    },
+    {
+      "CityID": 1262,
+      "CityName": "BANSALAN",
+      "ProvinceID": 59
+    },
+    {
+      "CityID": 1263,
+      "CityName": "DAVAO CITY",
+      "ProvinceID": 59
+    },
+    {
+      "CityID": 1264,
+      "CityName": "CITY OF DIGOS (Capital)",
+      "ProvinceID": 59
+    },
+    {
+      "CityID": 1265,
+      "CityName": "HAGONOY",
+      "ProvinceID": 59
+    },
+    {
+      "CityID": 1266,
+      "CityName": "KIBLAWAN",
+      "ProvinceID": 59
+    },
+    {
+      "CityID": 1267,
+      "CityName": "MAGSAYSAY",
+      "ProvinceID": 59
+    },
+    {
+      "CityID": 1268,
+      "CityName": "MALALAG",
+      "ProvinceID": 59
+    },
+    {
+      "CityID": 1269,
+      "CityName": "MATANAO",
+      "ProvinceID": 59
+    },
+    {
+      "CityID": 1270,
+      "CityName": "PADADA",
+      "ProvinceID": 59
+    },
+    {
+      "CityID": 1271,
+      "CityName": "SANTA CRUZ",
+      "ProvinceID": 59
+    },
+    {
+      "CityID": 1272,
+      "CityName": "SULOP",
+      "ProvinceID": 59
+    },
+    {
+      "CityID": 1273,
+      "CityName": "BAGANGA",
+      "ProvinceID": 60
+    },
+    {
+      "CityID": 1274,
+      "CityName": "BANAYBANAY",
+      "ProvinceID": 60
+    },
+    {
+      "CityID": 1275,
+      "CityName": "BOSTON",
+      "ProvinceID": 60
+    },
+    {
+      "CityID": 1276,
+      "CityName": "CARAGA",
+      "ProvinceID": 60
+    },
+    {
+      "CityID": 1277,
+      "CityName": "CATEEL",
+      "ProvinceID": 60
+    },
+    {
+      "CityID": 1278,
+      "CityName": "GOVERNOR GENEROSO",
+      "ProvinceID": 60
+    },
+    {
+      "CityID": 1279,
+      "CityName": "LUPON",
+      "ProvinceID": 60
+    },
+    {
+      "CityID": 1280,
+      "CityName": "MANAY",
+      "ProvinceID": 60
+    },
+    {
+      "CityID": 1281,
+      "CityName": "CITY OF MATI (Capital)",
+      "ProvinceID": 60
+    },
+    {
+      "CityID": 1282,
+      "CityName": "SAN ISIDRO",
+      "ProvinceID": 60
+    },
+    {
+      "CityID": 1283,
+      "CityName": "TARRAGONA",
+      "ProvinceID": 60
+    },
+    {
+      "CityID": 1284,
+      "CityName": "COMPOSTELA",
+      "ProvinceID": 61
+    },
+    {
+      "CityID": 1285,
+      "CityName": "LAAK (SAN VICENTE)",
+      "ProvinceID": 61
+    },
+    {
+      "CityID": 1286,
+      "CityName": "MABINI (DOÑA ALICIA)",
+      "ProvinceID": 61
+    },
+    {
+      "CityID": 1287,
+      "CityName": "MACO",
+      "ProvinceID": 61
+    },
+    {
+      "CityID": 1288,
+      "CityName": "MARAGUSAN (SAN MARIANO)",
+      "ProvinceID": 61
+    },
+    {
+      "CityID": 1289,
+      "CityName": "MAWAB",
+      "ProvinceID": 61
+    },
+    {
+      "CityID": 1290,
+      "CityName": "MONKAYO",
+      "ProvinceID": 61
+    },
+    {
+      "CityID": 1291,
+      "CityName": "MONTEVISTA",
+      "ProvinceID": 61
+    },
+    {
+      "CityID": 1292,
+      "CityName": "NABUNTURAN (Capital)",
+      "ProvinceID": 61
+    },
+    {
+      "CityID": 1293,
+      "CityName": "NEW BATAAN",
+      "ProvinceID": 61
+    },
+    {
+      "CityID": 1294,
+      "CityName": "PANTUKAN",
+      "ProvinceID": 61
+    },
+    {
+      "CityID": 1295,
+      "CityName": "DON MARCELINO",
+      "ProvinceID": 62
+    },
+    {
+      "CityID": 1296,
+      "CityName": "JOSE ABAD SANTOS (TRINIDAD)",
+      "ProvinceID": 62
+    },
+    {
+      "CityID": 1297,
+      "CityName": "MALITA",
+      "ProvinceID": 62
+    },
+    {
+      "CityID": 1298,
+      "CityName": "SANTA MARIA",
+      "ProvinceID": 62
+    },
+    {
+      "CityID": 1299,
+      "CityName": "SARANGANI",
+      "ProvinceID": 62
+    },
+    {
+      "CityID": 1300,
+      "CityName": "ALAMADA",
+      "ProvinceID": 63
+    },
+    {
+      "CityID": 1301,
+      "CityName": "CARMEN",
+      "ProvinceID": 63
+    },
+    {
+      "CityID": 1302,
+      "CityName": "KABACAN",
+      "ProvinceID": 63
+    },
+    {
+      "CityID": 1303,
+      "CityName": "CITY OF KIDAPAWAN (Capital)",
+      "ProvinceID": 63
+    },
+    {
+      "CityID": 1304,
+      "CityName": "LIBUNGAN",
+      "ProvinceID": 63
+    },
+    {
+      "CityID": 1305,
+      "CityName": "MAGPET",
+      "ProvinceID": 63
+    },
+    {
+      "CityID": 1306,
+      "CityName": "MAKILALA",
+      "ProvinceID": 63
+    },
+    {
+      "CityID": 1307,
+      "CityName": "MATALAM",
+      "ProvinceID": 63
+    },
+    {
+      "CityID": 1308,
+      "CityName": "MIDSAYAP",
+      "ProvinceID": 63
+    },
+    {
+      "CityID": 1309,
+      "CityName": "M'LANG",
+      "ProvinceID": 63
+    },
+    {
+      "CityID": 1310,
+      "CityName": "PIGKAWAYAN",
+      "ProvinceID": 63
+    },
+    {
+      "CityID": 1311,
+      "CityName": "PIKIT",
+      "ProvinceID": 63
+    },
+    {
+      "CityID": 1312,
+      "CityName": "PRESIDENT ROXAS",
+      "ProvinceID": 63
+    },
+    {
+      "CityID": 1313,
+      "CityName": "TULUNAN",
+      "ProvinceID": 63
+    },
+    {
+      "CityID": 1314,
+      "CityName": "ANTIPAS",
+      "ProvinceID": 63
+    },
+    {
+      "CityID": 1315,
+      "CityName": "BANISILAN",
+      "ProvinceID": 63
+    },
+    {
+      "CityID": 1316,
+      "CityName": "ALEOSAN",
+      "ProvinceID": 63
+    },
+    {
+      "CityID": 1317,
+      "CityName": "ARAKAN",
+      "ProvinceID": 63
+    },
+    {
+      "CityID": 1318,
+      "CityName": "BANGA",
+      "ProvinceID": 64
+    },
+    {
+      "CityID": 1319,
+      "CityName": "GENERAL SANTOS CITY (DADIANGAS)",
+      "ProvinceID": 64
+    },
+    {
+      "CityID": 1320,
+      "CityName": "CITY OF KORONADAL (Capital)",
+      "ProvinceID": 64
+    },
+    {
+      "CityID": 1321,
+      "CityName": "NORALA",
+      "ProvinceID": 64
+    },
+    {
+      "CityID": 1322,
+      "CityName": "POLOMOLOK",
+      "ProvinceID": 64
+    },
+    {
+      "CityID": 1323,
+      "CityName": "SURALLAH",
+      "ProvinceID": 64
+    },
+    {
+      "CityID": 1324,
+      "CityName": "TAMPAKAN",
+      "ProvinceID": 64
+    },
+    {
+      "CityID": 1325,
+      "CityName": "TANTANGAN",
+      "ProvinceID": 64
+    },
+    {
+      "CityID": 1326,
+      "CityName": "T'BOLI",
+      "ProvinceID": 64
+    },
+    {
+      "CityID": 1327,
+      "CityName": "TUPI",
+      "ProvinceID": 64
+    },
+    {
+      "CityID": 1328,
+      "CityName": "SANTO NIÑO",
+      "ProvinceID": 64
+    },
+    {
+      "CityID": 1329,
+      "CityName": "LAKE SEBU",
+      "ProvinceID": 64
+    },
+    {
+      "CityID": 1330,
+      "CityName": "BAGUMBAYAN",
+      "ProvinceID": 65
+    },
+    {
+      "CityID": 1331,
+      "CityName": "COLUMBIO",
+      "ProvinceID": 65
+    },
+    {
+      "CityID": 1332,
+      "CityName": "ESPERANZA",
+      "ProvinceID": 65
+    },
+    {
+      "CityID": 1333,
+      "CityName": "ISULAN (Capital)",
+      "ProvinceID": 65
+    },
+    {
+      "CityID": 1334,
+      "CityName": "KALAMANSIG",
+      "ProvinceID": 65
+    },
+    {
+      "CityID": 1335,
+      "CityName": "LEBAK",
+      "ProvinceID": 65
+    },
+    {
+      "CityID": 1336,
+      "CityName": "LUTAYAN",
+      "ProvinceID": 65
+    },
+    {
+      "CityID": 1337,
+      "CityName": "LAMBAYONG (MARIANO MARCOS)",
+      "ProvinceID": 65
+    },
+    {
+      "CityID": 1338,
+      "CityName": "PALIMBANG",
+      "ProvinceID": 65
+    },
+    {
+      "CityID": 1339,
+      "CityName": "PRESIDENT QUIRINO",
+      "ProvinceID": 65
+    },
+    {
+      "CityID": 1340,
+      "CityName": "CITY OF TACURONG",
+      "ProvinceID": 65
+    },
+    {
+      "CityID": 1341,
+      "CityName": "SEN. NINOY AQUINO",
+      "ProvinceID": 65
+    },
+    {
+      "CityID": 1342,
+      "CityName": "ALABEL (Capital)",
+      "ProvinceID": 66
+    },
+    {
+      "CityID": 1343,
+      "CityName": "GLAN",
+      "ProvinceID": 66
+    },
+    {
+      "CityID": 1344,
+      "CityName": "KIAMBA",
+      "ProvinceID": 66
+    },
+    {
+      "CityID": 1345,
+      "CityName": "MAASIM",
+      "ProvinceID": 66
+    },
+    {
+      "CityID": 1346,
+      "CityName": "MAITUM",
+      "ProvinceID": 66
+    },
+    {
+      "CityID": 1347,
+      "CityName": "MALAPATAN",
+      "ProvinceID": 66
+    },
+    {
+      "CityID": 1348,
+      "CityName": "MALUNGON",
+      "ProvinceID": 66
+    },
+    {
+      "CityID": 1349,
+      "CityName": "COTABATO CITY",
+      "ProvinceID": 67
+    },
+    {
+      "CityID": 1350,
+      "CityName": "TONDO I / II",
+      "ProvinceID": 68
+    },
+    {
+      "CityID": 1351,
+      "CityName": "BINONDO",
+      "ProvinceID": 68
+    },
+    {
+      "CityID": 1352,
+      "CityName": "QUIAPO",
+      "ProvinceID": 68
+    },
+    {
+      "CityID": 1353,
+      "CityName": "SAN NICOLAS",
+      "ProvinceID": 68
+    },
+    {
+      "CityID": 1354,
+      "CityName": "SANTA CRUZ",
+      "ProvinceID": 68
+    },
+    {
+      "CityID": 1355,
+      "CityName": "SAMPALOC",
+      "ProvinceID": 68
+    },
+    {
+      "CityID": 1356,
+      "CityName": "SAN MIGUEL",
+      "ProvinceID": 68
+    },
+    {
+      "CityID": 1357,
+      "CityName": "ERMITA",
+      "ProvinceID": 68
+    },
+    {
+      "CityID": 1358,
+      "CityName": "INTRAMUROS",
+      "ProvinceID": 68
+    },
+    {
+      "CityID": 1359,
+      "CityName": "MALATE",
+      "ProvinceID": 68
+    },
+    {
+      "CityID": 1360,
+      "CityName": "PACO",
+      "ProvinceID": 68
+    },
+    {
+      "CityID": 1361,
+      "CityName": "PANDACAN",
+      "ProvinceID": 68
+    },
+    {
+      "CityID": 1362,
+      "CityName": "PORT AREA",
+      "ProvinceID": 68
+    },
+    {
+      "CityID": 1363,
+      "CityName": "SANTA ANA",
+      "ProvinceID": 68
+    },
+    {
+      "CityID": 1364,
+      "CityName": "CITY OF MANDALUYONG",
+      "ProvinceID": 68
+    },
+    {
+      "CityID": 1365,
+      "CityName": "CITY OF MARIKINA",
+      "ProvinceID": 68
+    },
+    {
+      "CityID": 1366,
+      "CityName": "CITY OF PASIG",
+      "ProvinceID": 68
+    },
+    {
+      "CityID": 1367,
+      "CityName": "QUEZON CITY",
+      "ProvinceID": 68
+    },
+    {
+      "CityID": 1368,
+      "CityName": "CITY OF SAN JUAN",
+      "ProvinceID": 68
+    },
+    {
+      "CityID": 1369,
+      "CityName": "CALOOCAN CITY",
+      "ProvinceID": 68
+    },
+    {
+      "CityID": 1370,
+      "CityName": "CITY OF MALABON",
+      "ProvinceID": 68
+    },
+    {
+      "CityID": 1371,
+      "CityName": "CITY OF NAVOTAS",
+      "ProvinceID": 68
+    },
+    {
+      "CityID": 1372,
+      "CityName": "CITY OF VALENZUELA",
+      "ProvinceID": 68
+    },
+    {
+      "CityID": 1373,
+      "CityName": "CITY OF LAS PIÑAS",
+      "ProvinceID": 68
+    },
+    {
+      "CityID": 1374,
+      "CityName": "CITY OF MAKATI",
+      "ProvinceID": 68
+    },
+    {
+      "CityID": 1375,
+      "CityName": "CITY OF MUNTINLUPA",
+      "ProvinceID": 68
+    },
+    {
+      "CityID": 1376,
+      "CityName": "CITY OF PARAÑAQUE",
+      "ProvinceID": 68
+    },
+    {
+      "CityID": 1377,
+      "CityName": "PASAY CITY",
+      "ProvinceID": 68
+    },
+    {
+      "CityID": 1378,
+      "CityName": "PATEROS",
+      "ProvinceID": 68
+    },
+    {
+      "CityID": 1379,
+      "CityName": "TAGUIG CITY",
+      "ProvinceID": 68
+    },
+    {
+      "CityID": 1380,
+      "CityName": "BANGUED (Capital)",
+      "ProvinceID": 73
+    },
+    {
+      "CityID": 1381,
+      "CityName": "BOLINEY",
+      "ProvinceID": 73
+    },
+    {
+      "CityID": 1382,
+      "CityName": "BUCAY",
+      "ProvinceID": 73
+    },
+    {
+      "CityID": 1383,
+      "CityName": "BUCLOC",
+      "ProvinceID": 73
+    },
+    {
+      "CityID": 1384,
+      "CityName": "DAGUIOMAN",
+      "ProvinceID": 73
+    },
+    {
+      "CityID": 1385,
+      "CityName": "DANGLAS",
+      "ProvinceID": 73
+    },
+    {
+      "CityID": 1386,
+      "CityName": "DOLORES",
+      "ProvinceID": 73
+    },
+    {
+      "CityID": 1387,
+      "CityName": "LA PAZ",
+      "ProvinceID": 73
+    },
+    {
+      "CityID": 1388,
+      "CityName": "LACUB",
+      "ProvinceID": 73
+    },
+    {
+      "CityID": 1389,
+      "CityName": "LAGANGILANG",
+      "ProvinceID": 73
+    },
+    {
+      "CityID": 1390,
+      "CityName": "LAGAYAN",
+      "ProvinceID": 73
+    },
+    {
+      "CityID": 1391,
+      "CityName": "LANGIDEN",
+      "ProvinceID": 73
+    },
+    {
+      "CityID": 1392,
+      "CityName": "LICUAN-BAAY (LICUAN)",
+      "ProvinceID": 73
+    },
+    {
+      "CityID": 1393,
+      "CityName": "LUBA",
+      "ProvinceID": 73
+    },
+    {
+      "CityID": 1394,
+      "CityName": "MALIBCONG",
+      "ProvinceID": 73
+    },
+    {
+      "CityID": 1395,
+      "CityName": "MANABO",
+      "ProvinceID": 73
+    },
+    {
+      "CityID": 1396,
+      "CityName": "PEÑARRUBIA",
+      "ProvinceID": 73
+    },
+    {
+      "CityID": 1397,
+      "CityName": "PIDIGAN",
+      "ProvinceID": 73
+    },
+    {
+      "CityID": 1398,
+      "CityName": "PILAR",
+      "ProvinceID": 73
+    },
+    {
+      "CityID": 1399,
+      "CityName": "SALLAPADAN",
+      "ProvinceID": 73
+    },
+    {
+      "CityID": 1400,
+      "CityName": "SAN ISIDRO",
+      "ProvinceID": 73
+    },
+    {
+      "CityID": 1401,
+      "CityName": "SAN JUAN",
+      "ProvinceID": 73
+    },
+    {
+      "CityID": 1402,
+      "CityName": "SAN QUINTIN",
+      "ProvinceID": 73
+    },
+    {
+      "CityID": 1403,
+      "CityName": "TAYUM",
+      "ProvinceID": 73
+    },
+    {
+      "CityID": 1404,
+      "CityName": "TINEG",
+      "ProvinceID": 73
+    },
+    {
+      "CityID": 1405,
+      "CityName": "TUBO",
+      "ProvinceID": 73
+    },
+    {
+      "CityID": 1406,
+      "CityName": "VILLAVICIOSA",
+      "ProvinceID": 73
+    },
+    {
+      "CityID": 1407,
+      "CityName": "ATOK",
+      "ProvinceID": 74
+    },
+    {
+      "CityID": 1408,
+      "CityName": "BAGUIO CITY",
+      "ProvinceID": 74
+    },
+    {
+      "CityID": 1409,
+      "CityName": "BAKUN",
+      "ProvinceID": 74
+    },
+    {
+      "CityID": 1410,
+      "CityName": "BOKOD",
+      "ProvinceID": 74
+    },
+    {
+      "CityID": 1411,
+      "CityName": "BUGUIAS",
+      "ProvinceID": 74
+    },
+    {
+      "CityID": 1412,
+      "CityName": "ITOGON",
+      "ProvinceID": 74
+    },
+    {
+      "CityID": 1413,
+      "CityName": "KABAYAN",
+      "ProvinceID": 74
+    },
+    {
+      "CityID": 1414,
+      "CityName": "KAPANGAN",
+      "ProvinceID": 74
+    },
+    {
+      "CityID": 1415,
+      "CityName": "KIBUNGAN",
+      "ProvinceID": 74
+    },
+    {
+      "CityID": 1416,
+      "CityName": "LA TRINIDAD (Capital)",
+      "ProvinceID": 74
+    },
+    {
+      "CityID": 1417,
+      "CityName": "MANKAYAN",
+      "ProvinceID": 74
+    },
+    {
+      "CityID": 1418,
+      "CityName": "SABLAN",
+      "ProvinceID": 74
+    },
+    {
+      "CityID": 1419,
+      "CityName": "TUBA",
+      "ProvinceID": 74
+    },
+    {
+      "CityID": 1420,
+      "CityName": "TUBLAY",
+      "ProvinceID": 74
+    },
+    {
+      "CityID": 1421,
+      "CityName": "BANAUE",
+      "ProvinceID": 75
+    },
+    {
+      "CityID": 1422,
+      "CityName": "HUNGDUAN",
+      "ProvinceID": 75
+    },
+    {
+      "CityID": 1423,
+      "CityName": "KIANGAN",
+      "ProvinceID": 75
+    },
+    {
+      "CityID": 1424,
+      "CityName": "LAGAWE (Capital)",
+      "ProvinceID": 75
+    },
+    {
+      "CityID": 1425,
+      "CityName": "LAMUT",
+      "ProvinceID": 75
+    },
+    {
+      "CityID": 1426,
+      "CityName": "MAYOYAO",
+      "ProvinceID": 75
+    },
+    {
+      "CityID": 1427,
+      "CityName": "ALFONSO LISTA (POTIA)",
+      "ProvinceID": 75
+    },
+    {
+      "CityID": 1428,
+      "CityName": "AGUINALDO",
+      "ProvinceID": 75
+    },
+    {
+      "CityID": 1429,
+      "CityName": "HINGYON",
+      "ProvinceID": 75
+    },
+    {
+      "CityID": 1430,
+      "CityName": "TINOC",
+      "ProvinceID": 75
+    },
+    {
+      "CityID": 1431,
+      "CityName": "ASIPULO",
+      "ProvinceID": 75
+    },
+    {
+      "CityID": 1432,
+      "CityName": "BALBALAN",
+      "ProvinceID": 76
+    },
+    {
+      "CityID": 1433,
+      "CityName": "LUBUAGAN",
+      "ProvinceID": 76
+    },
+    {
+      "CityID": 1434,
+      "CityName": "PASIL",
+      "ProvinceID": 76
+    },
+    {
+      "CityID": 1435,
+      "CityName": "PINUKPUK",
+      "ProvinceID": 76
+    },
+    {
+      "CityID": 1436,
+      "CityName": "RIZAL (LIWAN)",
+      "ProvinceID": 76
+    },
+    {
+      "CityID": 1437,
+      "CityName": "CITY OF TABUK (Capital)",
+      "ProvinceID": 76
+    },
+    {
+      "CityID": 1438,
+      "CityName": "TANUDAN",
+      "ProvinceID": 76
+    },
+    {
+      "CityID": 1439,
+      "CityName": "TINGLAYAN",
+      "ProvinceID": 76
+    },
+    {
+      "CityID": 1440,
+      "CityName": "BARLIG",
+      "ProvinceID": 77
+    },
+    {
+      "CityID": 1441,
+      "CityName": "BAUKO",
+      "ProvinceID": 77
+    },
+    {
+      "CityID": 1442,
+      "CityName": "BESAO",
+      "ProvinceID": 77
+    },
+    {
+      "CityID": 1443,
+      "CityName": "BONTOC (Capital)",
+      "ProvinceID": 77
+    },
+    {
+      "CityID": 1444,
+      "CityName": "NATONIN",
+      "ProvinceID": 77
+    },
+    {
+      "CityID": 1445,
+      "CityName": "PARACELIS",
+      "ProvinceID": 77
+    },
+    {
+      "CityID": 1446,
+      "CityName": "SABANGAN",
+      "ProvinceID": 77
+    },
+    {
+      "CityID": 1447,
+      "CityName": "SADANGA",
+      "ProvinceID": 77
+    },
+    {
+      "CityID": 1448,
+      "CityName": "SAGADA",
+      "ProvinceID": 77
+    },
+    {
+      "CityID": 1449,
+      "CityName": "TADIAN",
+      "ProvinceID": 77
+    },
+    {
+      "CityID": 1450,
+      "CityName": "CALANASAN (BAYAG)",
+      "ProvinceID": 78
+    },
+    {
+      "CityID": 1451,
+      "CityName": "CONNER",
+      "ProvinceID": 78
+    },
+    {
+      "CityID": 1452,
+      "CityName": "FLORA",
+      "ProvinceID": 78
+    },
+    {
+      "CityID": 1453,
+      "CityName": "KABUGAO (Capital)",
+      "ProvinceID": 78
+    },
+    {
+      "CityID": 1454,
+      "CityName": "LUNA",
+      "ProvinceID": 78
+    },
+    {
+      "CityID": 1455,
+      "CityName": "PUDTOL",
+      "ProvinceID": 78
+    },
+    {
+      "CityID": 1456,
+      "CityName": "SANTA MARCELA",
+      "ProvinceID": 78
+    },
+    {
+      "CityID": 1457,
+      "CityName": "CITY OF LAMITAN",
+      "ProvinceID": 79
+    },
+    {
+      "CityID": 1458,
+      "CityName": "LANTAWAN",
+      "ProvinceID": 79
+    },
+    {
+      "CityID": 1459,
+      "CityName": "MALUSO",
+      "ProvinceID": 79
+    },
+    {
+      "CityID": 1460,
+      "CityName": "SUMISIP",
+      "ProvinceID": 79
+    },
+    {
+      "CityID": 1461,
+      "CityName": "TIPO-TIPO",
+      "ProvinceID": 79
+    },
+    {
+      "CityID": 1462,
+      "CityName": "TUBURAN",
+      "ProvinceID": 79
+    },
+    {
+      "CityID": 1463,
+      "CityName": "AKBAR",
+      "ProvinceID": 79
+    },
+    {
+      "CityID": 1464,
+      "CityName": "AL-BARKA",
+      "ProvinceID": 79
+    },
+    {
+      "CityID": 1465,
+      "CityName": "HADJI MOHAMMAD AJUL",
+      "ProvinceID": 79
+    },
+    {
+      "CityID": 1466,
+      "CityName": "UNGKAYA PUKAN",
+      "ProvinceID": 79
+    },
+    {
+      "CityID": 1467,
+      "CityName": "HADJI MUHTAMAD",
+      "ProvinceID": 79
+    },
+    {
+      "CityID": 1468,
+      "CityName": "TABUAN-LASA",
+      "ProvinceID": 79
+    },
+    {
+      "CityID": 1469,
+      "CityName": "BACOLOD-KALAWI (BACOLOD GRANDE)",
+      "ProvinceID": 80
+    },
+    {
+      "CityID": 1470,
+      "CityName": "BALABAGAN",
+      "ProvinceID": 80
+    },
+    {
+      "CityID": 1471,
+      "CityName": "BALINDONG (WATU)",
+      "ProvinceID": 80
+    },
+    {
+      "CityID": 1472,
+      "CityName": "BAYANG",
+      "ProvinceID": 80
+    },
+    {
+      "CityID": 1473,
+      "CityName": "BINIDAYAN",
+      "ProvinceID": 80
+    },
+    {
+      "CityID": 1474,
+      "CityName": "BUBONG",
+      "ProvinceID": 80
+    },
+    {
+      "CityID": 1475,
+      "CityName": "BUTIG",
+      "ProvinceID": 80
+    },
+    {
+      "CityID": 1476,
+      "CityName": "GANASSI",
+      "ProvinceID": 80
+    },
+    {
+      "CityID": 1477,
+      "CityName": "KAPAI",
+      "ProvinceID": 80
+    },
+    {
+      "CityID": 1478,
+      "CityName": "LUMBA-BAYABAO (MAGUING)",
+      "ProvinceID": 80
+    },
+    {
+      "CityID": 1479,
+      "CityName": "LUMBATAN",
+      "ProvinceID": 80
+    },
+    {
+      "CityID": 1480,
+      "CityName": "MADALUM",
+      "ProvinceID": 80
+    },
+    {
+      "CityID": 1481,
+      "CityName": "MADAMBA",
+      "ProvinceID": 80
+    },
+    {
+      "CityID": 1482,
+      "CityName": "MALABANG",
+      "ProvinceID": 80
+    },
+    {
+      "CityID": 1483,
+      "CityName": "MARANTAO",
+      "ProvinceID": 80
+    },
+    {
+      "CityID": 1484,
+      "CityName": "MARAWI CITY (Capital)",
+      "ProvinceID": 80
+    },
+    {
+      "CityID": 1485,
+      "CityName": "MASIU",
+      "ProvinceID": 80
+    },
+    {
+      "CityID": 1486,
+      "CityName": "MULONDO",
+      "ProvinceID": 80
+    },
+    {
+      "CityID": 1487,
+      "CityName": "PAGAYAWAN (TATARIKAN)",
+      "ProvinceID": 80
+    },
+    {
+      "CityID": 1488,
+      "CityName": "PIAGAPO",
+      "ProvinceID": 80
+    },
+    {
+      "CityID": 1489,
+      "CityName": "POONA BAYABAO (GATA)",
+      "ProvinceID": 80
+    },
+    {
+      "CityID": 1490,
+      "CityName": "PUALAS",
+      "ProvinceID": 80
+    },
+    {
+      "CityID": 1491,
+      "CityName": "DITSAAN-RAMAIN",
+      "ProvinceID": 80
+    },
+    {
+      "CityID": 1492,
+      "CityName": "SAGUIARAN",
+      "ProvinceID": 80
+    },
+    {
+      "CityID": 1493,
+      "CityName": "TAMPARAN",
+      "ProvinceID": 80
+    },
+    {
+      "CityID": 1494,
+      "CityName": "TARAKA",
+      "ProvinceID": 80
+    },
+    {
+      "CityID": 1495,
+      "CityName": "TUBARAN",
+      "ProvinceID": 80
+    },
+    {
+      "CityID": 1496,
+      "CityName": "TUGAYA",
+      "ProvinceID": 80
+    },
+    {
+      "CityID": 1497,
+      "CityName": "WAO",
+      "ProvinceID": 80
+    },
+    {
+      "CityID": 1498,
+      "CityName": "MAROGONG",
+      "ProvinceID": 80
+    },
+    {
+      "CityID": 1499,
+      "CityName": "CALANOGAS",
+      "ProvinceID": 80
+    },
+    {
+      "CityID": 1500,
+      "CityName": "BUADIPOSO-BUNTONG",
+      "ProvinceID": 80
+    },
+    {
+      "CityID": 1501,
+      "CityName": "MAGUING",
+      "ProvinceID": 80
+    },
+    {
+      "CityID": 1502,
+      "CityName": "PICONG (SULTAN GUMANDER)",
+      "ProvinceID": 80
+    },
+    {
+      "CityID": 1503,
+      "CityName": "LUMBAYANAGUE",
+      "ProvinceID": 80
+    },
+    {
+      "CityID": 1504,
+      "CityName": "BUMBARAN",
+      "ProvinceID": 80
+    },
+    {
+      "CityID": 1505,
+      "CityName": "TAGOLOAN II",
+      "ProvinceID": 80
+    },
+    {
+      "CityID": 1506,
+      "CityName": "KAPATAGAN",
+      "ProvinceID": 80
+    },
+    {
+      "CityID": 1507,
+      "CityName": "SULTAN DUMALONDONG",
+      "ProvinceID": 80
+    },
+    {
+      "CityID": 1508,
+      "CityName": "LUMBACA-UNAYAN",
+      "ProvinceID": 80
+    },
+    {
+      "CityID": 1509,
+      "CityName": "AMPATUAN",
+      "ProvinceID": 81
+    },
+    {
+      "CityID": 1510,
+      "CityName": "BULDON",
+      "ProvinceID": 81
+    },
+    {
+      "CityID": 1511,
+      "CityName": "BULUAN",
+      "ProvinceID": 81
+    },
+    {
+      "CityID": 1512,
+      "CityName": "DATU PAGLAS",
+      "ProvinceID": 81
+    },
+    {
+      "CityID": 1513,
+      "CityName": "DATU PIANG",
+      "ProvinceID": 81
+    },
+    {
+      "CityID": 1514,
+      "CityName": "DATU ODIN SINSUAT (DINAIG)",
+      "ProvinceID": 81
+    },
+    {
+      "CityID": 1515,
+      "CityName": "SHARIFF AGUAK (MAGANOY) (Capital)",
+      "ProvinceID": 81
+    },
+    {
+      "CityID": 1516,
+      "CityName": "MATANOG",
+      "ProvinceID": 81
+    },
+    {
+      "CityID": 1517,
+      "CityName": "PAGALUNGAN",
+      "ProvinceID": 81
+    },
+    {
+      "CityID": 1518,
+      "CityName": "PARANG",
+      "ProvinceID": 81
+    },
+    {
+      "CityID": 1519,
+      "CityName": "SULTAN KUDARAT (NULING)",
+      "ProvinceID": 81
+    },
+    {
+      "CityID": 1520,
+      "CityName": "SULTAN SA BARONGIS (LAMBAYONG)",
+      "ProvinceID": 81
+    },
+    {
+      "CityID": 1521,
+      "CityName": "KABUNTALAN (TUMBAO)",
+      "ProvinceID": 81
+    },
+    {
+      "CityID": 1522,
+      "CityName": "UPI",
+      "ProvinceID": 81
+    },
+    {
+      "CityID": 1523,
+      "CityName": "TALAYAN",
+      "ProvinceID": 81
+    },
+    {
+      "CityID": 1524,
+      "CityName": "SOUTH UPI",
+      "ProvinceID": 81
+    },
+    {
+      "CityID": 1525,
+      "CityName": "BARIRA",
+      "ProvinceID": 81
+    },
+    {
+      "CityID": 1526,
+      "CityName": "GEN. S. K. PENDATUN",
+      "ProvinceID": 81
+    },
+    {
+      "CityID": 1527,
+      "CityName": "MAMASAPANO",
+      "ProvinceID": 81
+    },
+    {
+      "CityID": 1528,
+      "CityName": "TALITAY",
+      "ProvinceID": 81
+    },
+    {
+      "CityID": 1529,
+      "CityName": "PAGAGAWAN",
+      "ProvinceID": 81
+    },
+    {
+      "CityID": 1530,
+      "CityName": "PAGLAT",
+      "ProvinceID": 81
+    },
+    {
+      "CityID": 1531,
+      "CityName": "SULTAN MASTURA",
+      "ProvinceID": 81
+    },
+    {
+      "CityID": 1532,
+      "CityName": "GUINDULUNGAN",
+      "ProvinceID": 81
+    },
+    {
+      "CityID": 1533,
+      "CityName": "DATU SAUDI-AMPATUAN",
+      "ProvinceID": 81
+    },
+    {
+      "CityID": 1534,
+      "CityName": "DATU UNSAY",
+      "ProvinceID": 81
+    },
+    {
+      "CityID": 1535,
+      "CityName": "DATU ABDULLAH SANGKI",
+      "ProvinceID": 81
+    },
+    {
+      "CityID": 1536,
+      "CityName": "RAJAH BUAYAN",
+      "ProvinceID": 81
+    },
+    {
+      "CityID": 1537,
+      "CityName": "DATU BLAH T. SINSUAT",
+      "ProvinceID": 81
+    },
+    {
+      "CityID": 1538,
+      "CityName": "DATU ANGGAL MIDTIMBANG",
+      "ProvinceID": 81
+    },
+    {
+      "CityID": 1539,
+      "CityName": "MANGUDADATU",
+      "ProvinceID": 81
+    },
+    {
+      "CityID": 1540,
+      "CityName": "PANDAG",
+      "ProvinceID": 81
+    },
+    {
+      "CityID": 1541,
+      "CityName": "NORTHERN KABUNTALAN",
+      "ProvinceID": 81
+    },
+    {
+      "CityID": 1542,
+      "CityName": "DATU HOFFER AMPATUAN",
+      "ProvinceID": 81
+    },
+    {
+      "CityID": 1543,
+      "CityName": "DATU SALIBO",
+      "ProvinceID": 81
+    },
+    {
+      "CityID": 1544,
+      "CityName": "SHARIFF SAYDONA MUSTAPHA",
+      "ProvinceID": 81
+    },
+    {
+      "CityID": 1545,
+      "CityName": "INDANAN",
+      "ProvinceID": 82
+    },
+    {
+      "CityID": 1546,
+      "CityName": "JOLO (Capital)",
+      "ProvinceID": 82
+    },
+    {
+      "CityID": 1547,
+      "CityName": "KALINGALAN CALUANG",
+      "ProvinceID": 82
+    },
+    {
+      "CityID": 1548,
+      "CityName": "LUUK",
+      "ProvinceID": 82
+    },
+    {
+      "CityID": 1549,
+      "CityName": "MAIMBUNG",
+      "ProvinceID": 82
+    },
+    {
+      "CityID": 1550,
+      "CityName": "HADJI PANGLIMA TAHIL (MARUNGGAS)",
+      "ProvinceID": 82
+    },
+    {
+      "CityID": 1551,
+      "CityName": "OLD PANAMAO",
+      "ProvinceID": 82
+    },
+    {
+      "CityID": 1552,
+      "CityName": "PANGUTARAN",
+      "ProvinceID": 82
+    },
+    {
+      "CityID": 1553,
+      "CityName": "PARANG",
+      "ProvinceID": 82
+    },
+    {
+      "CityID": 1554,
+      "CityName": "PATA",
+      "ProvinceID": 82
+    },
+    {
+      "CityID": 1555,
+      "CityName": "PATIKUL",
+      "ProvinceID": 82
+    },
+    {
+      "CityID": 1556,
+      "CityName": "SIASI",
+      "ProvinceID": 82
+    },
+    {
+      "CityID": 1557,
+      "CityName": "TALIPAO",
+      "ProvinceID": 82
+    },
+    {
+      "CityID": 1558,
+      "CityName": "TAPUL",
+      "ProvinceID": 82
+    },
+    {
+      "CityID": 1559,
+      "CityName": "TONGKIL",
+      "ProvinceID": 82
+    },
+    {
+      "CityID": 1560,
+      "CityName": "PANGLIMA ESTINO (NEW PANAMAO)",
+      "ProvinceID": 82
+    },
+    {
+      "CityID": 1561,
+      "CityName": "LUGUS",
+      "ProvinceID": 82
+    },
+    {
+      "CityID": 1562,
+      "CityName": "PANDAMI",
+      "ProvinceID": 82
+    },
+    {
+      "CityID": 1563,
+      "CityName": "OMAR",
+      "ProvinceID": 82
+    },
+    {
+      "CityID": 1564,
+      "CityName": "PANGLIMA SUGALA (BALIMBING)",
+      "ProvinceID": 83
+    },
+    {
+      "CityID": 1565,
+      "CityName": "BONGAO (Capital)",
+      "ProvinceID": 83
+    },
+    {
+      "CityID": 1566,
+      "CityName": "MAPUN (CAGAYAN DE TAWI-TAWI)",
+      "ProvinceID": 83
+    },
+    {
+      "CityID": 1567,
+      "CityName": "SIMUNUL",
+      "ProvinceID": 83
+    },
+    {
+      "CityID": 1568,
+      "CityName": "SITANGKAI",
+      "ProvinceID": 83
+    },
+    {
+      "CityID": 1569,
+      "CityName": "SOUTH UBIAN",
+      "ProvinceID": 83
+    },
+    {
+      "CityID": 1570,
+      "CityName": "TANDUBAS",
+      "ProvinceID": 83
+    },
+    {
+      "CityID": 1571,
+      "CityName": "TURTLE ISLANDS",
+      "ProvinceID": 83
+    },
+    {
+      "CityID": 1572,
+      "CityName": "LANGUYAN",
+      "ProvinceID": 83
+    },
+    {
+      "CityID": 1573,
+      "CityName": "SAPA-SAPA",
+      "ProvinceID": 83
+    },
+    {
+      "CityID": 1574,
+      "CityName": "SIBUTU",
+      "ProvinceID": 83
+    },
+    {
+      "CityID": 1575,
+      "CityName": "BUENAVISTA",
+      "ProvinceID": 84
+    },
+    {
+      "CityID": 1576,
+      "CityName": "BUTUAN CITY (Capital)",
+      "ProvinceID": 84
+    },
+    {
+      "CityID": 1577,
+      "CityName": "CITY OF CABADBARAN",
+      "ProvinceID": 84
+    },
+    {
+      "CityID": 1578,
+      "CityName": "CARMEN",
+      "ProvinceID": 84
+    },
+    {
+      "CityID": 1579,
+      "CityName": "JABONGA",
+      "ProvinceID": 84
+    },
+    {
+      "CityID": 1580,
+      "CityName": "KITCHARAO",
+      "ProvinceID": 84
+    },
+    {
+      "CityID": 1581,
+      "CityName": "LAS NIEVES",
+      "ProvinceID": 84
+    },
+    {
+      "CityID": 1582,
+      "CityName": "MAGALLANES",
+      "ProvinceID": 84
+    },
+    {
+      "CityID": 1583,
+      "CityName": "NASIPIT",
+      "ProvinceID": 84
+    },
+    {
+      "CityID": 1584,
+      "CityName": "SANTIAGO",
+      "ProvinceID": 84
+    },
+    {
+      "CityID": 1585,
+      "CityName": "TUBAY",
+      "ProvinceID": 84
+    },
+    {
+      "CityID": 1586,
+      "CityName": "REMEDIOS T. ROMUALDEZ",
+      "ProvinceID": 84
+    },
+    {
+      "CityID": 1587,
+      "CityName": "CITY OF BAYUGAN",
+      "ProvinceID": 85
+    },
+    {
+      "CityID": 1588,
+      "CityName": "BUNAWAN",
+      "ProvinceID": 85
+    },
+    {
+      "CityID": 1589,
+      "CityName": "ESPERANZA",
+      "ProvinceID": 85
+    },
+    {
+      "CityID": 1590,
+      "CityName": "LA PAZ",
+      "ProvinceID": 85
+    },
+    {
+      "CityID": 1591,
+      "CityName": "LORETO",
+      "ProvinceID": 85
+    },
+    {
+      "CityID": 1592,
+      "CityName": "PROSPERIDAD (Capital)",
+      "ProvinceID": 85
+    },
+    {
+      "CityID": 1593,
+      "CityName": "ROSARIO",
+      "ProvinceID": 85
+    },
+    {
+      "CityID": 1594,
+      "CityName": "SAN FRANCISCO",
+      "ProvinceID": 85
+    },
+    {
+      "CityID": 1595,
+      "CityName": "SAN LUIS",
+      "ProvinceID": 85
+    },
+    {
+      "CityID": 1596,
+      "CityName": "SANTA JOSEFA",
+      "ProvinceID": 85
+    },
+    {
+      "CityID": 1597,
+      "CityName": "TALACOGON",
+      "ProvinceID": 85
+    },
+    {
+      "CityID": 1598,
+      "CityName": "TRENTO",
+      "ProvinceID": 85
+    },
+    {
+      "CityID": 1599,
+      "CityName": "VERUELA",
+      "ProvinceID": 85
+    },
+    {
+      "CityID": 1600,
+      "CityName": "SIBAGAT",
+      "ProvinceID": 85
+    },
+    {
+      "CityID": 1601,
+      "CityName": "ALEGRIA",
+      "ProvinceID": 86
+    },
+    {
+      "CityID": 1602,
+      "CityName": "BACUAG",
+      "ProvinceID": 86
+    },
+    {
+      "CityID": 1603,
+      "CityName": "BURGOS",
+      "ProvinceID": 86
+    },
+    {
+      "CityID": 1604,
+      "CityName": "CLAVER",
+      "ProvinceID": 86
+    },
+    {
+      "CityID": 1605,
+      "CityName": "DAPA",
+      "ProvinceID": 86
+    },
+    {
+      "CityID": 1606,
+      "CityName": "DEL CARMEN",
+      "ProvinceID": 86
+    },
+    {
+      "CityID": 1607,
+      "CityName": "GENERAL LUNA",
+      "ProvinceID": 86
+    },
+    {
+      "CityID": 1608,
+      "CityName": "GIGAQUIT",
+      "ProvinceID": 86
+    },
+    {
+      "CityID": 1609,
+      "CityName": "MAINIT",
+      "ProvinceID": 86
+    },
+    {
+      "CityID": 1610,
+      "CityName": "MALIMONO",
+      "ProvinceID": 86
+    },
+    {
+      "CityID": 1611,
+      "CityName": "PILAR",
+      "ProvinceID": 86
+    },
+    {
+      "CityID": 1612,
+      "CityName": "PLACER",
+      "ProvinceID": 86
+    },
+    {
+      "CityID": 1613,
+      "CityName": "SAN BENITO",
+      "ProvinceID": 86
+    },
+    {
+      "CityID": 1614,
+      "CityName": "SAN FRANCISCO (ANAO-AON)",
+      "ProvinceID": 86
+    },
+    {
+      "CityID": 1615,
+      "CityName": "SAN ISIDRO",
+      "ProvinceID": 86
+    },
+    {
+      "CityID": 1616,
+      "CityName": "SANTA MONICA (SAPAO)",
+      "ProvinceID": 86
+    },
+    {
+      "CityID": 1617,
+      "CityName": "SISON",
+      "ProvinceID": 86
+    },
+    {
+      "CityID": 1618,
+      "CityName": "SOCORRO",
+      "ProvinceID": 86
+    },
+    {
+      "CityID": 1619,
+      "CityName": "SURIGAO CITY (Capital)",
+      "ProvinceID": 86
+    },
+    {
+      "CityID": 1620,
+      "CityName": "TAGANA-AN",
+      "ProvinceID": 86
+    },
+    {
+      "CityID": 1621,
+      "CityName": "TUBOD",
+      "ProvinceID": 86
+    },
+    {
+      "CityID": 1622,
+      "CityName": "BAROBO",
+      "ProvinceID": 87
+    },
+    {
+      "CityID": 1623,
+      "CityName": "BAYABAS",
+      "ProvinceID": 87
+    },
+    {
+      "CityID": 1624,
+      "CityName": "CITY OF BISLIG",
+      "ProvinceID": 87
+    },
+    {
+      "CityID": 1625,
+      "CityName": "CAGWAIT",
+      "ProvinceID": 87
+    },
+    {
+      "CityID": 1626,
+      "CityName": "CANTILAN",
+      "ProvinceID": 87
+    },
+    {
+      "CityID": 1627,
+      "CityName": "CARMEN",
+      "ProvinceID": 87
+    },
+    {
+      "CityID": 1628,
+      "CityName": "CARRASCAL",
+      "ProvinceID": 87
+    },
+    {
+      "CityID": 1629,
+      "CityName": "CORTES",
+      "ProvinceID": 87
+    },
+    {
+      "CityID": 1630,
+      "CityName": "HINATUAN",
+      "ProvinceID": 87
+    },
+    {
+      "CityID": 1631,
+      "CityName": "LANUZA",
+      "ProvinceID": 87
+    },
+    {
+      "CityID": 1632,
+      "CityName": "LIANGA",
+      "ProvinceID": 87
+    },
+    {
+      "CityID": 1633,
+      "CityName": "LINGIG",
+      "ProvinceID": 87
+    },
+    {
+      "CityID": 1634,
+      "CityName": "MADRID",
+      "ProvinceID": 87
+    },
+    {
+      "CityID": 1635,
+      "CityName": "MARIHATAG",
+      "ProvinceID": 87
+    },
+    {
+      "CityID": 1636,
+      "CityName": "SAN AGUSTIN",
+      "ProvinceID": 87
+    },
+    {
+      "CityID": 1637,
+      "CityName": "SAN MIGUEL",
+      "ProvinceID": 87
+    },
+    {
+      "CityID": 1638,
+      "CityName": "TAGBINA",
+      "ProvinceID": 87
+    },
+    {
+      "CityID": 1639,
+      "CityName": "TAGO",
+      "ProvinceID": 87
+    },
+    {
+      "CityID": 1640,
+      "CityName": "CITY OF TANDAG (Capital)",
+      "ProvinceID": 87
+    },
+    {
+      "CityID": 1641,
+      "CityName": "BASILISA (RIZAL)",
+      "ProvinceID": 88
+    },
+    {
+      "CityID": 1642,
+      "CityName": "CAGDIANAO",
+      "ProvinceID": 88
+    },
+    {
+      "CityID": 1643,
+      "CityName": "DINAGAT",
+      "ProvinceID": 88
+    },
+    {
+      "CityID": 1644,
+      "CityName": "LIBJO (ALBOR)",
+      "ProvinceID": 88
+    },
+    {
+      "CityID": 1645,
+      "CityName": "LORETO",
+      "ProvinceID": 88
+    },
+    {
+      "CityID": 1646,
+      "CityName": "SAN JOSE (Capital)",
+      "ProvinceID": 88
+    },
+    {
+      "CityID": 1647,
+      "CityName": "TUBAJON",
+      "ProvinceID": 88
+    }
+  ]
+}

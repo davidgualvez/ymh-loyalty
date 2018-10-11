@@ -1,0 +1,424 @@
+{
+  "provinces": [
+    {
+      "ProvinceID": 1,
+      "ProvinceName": "ILOCOS NORTE",
+      "RegionID": 1
+    },
+    {
+      "ProvinceID": 2,
+      "ProvinceName": "ILOCOS SUR",
+      "RegionID": 1
+    },
+    {
+      "ProvinceID": 3,
+      "ProvinceName": "LA UNION",
+      "RegionID": 1
+    },
+    {
+      "ProvinceID": 4,
+      "ProvinceName": "PANGASINAN",
+      "RegionID": 1
+    },
+    {
+      "ProvinceID": 5,
+      "ProvinceName": "BATANES",
+      "RegionID": 2
+    },
+    {
+      "ProvinceID": 6,
+      "ProvinceName": "CAGAYAN",
+      "RegionID": 2
+    },
+    {
+      "ProvinceID": 7,
+      "ProvinceName": "ISABELA",
+      "RegionID": 2
+    },
+    {
+      "ProvinceID": 8,
+      "ProvinceName": "NUEVA VIZCAYA",
+      "RegionID": 2
+    },
+    {
+      "ProvinceID": 9,
+      "ProvinceName": "QUIRINO",
+      "RegionID": 2
+    },
+    {
+      "ProvinceID": 10,
+      "ProvinceName": "BATAAN",
+      "RegionID": 3
+    },
+    {
+      "ProvinceID": 11,
+      "ProvinceName": "BULACAN",
+      "RegionID": 3
+    },
+    {
+      "ProvinceID": 12,
+      "ProvinceName": "NUEVA ECIJA",
+      "RegionID": 3
+    },
+    {
+      "ProvinceID": 13,
+      "ProvinceName": "PAMPANGA",
+      "RegionID": 3
+    },
+    {
+      "ProvinceID": 14,
+      "ProvinceName": "TARLAC",
+      "RegionID": 3
+    },
+    {
+      "ProvinceID": 15,
+      "ProvinceName": "ZAMBALES",
+      "RegionID": 3
+    },
+    {
+      "ProvinceID": 16,
+      "ProvinceName": "AURORA",
+      "RegionID": 3
+    },
+    {
+      "ProvinceID": 17,
+      "ProvinceName": "BATANGAS",
+      "RegionID": 4
+    },
+    {
+      "ProvinceID": 18,
+      "ProvinceName": "CAVITE",
+      "RegionID": 4
+    },
+    {
+      "ProvinceID": 19,
+      "ProvinceName": "LAGUNA",
+      "RegionID": 4
+    },
+    {
+      "ProvinceID": 20,
+      "ProvinceName": "QUEZON",
+      "RegionID": 4
+    },
+    {
+      "ProvinceID": 21,
+      "ProvinceName": "RIZAL",
+      "RegionID": 4
+    },
+    {
+      "ProvinceID": 22,
+      "ProvinceName": "MARINDUQUE",
+      "RegionID": 5
+    },
+    {
+      "ProvinceID": 23,
+      "ProvinceName": "OCCIDENTAL MINDORO",
+      "RegionID": 5
+    },
+    {
+      "ProvinceID": 24,
+      "ProvinceName": "ORIENTAL MINDORO",
+      "RegionID": 5
+    },
+    {
+      "ProvinceID": 25,
+      "ProvinceName": "PALAWAN",
+      "RegionID": 5
+    },
+    {
+      "ProvinceID": 26,
+      "ProvinceName": "ROMBLON",
+      "RegionID": 5
+    },
+    {
+      "ProvinceID": 27,
+      "ProvinceName": "ALBAY",
+      "RegionID": 6
+    },
+    {
+      "ProvinceID": 28,
+      "ProvinceName": "CAMARINES NORTE",
+      "RegionID": 6
+    },
+    {
+      "ProvinceID": 29,
+      "ProvinceName": "CAMARINES SUR",
+      "RegionID": 6
+    },
+    {
+      "ProvinceID": 30,
+      "ProvinceName": "CATANDUANES",
+      "RegionID": 6
+    },
+    {
+      "ProvinceID": 31,
+      "ProvinceName": "MASBATE",
+      "RegionID": 6
+    },
+    {
+      "ProvinceID": 32,
+      "ProvinceName": "SORSOGON",
+      "RegionID": 6
+    },
+    {
+      "ProvinceID": 33,
+      "ProvinceName": "AKLAN",
+      "RegionID": 7
+    },
+    {
+      "ProvinceID": 34,
+      "ProvinceName": "ANTIQUE",
+      "RegionID": 7
+    },
+    {
+      "ProvinceID": 35,
+      "ProvinceName": "CAPIZ",
+      "RegionID": 7
+    },
+    {
+      "ProvinceID": 36,
+      "ProvinceName": "ILOILO",
+      "RegionID": 7
+    },
+    {
+      "ProvinceID": 37,
+      "ProvinceName": "NEGROS OCCIDENTAL",
+      "RegionID": 7
+    },
+    {
+      "ProvinceID": 38,
+      "ProvinceName": "GUIMARAS",
+      "RegionID": 7
+    },
+    {
+      "ProvinceID": 39,
+      "ProvinceName": "BOHOL",
+      "RegionID": 8
+    },
+    {
+      "ProvinceID": 40,
+      "ProvinceName": "CEBU",
+      "RegionID": 8
+    },
+    {
+      "ProvinceID": 41,
+      "ProvinceName": "NEGROS ORIENTAL",
+      "RegionID": 8
+    },
+    {
+      "ProvinceID": 42,
+      "ProvinceName": "SIQUIJOR",
+      "RegionID": 8
+    },
+    {
+      "ProvinceID": 43,
+      "ProvinceName": "EASTERN SAMAR",
+      "RegionID": 9
+    },
+    {
+      "ProvinceID": 44,
+      "ProvinceName": "LEYTE",
+      "RegionID": 9
+    },
+    {
+      "ProvinceID": 45,
+      "ProvinceName": "NORTHERN SAMAR",
+      "RegionID": 9
+    },
+    {
+      "ProvinceID": 46,
+      "ProvinceName": "SAMAR (WESTERN SAMAR)",
+      "RegionID": 9
+    },
+    {
+      "ProvinceID": 47,
+      "ProvinceName": "SOUTHERN LEYTE",
+      "RegionID": 9
+    },
+    {
+      "ProvinceID": 48,
+      "ProvinceName": "BILIRAN",
+      "RegionID": 9
+    },
+    {
+      "ProvinceID": 49,
+      "ProvinceName": "ZAMBOANGA DEL NORTE",
+      "RegionID": 10
+    },
+    {
+      "ProvinceID": 50,
+      "ProvinceName": "ZAMBOANGA DEL SUR",
+      "RegionID": 10
+    },
+    {
+      "ProvinceID": 51,
+      "ProvinceName": "ZAMBOANGA SIBUGAY",
+      "RegionID": 10
+    },
+    {
+      "ProvinceID": 52,
+      "ProvinceName": "CITY OF ISABELA",
+      "RegionID": 10
+    },
+    {
+      "ProvinceID": 53,
+      "ProvinceName": "BUKIDNON",
+      "RegionID": 11
+    },
+    {
+      "ProvinceID": 54,
+      "ProvinceName": "CAMIGUIN",
+      "RegionID": 11
+    },
+    {
+      "ProvinceID": 55,
+      "ProvinceName": "LANAO DEL NORTE",
+      "RegionID": 11
+    },
+    {
+      "ProvinceID": 56,
+      "ProvinceName": "MISAMIS OCCIDENTAL",
+      "RegionID": 11
+    },
+    {
+      "ProvinceID": 57,
+      "ProvinceName": "MISAMIS ORIENTAL",
+      "RegionID": 11
+    },
+    {
+      "ProvinceID": 58,
+      "ProvinceName": "DAVAO DEL NORTE",
+      "RegionID": 12
+    },
+    {
+      "ProvinceID": 59,
+      "ProvinceName": "DAVAO DEL SUR",
+      "RegionID": 12
+    },
+    {
+      "ProvinceID": 60,
+      "ProvinceName": "DAVAO ORIENTAL",
+      "RegionID": 12
+    },
+    {
+      "ProvinceID": 61,
+      "ProvinceName": "COMPOSTELA VALLEY",
+      "RegionID": 12
+    },
+    {
+      "ProvinceID": 62,
+      "ProvinceName": "DAVAO OCCIDENTAL",
+      "RegionID": 12
+    },
+    {
+      "ProvinceID": 63,
+      "ProvinceName": "COTABATO (NORTH COTABATO)",
+      "RegionID": 13
+    },
+    {
+      "ProvinceID": 64,
+      "ProvinceName": "SOUTH COTABATO",
+      "RegionID": 13
+    },
+    {
+      "ProvinceID": 65,
+      "ProvinceName": "SULTAN KUDARAT",
+      "RegionID": 13
+    },
+    {
+      "ProvinceID": 66,
+      "ProvinceName": "SARANGANI",
+      "RegionID": 13
+    },
+    {
+      "ProvinceID": 67,
+      "ProvinceName": "COTABATO CITY",
+      "RegionID": 13
+    },
+    {
+      "ProvinceID": 68,
+      "ProvinceName": "NCR",
+      "RegionID": 14
+    },
+    {
+      "ProvinceID": 73,
+      "ProvinceName": "ABRA",
+      "RegionID": 15
+    },
+    {
+      "ProvinceID": 74,
+      "ProvinceName": "BENGUET",
+      "RegionID": 15
+    },
+    {
+      "ProvinceID": 75,
+      "ProvinceName": "IFUGAO",
+      "RegionID": 15
+    },
+    {
+      "ProvinceID": 76,
+      "ProvinceName": "KALINGA",
+      "RegionID": 15
+    },
+    {
+      "ProvinceID": 77,
+      "ProvinceName": "MOUNTAIN PROVINCE",
+      "RegionID": 15
+    },
+    {
+      "ProvinceID": 78,
+      "ProvinceName": "APAYAO",
+      "RegionID": 15
+    },
+    {
+      "ProvinceID": 79,
+      "ProvinceName": "BASILAN",
+      "RegionID": 16
+    },
+    {
+      "ProvinceID": 80,
+      "ProvinceName": "LANAO DEL SUR",
+      "RegionID": 16
+    },
+    {
+      "ProvinceID": 81,
+      "ProvinceName": "MAGUINDANAO",
+      "RegionID": 16
+    },
+    {
+      "ProvinceID": 82,
+      "ProvinceName": "SULU",
+      "RegionID": 16
+    },
+    {
+      "ProvinceID": 83,
+      "ProvinceName": "TAWI-TAWI",
+      "RegionID": 16
+    },
+    {
+      "ProvinceID": 84,
+      "ProvinceName": "AGUSAN DEL NORTE",
+      "RegionID": 17
+    },
+    {
+      "ProvinceID": 85,
+      "ProvinceName": "AGUSAN DEL SUR",
+      "RegionID": 17
+    },
+    {
+      "ProvinceID": 86,
+      "ProvinceName": "SURIGAO DEL NORTE",
+      "RegionID": 17
+    },
+    {
+      "ProvinceID": 87,
+      "ProvinceName": "SURIGAO DEL SUR",
+      "RegionID": 17
+    },
+    {
+      "ProvinceID": 88,
+      "ProvinceName": "DINAGAT ISLANDS",
+      "RegionID": 17
+    }
+  ]
+}
