@@ -33,7 +33,7 @@
 	</style>
 	<link rel="stylesheet" href="/css/plugins/jquery-confirm.min.css">
 	<link rel="stylesheet" type="text/css" href="/css/plugins/jquery.fancybox.min.css">
-	<link rel="stylesheet" href="/css/plugins/preloader.css">
+	<link rel="stylesheet" href="/css/plugins/preloader.css"> 
 @endsection
 
 @section('custom_js') 

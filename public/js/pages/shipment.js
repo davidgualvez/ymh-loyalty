@@ -1,5 +1,7 @@
-$(document).ready(function(){
-	console.log('Page ready...');
+$(document).ready(function(){  
+	if(!isLogin()){
+		redirectTo('/login');
+	}
 
 	btnSubmit();
 
@@ -18,7 +20,6 @@ $(document).ready(function(){
                 $('#city_id').val(''); 
                 $("#region_id").val(value).trigger("change"); //assigning the id of selected city in input element with hidden attribute
             	
-
             	reloadProvinces();
             	reloadCities();
             }, 
@@ -105,8 +106,7 @@ function cityOnChange(){
 }
 
 function btnSubmit(){
-	$('#btn_submit').on('click',function(){
-		console.log('you clicked submit button...'); 
+	$('#btn_submit').on('click',function(){  
 		//====VALIDATION====//
 
 		//SHIPMENT ADDRESS
@@ -169,15 +169,25 @@ function btnSubmit(){
  			region_id 				: region_id.val(),
  			city_id 				: city_id.val(),
  			contact_number 			: contact_number.val()
- 		};
- 		console.log(data);
+ 		}; 
  		redemption(data);
  		//end
 	});
 }
 
 function redemption(data){
-	postWithHeader(routes.redemption,data,function(response){
-		console.log(response);
+	$('.shipment').preloader();
+	postWithHeader(routes.redemption, data, function(response){ 
+		if(response.success == false){
+			showError('',response.message, function(){
+				//place some code here if you want another after closing this message
+			});
+			$('.shipment').preloader('remove');
+			return; 
+		} 
+		showSuccess('', response.message ,function(){
+			//place some code here if you want another after closing this message
+			redirectTo('/');
+		}); 
 	});
 }

@@ -3,11 +3,13 @@
 
 @section('custom_css')
 	<link rel="stylesheet" type="text/css" href="/css/plugins/easy-autocomplete.min.css">
+	<link rel="stylesheet" href="/css/plugins/preloader.css">
 	<link rel="stylesheet" type="text/css" href="/css/pages/shipment.css">
 @endsection
 
 @section('custom_js')
 	<script src="/js/plugins/easy-autocomplete.min.js"></script>
+	<script src="/js/plugins/jquery.preloader.min.js"></script>
 	<script src="/js/pages/shipment.js"></script>
 @endsection
 
@@ -17,7 +19,7 @@
 			<div class="col-md-8 col-sm-7">
 				<h3 class="text-center mb-4" >SHIPMENT</h3> 
 				<div class="card mt-3 w-75 mx-auto my-auto ">
-					<div class="card-body"> 
+					<div class="card-body shipment"> 
 							<div class="form-group">
 								<label for="	"></label>
 								<textarea class="form-control" id="shipment_address" rows="3" placeholder="Complete Address (House No., Street, Brangay, City)

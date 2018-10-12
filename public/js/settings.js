@@ -15,7 +15,8 @@ var routes = {
     rewards:                '/api/reward/index',
     reward:                 '/api/reward/show', //{id} append the id of reward
     rewards_manufacturer:   '/api/reward/manufacturer',
-    redemption:             '/api/user/redemption'
+    redemption:             '/api/user/redemption',
+    userRedemptionHistory:  '/api/user/redemption/history'
 };
 
 //
@@ -96,7 +97,7 @@ function redirectTo(link) {
     window.location.href = link;
 }
 
-function showInfo(title,message,callback){
+function showInfo(title, message, callback){
     iziToast.info({
         title: title,
         message: message,
@@ -108,7 +109,7 @@ function showInfo(title,message,callback){
     });
 }
 
-function showSuccess(title,message,callback){
+function showSuccess(title,message, callback){
     iziToast.success({
         title:      title,
         message:    message,
@@ -146,7 +147,6 @@ function getParams(id){
     var x = urlParams.get(id); //getting the value from url parameter
     return x; 
 }
-
 
 function validateEmail(email) {
     var re = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
