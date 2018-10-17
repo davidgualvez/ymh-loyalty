@@ -144,6 +144,71 @@
                 </div>  
             </div>
         </div>
+
+        <!-- Update Modal -->
+        <div class="modal fade" id="modal-shipping-details" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+          <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLongTitle">Shipping Details</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                  <span aria-hidden="true">&times;</span>
+                </button>
+              </div>
+              <div class="modal-body" >
+                <div class="pl-3 pr-3">
+                    <div class="col-md-12 col-sm-12" style="border: 5px solid gray;">
+                        <table class="table table-sm"> 
+                          <tbody>
+                            <tr>
+                              <th scope="row">Name</th>
+                              <td class="text-right" id="txt_name">...</td> 
+                            </tr>
+                            <tr>
+                              <th scope="row">Redeem Item</th>
+                              <td class="text-right" id="txt_reward_name">...</td> 
+                            </tr>
+                            <tr>
+                              <th scope="row">Product Code</th>
+                              <td class="text-right" id="txt_reward_code">...</td> 
+                            </tr>
+                            <tr>
+                              <th scope="row">Reference #</th>
+                              <td class="text-right" id="txt_reward_id">...</td> 
+                            </tr>
+                            <tr>
+                              <th scope="row">Shipment Address</th>
+                              <td class="text-right" id="txt_reward_id">...</td> 
+                            </tr>
+                            <tr>
+                              <th scope="row">Estimated Delivery Date</th>
+                              <td class="text-right" id="txt_reward_id">...</td> 
+                            </tr>
+                            <tr>
+                              <th scope="row">Tracking-#</th>
+                              <td class="text-right" id="txt_reward_id">...</td> 
+                            </tr>
+                          </tbody>
+                        </table> 
+                    </div>  
+                    <hr>
+                    <div class="w-100">
+                        <div class="form-group form-inline">
+                            <label>To locate your package &nbsp;<strong>Click here</strong> &nbsp;&nbsp;</label>
+                            <a href="https://www.lbcexpress.com/track/?tracking_no=71001372335666" id="lbc_locator" class="btn btn-danger btn-sm" target="_blank"><strong>LBC Locator</strong></a> 
+                        </div>
+                        
+                    </div>
+                    
+                </div> 
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-sm btn-secondary" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-sm btn-primary">Save changes</button>
+              </div>
+            </div>
+          </div>
+        </div>
         
     </div>
     

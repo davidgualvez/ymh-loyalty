@@ -203,26 +203,26 @@ function redeemDataDisplayer(data, from) {
         // 1 = approved
         // 2 = intransit 
         var status = null;
-        if(value.Status == 0){
+        if(value.status == 0){
             status = '<span class="badge badge-secondary">Pending</span>';    //secondary
-        }else if(value.Status == 1){
+        }else if(value.status == 1){
             status = '<span class="badge badge-info">Approved</span>';        //info
-        }else if(value.Status == 2){
+        }else if(value.status == 2){
             status = '<span class="badge badge-success">Intransit</span>';    //success
         }else{
             status = '<span class="badge badge-danger">Undefined</span>';     //danger
         }
 
-        var date = moment(value.DateCreated);
+        var date = moment(value.created_at);
         $('#redeem_list').append(
             '<tr data-id="' + from + '">' +
             '<th scope="row">' + from + '</th>' +
             '<td>' + date.format('ll') + '</td>' +
             '<td>' + date.format('LT') + '</td>' +
-            '<td>' + value.redemption_rewards[0].reward.LoyaltyRewardName + '</td>' +
-            '<td class="text-right">' + value.redemption_rewards[0].reward.RequiredPoints + '</td>' +
+            '<td>' + value.reward_name + '</td>' +
+            '<td class="text-right">' + value.reward_points + '</td>' +
             '<td>' + status + '</td>' + 
-            '<td> <button class="btn btn-sm btn-secondary"> <i class="fa fa-eye"></i> view </button> </td>' + 
+            '<td> <button class="btn btn-sm btn-secondary"  data-toggle="modal" data-target="#modal-shipping-details"> <i class="fa fa-eye"></i> view </button> </td>' + 
             '</tr>'
         );
         from++;
