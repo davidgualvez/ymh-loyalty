@@ -6,7 +6,7 @@
 	<meta http-equiv="X-UA-Compatible" content="ie=edge"> 
 	<meta name="csrf-token" content="{{ csrf_token() }}">
 	<link rel="shortcut icon" href="/assets/favicon.png" type="image/x-icon">
-	<title>@yield('title') | YAMAHA LOYALTY</title>
+	<title>@yield('title') | Yamaha Loyalty</title>
 	<!-- global css -->
 	<link rel="stylesheet" href="/css/app.css">
 	<link rel="stylesheet" href="/css/all.css">

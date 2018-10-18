@@ -63,7 +63,7 @@ function earnPaginate() {
     $('.earned-history').preloader();
     postWithHeader(routes.transactions + "?page=" + current_page, data, function (response) {
         current_page = response.data.current_page;
-        console.log(response.data.data); 
+        //console.log(response.data.data); 
         $('#earned_current_page').html(current_page);
         if (response.data.next_page_url == null) {
             $('#earned_next_page_url').parent().addClass('disabled');
@@ -201,7 +201,7 @@ function redeemDataDisplayer(data, from) {
         // status
         // 0 = pending
         // 1 = approved
-        // 2 = intransit 
+        // 2 = intransit
         var status = null;
         if(value.status == 0){
             status = '<span class="badge badge-secondary">Pending</span>';    //secondary
@@ -220,12 +220,42 @@ function redeemDataDisplayer(data, from) {
             '<td>' + date.format('ll') + '</td>' +
             '<td>' + date.format('LT') + '</td>' +
             '<td>' + value.reward_name + '</td>' +
-            '<td class="text-right">' + value.reward_points + '</td>' +
+            '<td class="text-center">' + value.reward_points + '</td>' +
             '<td>' + status + '</td>' + 
-            '<td> <button class="btn btn-sm btn-secondary"  data-toggle="modal" data-target="#modal-shipping-details"> <i class="fa fa-eye"></i> view </button> </td>' + 
+            '<td> <button id="btn-redeem-detail-'+value.id+'" class="btn btn-sm btn-secondary"  data-toggle="modal" data-target="#modal-shipping-details"> <i class="fa fa-eye"></i> view </button> </td>' + 
             '</tr>'
         );
         from++;
+        btnViewDetail(value.id);
     });
 }
 //end of pagination================
+
+function btnViewDetail(id){
+    $('#btn-redeem-detail-'+id).on('click',function(){ 
+        $.each(redeem_current_data, function(key,value){
+            if(value.id == id){  
+                var name = value.full_name;
+                var estimated_date = value.date_from + ' to ' + value.date_to;
+
+                $('#txt_name').text( name.toUpperCase() );
+                $('#txt_reward_name').text(value.reward_name);
+                $('#txt_reward_code').text(value.reward_number);
+                $('#txt_reward_id').text(value.id);
+                $('#txt_shipment_address').text(value.shipping_address); 
+                if(value.tracking_number == null){ 
+                    $('#txt_estimated_date').text('...');
+                    $('#txt_tracking_number').text('...');
+
+                    $('.lbc-locator').hide();
+                }else{
+                    $('#txt_estimated_date').text(estimated_date);
+                    $('#txt_tracking_number').text(value.tracking_number);
+                    $('#lbc_locator').attr('href', lbcTrackingRoute + value.tracking_number); 
+                    $('.lbc-locator').show();
+                }
+                
+            }
+        }); 
+    });
+}

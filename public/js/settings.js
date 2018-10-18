@@ -7,6 +7,7 @@ $(document).ready(function () {
 
 //global variable for all page
 var api = $('#api_url').val();
+var lbcTrackingRoute = 'https://www.lbcexpress.com/track/?tracking_no='; //append the tracking number
 var routes = {
     login:                  '/api/user/login',
     forgot_password:        '/api/user/forgot_password',

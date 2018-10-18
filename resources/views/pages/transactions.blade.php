@@ -114,7 +114,7 @@
                             <th width="10%">Date</th>
                             <th width="10%">Time</th>
                             <th width="40%">Purchased Items</th>
-                            <th width="10%">Points</th>
+                            <th class="text-center" width="10%">Points</th>
                             <th width="15%">Status</th>
                             <th width="10%">Action</th>
                             </tr>
@@ -177,39 +177,36 @@
                               <td class="text-right" id="txt_reward_id">...</td> 
                             </tr>
                             <tr>
-                              <th scope="row">Shipment Address</th>
-                              <td class="text-right" id="txt_reward_id">...</td> 
+                              <th scope="row">Shipping Address</th>
+                              <td class="text-right" id="txt_shipment_address">...</td> 
                             </tr>
                             <tr>
                               <th scope="row">Estimated Delivery Date</th>
-                              <td class="text-right" id="txt_reward_id">...</td> 
+                              <td class="text-right" id="txt_estimated_date">...</td> 
                             </tr>
                             <tr>
                               <th scope="row">Tracking-#</th>
-                              <td class="text-right" id="txt_reward_id">...</td> 
+                              <td class="text-right" id="txt_tracking_number">...</td> 
                             </tr>
                           </tbody>
                         </table> 
                     </div>  
                     <hr>
                     <div class="w-100">
-                        <div class="form-group form-inline">
+                        <div class="form-group form-inline lbc-locator">
                             <label>To locate your package &nbsp;<strong>Click here</strong> &nbsp;&nbsp;</label>
-                            <a href="https://www.lbcexpress.com/track/?tracking_no=71001372335666" id="lbc_locator" class="btn btn-danger btn-sm" target="_blank"><strong>LBC Locator</strong></a> 
-                        </div>
-                        
+                            <a href="#" id="lbc_locator" class="btn btn-danger btn-sm" target="_blank"><strong>LBC Locator</strong></a> 
+                        </div> 
                     </div>
                     
                 </div> 
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-sm btn-secondary" data-dismiss="modal">Close</button>
-                <button type="button" class="btn btn-sm btn-primary">Save changes</button>
+                {{-- <button type="button" class="btn btn-sm btn-primary">Save changes</button> --}}
               </div>
             </div>
           </div>
-        </div>
-        
-    </div>
-    
+        </div> 
+    </div> 
 @endsection

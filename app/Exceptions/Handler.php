@@ -44,7 +44,8 @@ class Handler extends ExceptionHandler
      */
     public function render($request, Exception $exception)
     {
-        $status = $exception->getStatusCode(); 
+        dd($exception);
+        $status = $exception->getStatusCode();  
         if (view()->exists("errors.{$status}")) {
             return response()->view("errors.{$status}", ['exception' => $exception], $status, $exception->getHeaders());
         } else {
