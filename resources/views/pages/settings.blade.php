@@ -11,7 +11,7 @@
 	<div class="container">
 		<div class="row m-5">
 			<div class="col-sm-12 col-md-12 text-center p-3">
-				<h2>EDIT MY ACCOUNT</h2>
+				<h2>MY ACCOUNT</h2>
 			</div>
 			<div class="col-sm-12 col-md-4">
 				<div class="box text-center p-3">

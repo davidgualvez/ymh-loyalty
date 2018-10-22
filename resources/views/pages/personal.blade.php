@@ -2,19 +2,22 @@
 @section('title','Personal Information')
 
 @section('custom_css') 
+	<link rel="stylesheet" href="/css/plugins/preloader.css">
 @endsection
 
 @section('custom_js')   
+	<script src="/js/plugins/jquery.preloader.min.js"></script>
+	<script src="/js/pages/personal.js"></script>
 @endsection
 
 @section('content')
-	<div class="container">
+	<div class="container" id="">
 		<div class="row m-2">
 			<div class="col col-sm-12 col-md-12 text-center p-2">
 				<h2>Personal Information</h2>
 			</div> 
 
-			<div class="col-sm-12 col-md-12 p-2">
+			<div class="col-sm-12 col-md-12 p-2  content">
 				<div class="row justify-content-center"> 
 				    <div class="col-sm-12 col-md-12">
 				    	<div class="row"> 

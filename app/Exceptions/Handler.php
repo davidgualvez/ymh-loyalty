@@ -43,8 +43,7 @@ class Handler extends ExceptionHandler
      * @return \Illuminate\Http\Response
      */
     public function render($request, Exception $exception)
-    {
-        dd($exception);
+    {   
         $status = $exception->getStatusCode();  
         if (view()->exists("errors.{$status}")) {
             return response()->view("errors.{$status}", ['exception' => $exception], $status, $exception->getHeaders());

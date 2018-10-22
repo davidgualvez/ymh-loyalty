@@ -34,7 +34,7 @@ function loadUserInfo(){
         $('#expiry_date').html(response.data.expiry_date);
         $('#current_points').html(response.data.current_points);
         // remove the loading indicator 
-        $('.user-profile').preloader('remove')
+        $('.user-profile').preloader('remove');
 
     });
 }

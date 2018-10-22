@@ -13,6 +13,18 @@ var routes = {
     forgot_password:        '/api/user/forgot_password',
     transactions:           '/api/user/earned_points_history',
     userInfo:               '/api/user/user_info',
+    user : {
+        account :           '/api/user/account', //param ( token )
+        changePassword :    '/api/user/account/change_password',
+        motors :            '/api/user/motors',
+        newMotor :          '/api/user/additionalMotor',
+        personalInfo :      '/api/user/personalInfo'
+    },
+    motor: {
+        find : {
+            // engineAndChassis:'/api/motor/check_by_engine_and_chassis'
+        }
+    },
     rewards:                '/api/reward/index',
     reward:                 '/api/reward/show', //{id} append the id of reward
     rewards_manufacturer:   '/api/reward/manufacturer',
@@ -34,7 +46,9 @@ function post(url, request, callback) {
             callback(data);
         },
         error: function (data) {
-            showError('Server error', 'Please ask the system administrator about this!');
+            showError('Server error', 'Please ask the system administrator about this!', function(){
+
+            });
         }
     });
 }
@@ -53,7 +67,9 @@ function postWithHeader(url, request, callback) {
             callback(data);
         },
         error: function (data) {
-            showError('Server error', 'Please ask the system administrator about this!');
+            showError('Server error', 'Please ask the system administrator about this!', function(){
+
+            });
         }
     }); 
 }
@@ -69,7 +85,9 @@ function get(url, request, callback) {
              callback(data);
          },
          error: function (data) {
-             showError('Server error', 'Please ask the system administrator about this!');
+             showError('Server error', 'Please ask the system administrator about this!', function(){
+
+             });
          }
      }); 
 }
