@@ -46,8 +46,9 @@ function post(url, request, callback) {
             callback(data);
         },
         error: function (data) {
+            console.log(data);
             showError('Server error', 'Please ask the system administrator about this!', function(){
-
+            
             });
         }
     });

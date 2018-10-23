@@ -9,12 +9,12 @@
 	<script src="/js/plugins/jquery.preloader.min.js"></script>
 	<script src="/js/pages/personal.js"></script>
 @endsection
-
+ 
 @section('content')
 	<div class="container" id="">
 		<div class="row m-2">
 			<div class="col col-sm-12 col-md-12 text-center p-2">
-				<h2>Personal Information</h2>
+				<h2>Personal Information</h2> 
 			</div> 
 
 			<div class="col-sm-12 col-md-12 p-2  content">
@@ -26,79 +26,79 @@
 									<div class="col-4">
 										<div class="form-group">
 											<label>First Name</label>
-											<input type="text" class="form-control form-control-sm">
+											<input id="first_name" type="text" class="form-control form-control-sm">
 										</div>
 									</div>
 									<div class="col-4">
 										<div class="form-group">
 											<label>Middle Name</label>
-											<input type="text" class="form-control form-control-sm">
+											<input id="middle_name" type="text" class="form-control form-control-sm">
 										</div>
 									</div>
 									<div class="col-4">
 										<div class="form-group">
 											<label>Last Name</label>
-											<input type="text" class="form-control form-control-sm">
+											<input id="last_name" type="text" class="form-control form-control-sm">
 										</div>
 									</div>
 									<div class="col-4">
 										<div class="form-group">
 											<label>Birthday</label>
-											<input type="text" class="form-control form-control-sm">
+											<input id="bdate" type="date" class="form-control form-control-sm">
 										</div>
 									</div>
 									<div class="col-4">
 										<div class="form-group">
 											<label>Email Address</label>
-											<input type="text" class="form-control form-control-sm">
+											<input id="email_address" type="email" class="form-control form-control-sm">
 										</div>
 									</div>
 									<div class="col-4">
 										<div class="form-group">
-											<label>Contact Number</label>
-											<input type="text" class="form-control form-control-sm">
+											<label>Mobile Number</label>
+											<input id="mobile_number" type="text" class="form-control form-control-sm">
 										</div>
 									</div>
 									<div class="col-4">
 										<div class="form-group">
 											<label>Home Number</label>
-											<input type="text" class="form-control form-control-sm">
+											<input id="contact_number" type="text" class="form-control form-control-sm">
 										</div>
 									</div>
 									<div class="col-4">
 										<div class="form-group">
 											<label>Street</label>
-											<input type="text" class="form-control form-control-sm">
+											<input id="street" type="text" class="form-control form-control-sm">
 										</div>
 									</div>
 									<div class="col-4">
 										<div class="form-group">
 											<label>Barangay</label>
-											<input type="text" class="form-control form-control-sm">
+											<input id="barangay" type="text" class="form-control form-control-sm">
 										</div>
 									</div>
 									<div class="col-4">
 										<div class="form-group">
 											<label>Region</label>
-											<input type="text" class="form-control form-control-sm">
+											<input id="region" type="text" class="form-control form-control-sm">
 										</div>
 									</div>
 									<div class="col-4">
 										<div class="form-group">
 											<label>Province</label>
-											<input type="text" class="form-control form-control-sm">
+											<input id="province" type="text" class="form-control form-control-sm">
 										</div>
 									</div>
 									<div class="col-4">
 										<div class="form-group">
 											<label>City</label>
-											<input type="text" class="form-control form-control-sm">
+											<input id="city" type="text" class="form-control form-control-sm">
 										</div>
 									</div>
 									<div class="col-12">
 										<div class="form-group">
 											<label>3S Shop</label>
-											<input type="text" class="form-control form-control-sm">
+											<input id="site" type="text" class="form-control form-control-sm">
 										</div>
 									</div>
 								</div>
