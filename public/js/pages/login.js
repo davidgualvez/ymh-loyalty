@@ -4,32 +4,52 @@ $(document).ready(function(){
     }
     
      $('.carousel').carousel(); 
-     btnLogin();
+     btnLogin(); 
+     usernameOnEnter();
+     passwordOnEnter();
 });
+
+function usernameOnEnter(){
+    $('#username').keypress(function (e) {
+        if (e.which == 13) {
+            checkLogin();
+        }
+    });
+}
+
+function passwordOnEnter() {
+    $('#password').keypress(function (e) {
+        if (e.which == 13) {
+            checkLogin();
+        }
+    });
+}
 
 function btnLogin(){
     $('#btn_login').on('click',function(){ 
-
-         var username = $('#username').val();
-         var password = $('#password').val();
-
-         if(username == '' || username == null){
-             showError('Login','Username is required!',function(){
-
-             });
-             return;
-         }
-
-         if(password == '' || password == null){
-             showError('Login', 'Password is required!', function () {
-
-             });
-             return;
-         }
-
-         login(username, password);
-
+        checkLogin();
     });
+}
+
+function checkLogin(){
+     var username = $('#username').val();
+     var password = $('#password').val();
+
+     if (username == '' || username == null) {
+         showError('Login', 'Username is required!', function () {
+
+         });
+         return;
+     }
+
+     if (password == '' || password == null) {
+         showError('Login', 'Password is required!', function () {
+
+         });
+         return;
+     }
+
+     login(username, password);
 }
 
 function login(username , password){

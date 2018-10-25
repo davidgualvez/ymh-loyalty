@@ -62,10 +62,10 @@
 					<img class="card-img-top h-100" src="/assets/clubcard3.png" width="" alt="Card image cap">
 					<div class="card-body text-center">
 						<div class="card-title">
-							PETRON VALUE CARD 
-							(PHP 500)
+							NOT YET WORKING 
+							(PHP 0.00)
 						</div>
-						<p class="card-text">100 YAMAHA CLUB POINTS</p>
+						<p class="card-text">0.00 YAMAHA CLUB POINTS</p>
 						<a href="" class="btn btn-sm btn-block btn-primary">Redeem</a>
 					</div>
 				</div>

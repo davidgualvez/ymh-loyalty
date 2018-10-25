@@ -65,7 +65,7 @@
 					 <div style="text-align:center; margin: 10px 0px 10px 0px; border:1px solid gray; padding:10px;">
 						 <h6>TOP REDEEMABLE ITEM</h6>
 						 <img src="/assets/clubcard.jpg" alt="" class="w-100" height="150">
-						 <strong>TITLE (Php500)</strong> 
+						 <strong>NOT YET WORKING (Php500)</strong> 
 						 <div>100 yamaha points</div>
 						 <div style="padding:0px 20px 0px 20px;">
 							<button class="btn btn-sm btn-seconday w-100">Redeem</button>
@@ -85,10 +85,10 @@
 						<div class="form-group">
 							<label for="limit">Limit &nbsp;</label> 
 							<select id="limit" class="custom-select custom-select-sm form-control form-control-sm">
-								<option value="10">10</option>
-								<option value="25">25</option>
-								<option value="50">50</option>
-								<option value="100">100</option>
+								<option value="12">12</option>
+								<option value="24">24</option>
+								<option value="60">60</option>
+								<option value="120">120</option>
 							</select> 
 						</div> 
 					</div> 

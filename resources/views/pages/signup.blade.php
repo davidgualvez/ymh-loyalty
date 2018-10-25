@@ -1,49 +1,25 @@
-
- <!DOCTYPE html>
- <html>
- <head>
-
- 	<script src="/js/pages/registration/jquery-3.1.1.slim.min.js">
- 	</script>
- 	<script src="/js/pages/registration/tether.min.js">
- 	</script>
- 	<script type="text/javascript" src="/js/pages/registration/bootstrap.min.js"></script>
- <!-- toggle button -->
- <link href="/css/pages/registration/bootstrap-toggle.min.css" rel="stylesheet">
- <script src="/js/pages/registration/bootstrap-toggle.min.js">
- </script>
- <link href="/css/pages/registration/bootstrap.css" rel="stylesheet">
- <link href="/css/pages/registration/normalize.css" rel="stylesheet">
- <link href="/css/pages/registration/style.css" rel="stylesheet">
- <link href="/css/pages/registration/growl.css" rel="stylesheet">
- <link href="/css/pages/registration/pace.css" rel="stylesheet">
- <link rel="stylesheet" type="text/css" href="/css/pages/registration/select2.css">
- <link rel="stylesheet" href="/css/pages/registration/jquery-ui.css">
- <script src="/js/pages/registration/jquery.js" type="text/javascript"></script>
- <script src="/js/pages/registration/jquery-ui.js"></script>
- <!-- <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script> -->
- <script type="text/javascript" src="/js/pages/registration/pace.js"></script>
- <script type="text/javascript" src="/js/pages/registration/growl.js"></script>
- <script type="text/javascript" src="/js/pages/registration/append.js"></script>
- <script type="text/javascript" src="/js/pages/registration/general.js"></script>
- <script src="/js/pages/registration/select2.js"></script>
-
-
- <!-- <script type="text/javascript" src="js/brandModels.js"></script> -->
- <!-- <script type="text/javascript" src="js/surveyDropDown.js"></script> -->
-
- <script type="text/javascript" src="/js/pages/registration/signup.js"></script>
- <script type="text/javascript" src="/js/pages/registration/motors.js"></script>
- <script type="text/javascript" src="/js/pages/registration/cookie.js"></script>
- <script src="/js/pages/registration/registrationFlow.js" type="text/javascript">
- </script>
- <script type="text/javascript" src="/js/pages/registration/displayPlaces_1.js"></script>
- <script src="/js/pages/registration/signup-samp.js"></script>
-
-
-
- <title></title>
-
+<!DOCTYPE html>
+<html lang="en"> 
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge"> 
+	<meta name="csrf-token" content="{{ csrf_token() }}">
+	<link rel="shortcut icon" href="/assets/favicon.png" type="image/x-icon">
+	<title>Signup | Yamaha Loyalty</title> 
+	<!-- toggle button -->
+	<link href="/css/pages/registration/bootstrap-toggle.min.css" rel="stylesheet"> 
+	<link href="/css/pages/registration/bootstrap.css" rel="stylesheet">
+	<link href="/css/pages/registration/normalize.css" rel="stylesheet">
+	<link href="/css/pages/registration/style.css" rel="stylesheet">
+	<link href="/css/pages/registration/growl.css" rel="stylesheet">
+	<link href="/css/pages/registration/pace.css" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="/css/pages/registration/select2.css">
+	<link rel="stylesheet" href="/css/pages/registration/jquery-ui.css"> 
+	<!-- <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script> --> 
+	<!-- <script type="text/javascript" src="js/brandModels.js"></script> -->
+	<!-- <script type="text/javascript" src="js/surveyDropDown.js"></script> --> 
+ 	
  <style>
  .container2 label {
  	padding-bottom: 0;
@@ -887,5 +863,24 @@
 
 	{{-- API URL --}}
 	<input type="text" id="api_url" value="{{config('app.api_url')}}" hidden=""> 
+
+	{{-- JS --}}
+	<script src="/js/pages/registration/jquery-3.1.1.slim.min.js"></script>
+ 	<script src="/js/pages/registration/tether.min.js"></script>
+ 	<script src="/js/pages/registration/bootstrap.min.js"></script>
+	<script src="/js/pages/registration/bootstrap-toggle.min.js"></script>
+	<script src="/js/pages/registration/jquery.js"  ></script>
+	<script src="/js/pages/registration/jquery-ui.js"></script>
+	<script src="/js/pages/registration/pace.js"></script>
+	<script src="/js/pages/registration/growl.js"></script>
+	<script src="/js/pages/registration/append.js"></script>
+	<script src="/js/pages/registration/general.js"></script>
+	<script src="/js/pages/registration/select2.js"></script>
+	<script src="/js/pages/registration/signup.js"></script>
+	<script src="/js/pages/registration/motors.js"></script>
+	<script src="/js/pages/registration/cookie.js"></script>
+	<script src="/js/pages/registration/registrationFlow.js"></script>
+	<script src="/js/pages/registration/displayPlaces_1.js"></script> 
+	<script src="/js/pages/registration/signup-samp.js"></script> 
 </body>
 </html>

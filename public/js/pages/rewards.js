@@ -143,18 +143,19 @@ function dataDisplayer(data, from) {
     current_data = data;
     $.each(data, function (key, value) {
         //var date = moment(value.DateCreated);
+        var imgPath = api + value.img_path;
         //console.log(value);
         $('#items').append( 
             '<div class="col-sm-4 col-md-2 col-lg-2" style=" padding:5px;"> '+
                 '<div class="item  h-100">'+
-                    '<img src="/assets/p1.jpg" alt="">'+
-                    '<div class="product_name p-1">'+ value.LoyaltyRewardName +'</div>'+
-                    '<div class="r-points"> <label class="points">'+value.RequiredPoints+'</label> YAMAHA CLUB POINTS</div>'+
-                    '<button class="btn btn-sm btn-primary w-75 btn_redeem" id="'+value.LoyaltyRewardID+'">redeem</button> '+
+                    '<img src="'+imgPath+'" alt="">'+
+                    '<div class="product_name p-1">'+ value.name +'</div>'+
+                    '<div class="r-points"> <label class="points">'+value.points+'</label> YAMAHA CLUB POINTS</div>'+
+                    '<button class="btn btn-sm btn-primary w-75 btn_redeem" id="'+value.id+'">redeem</button> '+
                 '</div>'+
             '</div> '
         );
-        btnRedeem(value.LoyaltyRewardID);
+        btnRedeem(value.id);
         from++;
     });
 }

@@ -110,7 +110,7 @@ $(document).ready(function () {
 
 
     $('.formAdd').on('focus', '.chassisNo', function () {}).on('blur', '.chassisNo', function (e) {
-        console.log('chassisNo blur');
+        //console.log('chassisNo blur');
         var id = $(this).parent();
         var fieldID = this.id;
         var chassisID = $('#' + fieldID).val();
@@ -224,13 +224,13 @@ $(document).ready(function () {
 function appendRow() {
 
     //ADDING NEW ROW
-    console.log("al");
+    //console.log("al");
     var counter = 0;
 
     $(document).on('click', '.btnAdd', function () {
 
         counter++;
-        console.log('append');
+        //console.log('append');
         $('.formAdd').append('' +
             '<div class="' + counter + '">' +
             '<div class="row">' +
