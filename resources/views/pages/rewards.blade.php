@@ -102,7 +102,7 @@
 					</div> 
 				</div> 
 			</div>
-			<div class="row .items" id="items"> 
+			<div class="row .items p-3" id="items"> 
 				{{-- <div class="col-sm-4 col-md-2 col-lg-2" style=" padding:5px;"> 
 					<div class="item">
 						<img src="/assets/p1.jpg" alt="">
