@@ -146,12 +146,16 @@ function dataDisplayer(data, from) {
         var imgPath = api + value.img_path;
         //console.log(value);
         $('#items').append( 
-            '<div class="col-sm-4 col-md-2 col-lg-2" style=" padding:5px;"> '+
-                '<div class="item  h-100">'+
-                    '<img src="'+imgPath+'" alt="">'+
-                    '<div class="product_name p-1">'+ value.name +'</div>'+
-                    '<div class="r-points"> <label class="points">'+value.points+'</label> YAMAHA CLUB POINTS</div>'+
-                    '<button class="btn btn-sm btn-primary w-75 btn_redeem" id="'+value.id+'">redeem</button> '+
+            '<div class="col-sm-4 col-md-4 col-lg-3 col-xl-2" style=" padding:5px;"> ' +
+                '<div class="item  h-100 d-flex flex-column">' +
+                    '<img src="'+imgPath+'" class="img-fluid" alt="">'+
+                    '<div class="h-100 desc">'+
+                        '<div class="product_name p-1">'+ value.name +'</div>'+
+                        '<div class="r-points"> <label class="points">'+value.points+'</label> YAMAHA CLUB POINTS</div>'+
+                    '</div>'+
+                    '<div>'+
+                        '<button class="btn btn-sm btn-primary w-75 btn_redeem" id="'+value.id+'">redeem</button> '+
+                    '</div>'+
                 '</div>'+
             '</div> '
         );

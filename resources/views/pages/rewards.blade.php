@@ -10,16 +10,24 @@
 	}
 	.item > img{
 		display: block;
-		margin-left:  auto;
+		margin-left:  auto; 
 		margin-right:  auto;
 		width: 75%;
 		height:150px;
+		object-fit: scale-down;
 	}
+ 
 	.item > .product_name{
 		font-size: 1.2em;
 	}
-	.item > .r-points {
+	/* .item > .r-points {
 		font-size: .7em;
+	} */
+	.points{
+		font-weight: 700;
+	}
+	.r-points{
+		font-size: .8em;
 	}
 </style>
 
