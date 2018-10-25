@@ -883,10 +883,9 @@
 				</div>
 			</div>
 		</div>
-	</div> 
-<script>
-	// if ($("#cityComboBox").not(':visible')) {
-	// 	$('.select2').width("100%")};
-	</script>
+	</div>
+
+	{{-- API URL --}}
+	<input type="text" id="api_url" value="{{config('app.api_url')}}" hidden=""> 
 </body>
 </html>

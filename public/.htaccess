@@ -15,7 +15,7 @@
     RewriteRule ^ index.php [L]
 
     RewriteCond %{HTTPS} off
-    RewriteRule ^(.*)$ https://test-horedemption.yamahaclubph.com
+    RewriteRule ^(.*)$ https://test-loyalty.yamahaclubph.com
 
     # Handle Authorization Header
     RewriteCond %{HTTP:Authorization} .

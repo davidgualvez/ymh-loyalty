@@ -12,8 +12,9 @@
  * Date: 2015-04-28T16:01Z
  */
 
-var api = 'http://localhost:8000/api/';
-var genURL = 'http://localhost:8002/';
+//var api     = 'http://localhost:8000/api/';
+var api     = $('#api_url').val() + '/api/';
+var genURL  = 'http://localhost:8002/';
 
 (function (global, factory) {
 
