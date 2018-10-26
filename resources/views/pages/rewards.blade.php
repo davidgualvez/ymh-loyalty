@@ -23,6 +23,11 @@
 	/* .item > .r-points {
 		font-size: .7em;
 	} */
+	.product_name{
+		font-size: 1.2em;
+		font-weight: 700;
+	}
+
 	.points{
 		font-weight: 700;
 	}
