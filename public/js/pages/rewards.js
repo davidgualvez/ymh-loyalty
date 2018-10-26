@@ -154,7 +154,7 @@ function dataDisplayer(data, from) {
                         '<div class="r-points"> <label class="points">'+value.points+'</label> YAMAHA CLUB POINTS</div>'+
                     '</div>'+
                     '<div>'+
-                        '<button class="btn btn-sm btn-primary w-75 btn_redeem" id="'+value.id+'">redeem</button> '+
+                        '<button class="btn btn-sm btn-primary w-75 btn_redeem" id="'+value.id+'">Redeem</button> '+
                     '</div>'+
                 '</div>'+
             '</div> '
