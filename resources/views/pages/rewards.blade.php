@@ -109,7 +109,7 @@
 						<div class="product_name">test name</div>
 						<div class="r-points"> <label class="points">100</label> YAMAHA CLUB POINTS</div>
 						<button class="btn btn-sm btn-primary w-75">redeem</button> 
-					</div>   
+					</div>   //asdasd
 				</div>  --}}
 			 </div>
 			 <div class="row">
