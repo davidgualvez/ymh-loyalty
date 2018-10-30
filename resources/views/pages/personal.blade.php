@@ -77,7 +77,7 @@
 											<input id="barangay" type="text" class="form-control form-control-sm">
 										</div>
 									</div>
-									<div class="col-4">
+									{{-- <div class="col-4">
 										<div class="form-group">
 											<label>Region</label>
 											<input id="region" type="text" class="form-control form-control-sm">
@@ -93,6 +93,36 @@
 										<div class="form-group">
 											<label>City</label>
 											<input id="city" type="text" class="form-control form-control-sm">
+										</div>
+									</div> --}}
+									{{-- test --}}
+									<div class="col-4">
+										<div class="form-group">
+											<label for="regions">Region</label> 
+											<select class="form-control  form-control-sm" id="regions"> 
+											</select> 
+										</div>
+									</div>
+									<div class="col-4">
+										<div class="form-group">
+											<label for="provinces">Province</label> 
+											<select class="form-control  form-control-sm" id="provinces"> 
+											</select> 
+										</div>
+									</div>
+									<div class="col-4">
+										<div class="form-group">
+											<label for="cities">Cities</label> 
+											<select class="form-control  form-control-sm" id="cities"> 
+											</select> 
+										</div>
+									</div>
+									{{-- end of test --}}
+									<div class="col-12">
+										<div class="form-group">
+											<label for="cities">3S Shop</label> 
+											<select class="form-control  form-control-sm" id="sites"> 
+											</select> 
 										</div>
 									</div>
 									<div class="col-12">

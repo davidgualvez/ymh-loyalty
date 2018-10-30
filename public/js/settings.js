@@ -18,18 +18,22 @@ var routes = {
         changePassword :    '/api/user/account/change_password',
         motors :            '/api/user/motors',
         newMotor :          '/api/user/additionalMotor',
-        personalInfo :      '/api/user/personalInfo'
+        personalInfo :      '/api/user/personalInfo',
+        checkEmail:         '/api/check/user/email'
     },
     motor: {
         find : {
             // engineAndChassis:'/api/motor/check_by_engine_and_chassis'
         }
     },
-    rewards:                '/api/reward/index',
-    reward:                 '/api/reward/show', //{id} append the id of reward
-    rewards_manufacturer:   '/api/reward/manufacturer',
-    redemption:             '/api/user/redemption',
-    userRedemptionHistory:  '/api/user/redemption/history'
+    sites : {
+        findByProvinceId:   '/api/site/by/province/'     // {id}
+    },
+    rewards:                '/api/reward/index', 
+    reward:                 '/api/reward/show', // {id} append the id of reward
+    rewards_manufacturer:   '/api/reward/manufacturer', 
+    redemption:             '/api/user/redemption', 
+    userRedemptionHistory:  '/api/user/redemption/history' 
 };
 
 //

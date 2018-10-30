@@ -31,7 +31,9 @@ function loadUserInfo(){
         }
         $('#name').html(response.data.name);
         $('#card_number').html(response.data.card_number);
-        $('#expiry_date').html(response.data.expiry_date);
+        //exp date
+        var date = moment(response.data.expiry_date);
+        $('#expiry_date').html(date.format('llll'));
         $('#current_points').html(response.data.current_points);
         // remove the loading indicator 
         $('.user-profile').preloader('remove');
@@ -213,7 +215,7 @@ function redeemDataDisplayer(data, from) {
             status = '<span class="badge badge-danger">Undefined</span>';     //danger
         }
 
-        var date = moment(value.created_at);
+        var date = moment(value.created_at.date);
         $('#redeem_list').append(
             '<tr data-id="' + from + '">' +
             '<th scope="row">' + from + '</th>' +
