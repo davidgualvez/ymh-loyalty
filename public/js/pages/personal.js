@@ -141,7 +141,7 @@ function loadProvinces(region_id){
         if(value.RegionID == region_id){ 
             x.append('<option value="' + value.ProvinceID + '">' + value.ProvinceName + '</option>');
         }
-
+ 
         if (provinces.provinces.length == key + 1) { 
             loadCities($('#provinces').val());
         }
