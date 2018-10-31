@@ -14,7 +14,8 @@ var routes = {
     transactions:           '/api/user/earned_points_history',
     userInfo:               '/api/user/user_info',
     user : {
-        account :           '/api/user/account', //param ( token )
+        patchInfo:          '/api/user', // patch/update the record
+        account :           '/api/user/account', // param ( token )
         changePassword :    '/api/user/account/change_password',
         motors :            '/api/user/motors',
         newMotor :          '/api/user/additionalMotor',
@@ -27,7 +28,7 @@ var routes = {
         }
     },
     sites : {
-        findByProvinceId:   '/api/site/by/province/'     // {id}
+        findByRegioinId:   '/api/site/by/region/'     // {id}
     },
     rewards:                '/api/reward/index', 
     reward:                 '/api/reward/show', // {id} append the id of reward
@@ -178,8 +179,8 @@ function validateEmail(email) {
 }
 
 function validateContactNumber(value){ 
-  var regEx = /^([ 0-9\(\)\+\-]{8,})*$/; // accept any phone or mobile number
-  //var regEx = /^(09|\+639)\d{9}$/;  // accept only PH Mobile number
+  //var regEx = /^([ 0-9\(\)\+\-]{8,})*$/; // accept any phone or mobile number
+  var regEx = /^(09|\+639)\d{9}$/;  // accept only PH Mobile number
   if (!value.match(regEx)){
     return false;
   } 

@@ -20,9 +20,12 @@ $(document).ready(function(){
     setTimeout(() => {
         loadInformation();
     }, 500);
+
+    saveChanges();
 });
 
 //globals
+var shopTrigger = 0;
 var user_email = null;
 var regions = [];
 var provinces = [];
@@ -57,10 +60,17 @@ function loadInformation(){
         loadProvinces(response.data.region.id);
         setTimeout(() => {
             $('#provinces').val(response.data.province.id);
-
+            
             loadCities(response.data.province.id);
             setTimeout(() => {
                 $('#cities').val(response.data.city.id);
+
+
+                loadSites(response.data.region.id);
+                setTimeout(() => {
+                    $('#sites').val(response.data.shop.id);
+                }, 500);
+                shopTrigger = 1;
             }, 200);
         }, 200);
         //------------
@@ -131,6 +141,12 @@ function regionOnChange(){
     $('#regions').on('change',function(){   
         var id = $('#regions').val();
         loadProvinces(id);
+
+        if (shopTrigger == 1) {
+            setTimeout(() => {
+                loadSites(id);
+            }, 300);
+        }
     });
 }
 
@@ -149,12 +165,15 @@ function loadProvinces(region_id){
 
     //
     //loadCities( $('cities').val() ); 
+    
+    
 }
 
 function provinceOnChange(){
     $('#provinces').on('change', function(){ 
         var id = $('#provinces').val();
-        loadCities(id);
+        
+        loadCities(id); 
     });
 }
 
@@ -168,14 +187,189 @@ function loadCities(province_id) {
     });
 }
 
-function loadSites(){
-    var id = $('#provinces').val();
-    get(routes.sites.findByProvinceId + id ,{}, function(response){
+function loadSites(id){
+    //var id = $('#provinces').val();
+    get(routes.sites.findByRegioinId + id ,{}, function(response){
         console.log(response);
         var x = $('#sites');
         x.empty();
         $.each(response.data , function (key, value) { 
             x.append('<option value="' + value.LoyaltySiteID + '">' + value.LoyaltySiteName + '</option>');
+        }); 
+    }); 
+}
+
+
+function saveChanges(){
+    $('#btnSave').on('click', function(){
+        console.log('you click save...');
+        //firstname
+        var first_name = $('#first_name');
+        if(first_name.val().trim() == '' || first_name.val() == null ){ 
+            showWarning('','Firstname is required',function(){
+
+            });
+            first_name.val('');
+            first_name.focus();
+            return;
+        }
+
+        //middlename
+        var middle_name = $('#middle_name');
+        if(middle_name.val().trim() == '' || middle_name.val() == null ){ 
+            showWarning('','Middlename is required', function(){
+
+            });
+            middle_name.val('');
+            middle_name.focus();
+            return;
+        }
+
+        //lastname
+        var last_name = $('#last_name');
+        if (last_name.val().trim() == '' || last_name.val() == null) {
+            showWarning('', 'Lastname is required', function () {
+
+            });
+            last_name.val('');
+            last_name.focus();
+            return;
+        }
+
+        //birthday
+        var bdate = new Date($('#bdate').val());
+        var today = new Date();
+        var age = today.getFullYear() -  bdate.getFullYear();
+        if( age < 18 ){
+            showWarning('','You must be atleast 18y/o.', function(){
+
+            });
+            $('#bdate').focus();
+            return;
+        } 
+
+        //emailaddress
+        var email_address = $('#email_address');
+        //console.log(validateEmail(email_address.val()));
+        if (!validateEmail(email_address.val())){
+            showWarning('', 'Invalid Email address.', function () {
+
+            });
+            email_address.focus();
+            return;
+        }
+
+        //mobilenumber
+        var mobile_number = $('#mobile_number');
+        if (!validateContactNumber(mobile_number.val())){
+            showWarning('', 'Invalid Mobile number.', function(){
+
+            });
+            mobile_number.focus();
+            return;
+        }
+
+        //homenumber
+        var contact_number = $('#contact_number');
+        if(contact_number.val().trim() == '' || contact_number.val() == null){
+            showWarning('','Home number is required.', function(){
+
+            });
+            contact_number.focus();
+            return;
+        }
+
+        //street
+        var street = $('#street');
+        if(street.val().trim() == '' || street.val() == null){
+            showWarning('','Street is required.',function(){
+
+            });
+            street.focus();
+            return;
+        }
+
+        //barangay
+        var barangay = $('#barangay');
+        if (barangay.val().trim() == '' || barangay.val() == null){
+            showWarning('','Barangay is required.', function(){
+
+            });
+            barangay.focus();
+            return;
+        }
+
+        //region
+        var regions = $('#regions');
+        if (regions.val() == '' || regions.val() == null){
+            showWarning('','Region is required',function(){
+
+            });
+            return;
+        }
+
+        //province
+        var provinces = $('#provinces');
+        if (provinces.val() == '' || provinces.val() == null){
+            showWarning('','Province is required.', function(){
+
+            });
+            return;
+        }
+
+        //city
+        var cities = $('#cities');
+        if (cities.val() == '' || cities.val() == null){
+            showWarning('','City is required.', function(){
+
+            });
+            return;
+        }
+
+        //3s Shop
+        var sites = $('#sites');
+        if (sites.val() == '' || sites.val() == null){
+            showWarning('','Shop is required.', function(){
+
+            });
+            return;
+        }
+
+        //get all the data from above
+        var data = {
+            '_method'           : 'PATCH',
+            'first_name'        : first_name.val(),
+            'middle_name'       : middle_name.val(),
+            'last_name'         : last_name.val(),
+            'bdate': $('#bdate').val(),
+            'email_address'     : email_address.val(),
+            'mobile_number'     : mobile_number.val(),
+            'contact_number'    : contact_number.val(),
+            'street'            : street.val(),
+            'barangay'          : barangay.val(),
+            'region_id'         : regions.val(),
+            'province_id'       : provinces.val(),
+            'city_id'           : cities.val(),
+            'shop_id'           : sites.val()
+        };      
+ 
+        patchInfo(data);
+    });
+}
+
+
+function patchInfo(data){
+    postWithHeader(routes.user.patchInfo, data, function(response){
+        console.log(response);
+        if(response.success == false){
+            showWarning('',response.message, function(){
+
+            });
+            return;
+        }
+
+        showSuccess('','Changes has been save.',function(){
+
         });
     });
 }

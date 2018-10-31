@@ -125,16 +125,16 @@
 											</select> 
 										</div>
 									</div>
-									<div class="col-12">
+									{{-- <div class="col-12">
 										<div class="form-group">
 											<label>3S Shop</label>
 											<input id="site" type="text" class="form-control form-control-sm">
 										</div>
-									</div>
+									</div> --}}
 								</div>
 				    		</div>
 				    		<div class="col-sm-12 col-md-12">
-				    			<button class="btn btn-sm btn-primary">Save changes</button>
+				    			<button class="btn btn-sm btn-primary" id="btnSave">Save changes</button>
 				    			<a href="/profile" class="btn btn-sm btn-primary">Back</a> 
 				    		</div>
 				    	</div> 
