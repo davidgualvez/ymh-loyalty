@@ -75,13 +75,13 @@
 					
 				</div>
 				<div class="col-sm-6 col-md-12"> 
-					 <div style="text-align:center; margin: 10px 0px 10px 0px; border:1px solid gray; padding:10px;">
+					 <div id="top_redeemable" style="display:none; text-align:center; margin: 10px 0px 10px 0px; border:2px solid gray; padding:10px;">
 						 <h6>TOP REDEEMABLE ITEM</h6>
-						 <img src="/assets/clubcard.jpg" alt="" class="w-100" height="150">
-						 <strong>NOT YET WORKING (Php500)</strong> 
-						 <div>100 yamaha points</div>
-						 <div style="padding:0px 20px 0px 20px;">
-							<button class="btn btn-sm btn-seconday w-100">Redeem</button>
+						 <img id="tr_img" src="/assets/clubcard.jpg" alt="" class="w-100" height="150">
+						 <strong id="tr_title">...</strong> 
+						 <div id="tr_points" style="font-size: .8em;">...</div>
+						 <div style="padding:0px 20px 0px 20px;"> 
+							<button id="tr_button" class="btn btn-sm btn-seconday w-100">Redeem</button>
 						 </div>
 					 </div>
 				</div>

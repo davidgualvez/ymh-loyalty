@@ -357,7 +357,7 @@ function saveChanges(){
     });
 }
 
-
+ 
 function patchInfo(data){
     postWithHeader(routes.user.patchInfo, data, function(response){
         console.log(response);

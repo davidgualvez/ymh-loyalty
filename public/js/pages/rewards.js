@@ -6,13 +6,14 @@ $(document).ready(function(){
     btnSearch();
     sortOnChange();
     loadManufacturer();
-
+    loadTopRedeemable();
 
     paginate();
     btnNext();
     btnPrev();
     limitOnChange();
     dataDisplayer(); 
+    
 });
 
 
@@ -168,6 +169,28 @@ function dataDisplayer(data, from) {
 function btnRedeem(id){
     $('.btn_redeem#'+id).on('click',function(){
         redirectTo('/shop/reward?id='+this.id);
+    });
+}
+
+function loadTopRedeemable(){
+    var tr = $('#top_redeemable');
+    postWithHeader(routes.topRedeemable,{},function(response){ 
+        console.log(response);
+        if(response.success == false){
+            tr.hide();
+            return;
+        } 
+        tr.show();
+        var imgPath = response.data.base_url + response.data.img_path;
+        tr.children().first().next().attr('src',imgPath);
+        tr.children().first().next().next().text(response.data.name);
+        tr.children().first().next().next().next().text(response.data.points + ' YAMAHA CLUB POINTS');
+        btnTopRedeemable(response.data.id);
+    });
+}
+function btnTopRedeemable(id) {
+    $('#tr_button').on('click', function () {
+        redirectTo('/shop/reward?id=' + id);
     });
 }
 

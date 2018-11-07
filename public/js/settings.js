@@ -34,7 +34,8 @@ var routes = {
     reward:                 '/api/reward/show', // {id} append the id of reward
     rewards_manufacturer:   '/api/reward/manufacturer', 
     redemption:             '/api/user/redemption', 
-    userRedemptionHistory:  '/api/user/redemption/history' 
+    userRedemptionHistory:  '/api/user/redemption/history',
+    topRedeemable:          '/api/reward/top/redeemable' //param ( token )
 };
 
 //

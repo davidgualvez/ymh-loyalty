@@ -55,18 +55,16 @@
 			</div>
 			<div class="col-md-4 col-sm-5 mt-3">
 
-				<div class="card w-75 custom mx-auto" >
+				<div style="display:none;" id="top_redeemable" class="card w-75 custom mx-auto" >
 					<div class="card-header text-center">
 						TOP REDEEMABLE ITEM
 					</div>
 					<img class="card-img-top h-100" src="/assets/clubcard3.png" width="" alt="Card image cap">
 					<div class="card-body text-center">
-						<div class="card-title">
-							NOT YET WORKING 
-							(PHP 0.00)
+						<div class="card-title"> 
 						</div>
-						<p class="card-text">0.00 YAMAHA CLUB POINTS</p>
-						<a href="" class="btn btn-sm btn-block btn-primary">Redeem</a>
+						<p class="card-text">YAMAHA CLUB POINTS</p>
+						<button id="tr_button" class="btn btn-sm btn-block btn-primary">Redeem</button> 
 					</div>
 				</div>
 			</div>

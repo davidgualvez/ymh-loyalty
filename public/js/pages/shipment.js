@@ -27,7 +27,9 @@ $(document).ready(function(){
     };
     $("#regions").easyAutocomplete(regionList); 
  	regionOnChange();
- 	cityOnChange();
+	cityOnChange();
+
+	loadTopRedeemable();
 });
 	
 //global
@@ -189,5 +191,28 @@ function redemption(data){
 			//place some code here if you want another after closing this message
 			redirectTo('/');
 		}); 
+	});
+}
+
+function loadTopRedeemable() {
+	var tr = $('#top_redeemable');
+	postWithHeader(routes.topRedeemable, {}, function (response) {
+		console.log(response);
+		if (response.success == false) {
+			tr.hide();
+			return;
+		}
+		tr.show();
+		var imgPath = response.data.base_url + response.data.img_path;
+		tr.children().first().next().attr('src', imgPath);
+		tr.children().first().next().next().children().first().text(response.data.name);
+		tr.children().first().next().next().children().first().next().text(response.data.points + ' YAMAHA CLUB POINTS');
+		btnTopRedeemable(response.data.id);
+	});
+}
+
+function btnTopRedeemable(id) {
+	$('#tr_button').on('click', function () {
+		redirectTo('/shop/reward?id=' + id);
 	});
 }
