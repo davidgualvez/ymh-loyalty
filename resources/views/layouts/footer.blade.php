@@ -15,17 +15,17 @@
 				<h4 class="to-upper pl-3">Site Map</h4>
 				<div class="mt-4">
 					<ul class="mt-3" style="list-style-type: square;">
-						<li><a href="">About Us</a></li>
-						<li><a href="">Contact Us</a></li>
-						<li><a href="">Gallery</a></li>
-						<li><a href="">News</a></li>
-						<li><a href="">Accredited Groups</a></li>
-						<li><a href="">Yamaha 3S Shops</a></li>
-						<li><a href="">Sign Up</a></li>
-						<li><a href="">Login</a></li>
-						<li><a href="">Faqs</a></li>
-						<li><a href="">Privacy Policy</a></li>
-						<li><a href="">Terms and Conditions</a></li>
+						<li><a href="https://www.yamahaclub.com.ph/about-us/">About Us</a></li>
+						<li><a href="https://www.yamahaclub.com.ph/contacts/">Contact Us</a></li>
+						<li><a href="https://www.yamahaclub.com.ph/media/">Gallery</a></li>
+						<li><a href="https://www.yamahaclub.com.ph/news/">News</a></li>
+						<li><a href="https://www.yamahaclub.com.ph/yclub-subroup/">Accredited Groups</a></li>
+						<li><a href="https://www.yamahaclub.com.ph/3s-shop/">Yamaha 3S Shops</a></li>
+						<li><a href="/signup">Sign Up</a></li>
+						<li><a href="/login">Login</a></li>
+						<li><a href="https://www.yamahaclub.com.ph/faq/">Faqs</a></li>
+						<li><a href="https://www.yamahaclub.com.ph/yamaha-club-privacy-policy/">Privacy Policy</a></li>
+						<li><a href="#">Terms and Conditions</a></li>
 					</ul>
 				</div>
 
