@@ -47,12 +47,12 @@
                                 <input type="text" class="form-control " id="chassis_number" aria-describedby="card_number" placeholder="Enter Chassis Number">
                             </div>  
                         </div>
-                        <div class="form-group row">
+                        {{-- <div class="form-group row"> 
                             <label class="col-md-3 text-right" for="x">Email Adress</label>
                             <div class="col-md-9">
                                 <input type="email" class="form-control " id="email_address" aria-describedby="card_number" placeholder="Enter Email Adress">
-                            </div>  
-                        </div>
+                            </div>   
+                        </div> --}}
                         <div class="form-group row">
                             <label class="col-md-3 text-right" for="x">New Password</label>
                             <div class="col-md-9">

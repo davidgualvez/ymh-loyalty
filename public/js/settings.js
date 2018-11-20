@@ -1,8 +1,9 @@
 $(document).ready(function () { 
+    showMenus();
+
     $('#logout').on('click', function () {
         logout();
-    });
-
+    }); 
 });
 
 //global variable for all page
@@ -10,7 +11,7 @@ var api = $('#api_url').val();
 var lbcTrackingRoute = 'https://www.lbcexpress.com/track/?tracking_no='; //append the tracking number
 var routes = {
     login:                  '/api/user/login',
-    forgot_password:        '/api/user/forgot_password',
+    forgot_password:        '/api/user/forgot_password', 
     transactions:           '/api/user/earned_points_history',
     userInfo:               '/api/user/user_info',
     user : {
@@ -186,4 +187,35 @@ function validateContactNumber(value){
     return false;
   } 
   return true;
+}
+
+function showMenus(){
+    if(isLogin()){
+        $('#nav-menu').append( 
+            '<li class="nav-item" id="nav-home">'+
+                '<a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>'+
+            '</li> '+
+            '<li class="nav-item" >'+
+                '<a class="nav-link" href="#">How to Redeem</a>'+
+            '</li>'+
+            '<li class="nav-item" >'+
+                '<a class="nav-link" href="/shop">Shop</a>'+
+            '</li>'+
+            '<li class="nav-item" >'+
+                '<a class="nav-link" href="#" id="logout">Logout</a>'+
+            '</li>'
+        )
+    }else{
+        $('#nav-menu').append(  
+            '<li class="nav-item" >'+
+                '<a class="nav-link" href="#">How to Redeem</a>'+
+            '</li>'+
+            '<li class="nav-item" >'+
+                '<a class="nav-link" href="/shop">Shop</a>'+
+            '</li>'+
+            '<li class="nav-item" >'+
+                '<a class="nav-link" href="/login">Login</a>'+
+            '</li>'
+        )
+    }
 }

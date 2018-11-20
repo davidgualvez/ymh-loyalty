@@ -1,9 +1,11 @@
 $(document).ready(function () {
     if (readCookie('token') != null) {
         // console.log("test");
-        window.location.href = 'redeemHistory.html';
+        window.location.href = '/';
         return;
-    } else {}
+    } else {
+    	
+    }
 
     // createCookie('usernameCheck', 'false', 1);
     // createCookie('emailCheck', 'false', 1);

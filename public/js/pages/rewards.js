@@ -1,6 +1,6 @@
 $(document).ready(function(){
     if(!isLogin()){
-        redirectTo('/login')
+        //redirectTo('/login')
     }
 
     btnSearch();
@@ -20,7 +20,7 @@ $(document).ready(function(){
 function btnSearch(){
     $('#btn_search').on('click',function(){
         paginate();
-    });
+    }); 
 }
 
 function sortOnChange(){
@@ -168,6 +168,12 @@ function dataDisplayer(data, from) {
 
 function btnRedeem(id){
     $('.btn_redeem#'+id).on('click',function(){
+
+        if(!isLogin()){
+            redirectTo('/login')
+            return;
+        }
+
         redirectTo('/shop/reward?id='+this.id);
     });
 }
@@ -188,8 +194,15 @@ function loadTopRedeemable(){
         btnTopRedeemable(response.data.id);
     });
 }
+
 function btnTopRedeemable(id) {
     $('#tr_button').on('click', function () {
+
+        if(!isLogin()){
+            redirectTo('/login')
+            return;
+        }
+
         redirectTo('/shop/reward?id=' + id);
     });
 }

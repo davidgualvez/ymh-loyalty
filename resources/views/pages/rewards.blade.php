@@ -35,7 +35,6 @@
 		font-size: .8em;
 	}
 </style>
-
 @endsection
 
 @section('content') 

@@ -4,7 +4,7 @@ $(document).ready(function(){
     }
 
     btnSubmit();
-});
+}); 
 
 function btnSubmit(){
     $('#btn_submit').on('click',function(){ 
@@ -30,17 +30,18 @@ function btnSubmit(){
             return;
         } 
 
-        var email_address = $('#email_address').val();
-        if(email_address == '' || email_address == null){
-            showWarning('', 'Email address is required!', function () { 
-            });
-            return;
-        }
-        if (!validateEmail(email_address)){
-            showWarning('', 'Invalid Email address!', function () { 
-            });
-            return;
-        }
+        // var email_address = $('#email_address').val();
+        // if(email_address == '' || email_address == null){
+        //     showWarning('', 'Email address is required!', function () { 
+        //     });
+        //     return;
+        // }
+
+        // if (!validateEmail(email_address)){
+        //     showWarning('', 'Invalid Email address!', function () { 
+        //     });
+        //     return;
+        // }
         
         var new_password = $('#new_password').val();
         if(new_password == '' || new_password == null){
@@ -52,7 +53,12 @@ function btnSubmit(){
             return;
         }
         
-        forgotPassword(card_number,engine_number,chassis_number,email_address,new_password);
+        forgotPassword(
+            card_number,
+            engine_number,
+            chassis_number,
+            // email_address,
+            new_password);
     });
 }
 
@@ -60,16 +66,16 @@ function forgotPassword(
     card_number,
     engine_number,
     chassis_number,
-    email_address,
+    // email_address,
     new_password
 ){
     var data = {
         card_number     : card_number, 
         engine_number   : engine_number, 
         chassis_number  : chassis_number, 
-        email_address   : email_address, 
+        // email_address   : email_address, 
         new_password    : new_password
-    };
+    }; 
 
     post(routes.forgot_password, data, function(response){
         console.log(response);
